@@ -1,2 +1,2 @@
 # hikepy-gpx
-GPX Tracks
+GPX Tracks, Routes, and Waypoints.
