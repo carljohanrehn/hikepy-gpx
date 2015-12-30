@@ -1,0 +1,3421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1"
+     creator="Carl Johan Rehn">
+    <metadata>
+        <name>Skarpnäckstråket A</name>
+        <desc>Stråket - totalt 7 km - går från Skarpnäck via Bagarmossen, Kärrtorp och Björkhagen till Hammarby
+            Sjöstad.
+        </desc>
+        <author>
+            <name>Carl Johan Rehn</name>
+            <email id="care02" domain="gmail.com"/>
+            <link href="https://github.com/carljohanrehn/hikepy-gpx"></link>
+        </author>
+        <copyright author="Carl Johan Rehn">
+            <year>2015</year>
+            <license>http://opendatacommons.org/licenses/odbl/1.0/</license>
+        </copyright>
+        <link href="http://www.openstreetmap.org/copyright/">
+            <text>(c) OpenStreetMap contributors</text>
+            <type>OpenStreetMap Copyright and License</type>
+        </link>
+        <keywords>Bebyggelse från olika årtionden av 1900-talet, Skarpnäcksstaden 80-talet, Bagarmossen 50- och
+            70-talet, Kärrtorp 40- och 50-talet, Björkhagen 50- och 60-talet, Hammarbyhöjden 30- och 40-talet,
+            träbryggor längs Sickla kanal genom Hammarby Sjöstad.
+        </keywords>
+    </metadata>
+    <wpt lat="59.28472222" lon="18.11333333">
+        <name>Kärrtorp</name>
+        <cmt>Skarpnäcks stadsdelsområde. Stadsdelar i Stockholm. Kärrtorp.</cmt>
+        <desc>Kärrtorp</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kärrtorp">
+            <text>Kärrtorp</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31166667" lon="18.10444444">
+        <name>Anders Franzéns park</name>
+        <cmt>Parker i Stockholms kommun. Södra Hammarbyhamnen.</cmt>
+        <desc>Anders Franzéns park</desc>
+        <link href="http://sv.wikipedia.org/wiki/Anders_Franzéns_park">
+            <text>Anders Franzéns park</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30091389" lon="18.09015278">
+        <name>Fryshuset</name>
+        <cmt>Södra Hammarbyhamnen. Konsertscener i Stockholm. Utbildning i Stockholm.</cmt>
+        <desc>Fryshuset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Fryshuset">
+            <text>Fryshuset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30694444" lon="18.10861111">
+        <name>Lugnets industriområde</name>
+        <cmt>Södra Hammarbyhamnen. Historiska industriområden i Stockholm. Illustrationsbehov-Stockholms historia.</cmt>
+        <desc>Lugnets industriområde</desc>
+        <link href="http://sv.wikipedia.org/wiki/Lugnets_industriområde">
+            <text>Lugnets industriområde</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28002167" lon="18.10813904">
+        <name>Mistral (restaurang)</name>
+        <cmt>Vinnare av Gulddraken. Restauranger i Stockholm. Restauranger i Sverige som tidigare haft stjärnor i
+            Michelinguiden.
+        </cmt>
+        <desc>Mistral (restaurang)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Mistral_(restaurang)">
+            <text>Mistral (restaurang)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30361667" lon="18.08932222">
+        <name>Hammarby gård</name>
+        <cmt>Ej längre existerande byggnader i Söderort. Södra Hammarbyhamnen.</cmt>
+        <desc>Hammarby gård</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarby_gård">
+            <text>Hammarby gård</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28777778" lon="18.12194444">
+        <name>Understenshöjden</name>
+        <cmt>Björkhagen. Stadsplanering i Stockholm. Ekobyar i Sverige. Kvarter i Stockholm. Experimentkvarter.
+            Bostadshus. Arkitektur.
+        </cmt>
+        <desc>Understenshöjden</desc>
+        <link href="http://sv.wikipedia.org/wiki/Understenshöjden">
+            <text>Understenshöjden</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.26666667" lon="18.12388889">
+        <name>Skarpnäcks folkhögskola</name>
+        <cmt>Utbildningsinstitutioner bildade 1990. Folkhögskolor i Sverige.</cmt>
+        <desc>Skarpnäcks folkhögskola</desc>
+        <link href="http://sv.wikipedia.org/wiki/Skarpnäcks_folkhögskola">
+            <text>Skarpnäcks folkhögskola</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30595016" lon="18.10087776">
+        <name>Södra Hammarbyhamnen</name>
+        <cmt>Ej uppdaterad 2014-04. Ej uppdaterad-samtliga. Stadsdelar i Stockholm.</cmt>
+        <desc>Södra Hammarbyhamnen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södra_Hammarbyhamnen">
+            <text>Södra Hammarbyhamnen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27723312" lon="18.13290024">
+        <name>Bagarmossens kyrka</name>
+        <cmt>Religiösa byggnader invigda 2001. Bagarmossen. Kyrkobyggnader i Stockholms stift. Kyrkobyggnader i
+            Söderort.
+        </cmt>
+        <desc>Bagarmossens kyrka</desc>
+        <link href="http://sv.wikipedia.org/wiki/Bagarmossens_kyrka">
+            <text>Bagarmossens kyrka</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30556389" lon="18.12183333">
+        <name>Stockholms läns museum</name>
+        <cmt>Museer i Stockholm. Länsmuseer i Sverige. Museer i Stockholms län. Byggnader i Nacka kommun.</cmt>
+        <desc>Stockholms läns museum</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stockholms_läns_museum">
+            <text>Stockholms läns museum</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3033" lon="18.09153889">
+        <name>Hammarby, Stockholm</name>
+        <cmt>Södra Hammarbyhamnen. Söderort.</cmt>
+        <desc>Hammarby, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarby,_Stockholm">
+            <text>Hammarby, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.299325" lon="18.12156111">
+        <name>Lilla Sickla</name>
+        <cmt>Engelska parker i Sverige. Byggnader i Söderort. Björkhagen.</cmt>
+        <desc>Lilla Sickla</desc>
+        <link href="http://sv.wikipedia.org/wiki/Lilla_Sickla">
+            <text>Lilla Sickla</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28644444" lon="18.11308056">
+        <name>Kärrtorps gymnasium</name>
+        <cmt>Gymnasieskolor i Stockholm. Utbildningsinstitutioner bildade 1958. Kärrtorp.</cmt>
+        <desc>Kärrtorps gymnasium</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kärrtorps_gymnasium">
+            <text>Kärrtorps gymnasium</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30361111" lon="18.12583333">
+        <name>Tallbacken, Nacka kommun</name>
+        <cmt>Sicklaön. Nacka kommun.</cmt>
+        <desc>Tallbacken, Nacka kommun</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tallbacken,_Nacka_kommun">
+            <text>Tallbacken, Nacka kommun</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28083333" lon="18.11111111">
+        <name>Kvarteret Mursmäckan</name>
+        <cmt>Byggnader i Söderort. Årets Stockholmsbyggnad.</cmt>
+        <desc>Kvarteret Mursmäckan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kvarteret_Mursmäckan">
+            <text>Kvarteret Mursmäckan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27957153" lon="18.11616898">
+        <name>Vita sten</name>
+        <cmt>Fornminnen i Stockholms kommun. Flyttblock. Söderort.</cmt>
+        <desc>Vita sten</desc>
+        <link href="http://sv.wikipedia.org/wiki/Vita_sten">
+            <text>Vita sten</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30833333" lon="18.09611111">
+        <name>Barnängsparken</name>
+        <cmt>Parker i Stockholms kommun. Södermalm.</cmt>
+        <desc>Barnängsparken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Barnängsparken">
+            <text>Barnängsparken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31118333" lon="18.093775">
+        <name>Tengdahlsparken</name>
+        <cmt>Parker i Stockholms kommun.</cmt>
+        <desc>Tengdahlsparken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tengdahlsparken">
+            <text>Tengdahlsparken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30666733" lon="18.09527779">
+        <name>Hammarbyleden</name>
+        <cmt>Kanaler i Sverige. Södermalm. Sjöfart i Stockholm. Södra Hammarbyhamnen.</cmt>
+        <desc>Hammarbyleden</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarbyleden">
+            <text>Hammarbyleden</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3075" lon="18.09194444">
+        <name>Vintertullen</name>
+        <cmt>Södermalm. Illustrationsbehov-Stockholms historia. Historiska tullar i Stockholm.</cmt>
+        <desc>Vintertullen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Vintertullen">
+            <text>Vintertullen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30819722" lon="18.09030833">
+        <name>Orionteatern</name>
+        <cmt>Teaterinstitutioner och teatergrupper. Kultur och konst i Stockholm. Teatrar i Stockholm. Byggnader på
+            Södermalm.
+        </cmt>
+        <desc>Orionteatern</desc>
+        <link href="http://sv.wikipedia.org/wiki/Orionteatern">
+            <text>Orionteatern</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29477778" lon="18.10333333">
+        <name>Hammarbyhöjden (tunnelbanestation)</name>
+        <cmt>Stockholms tunnelbanestationer. Hammarbyhöjden. Järnvägsstationer invigda 1958.</cmt>
+        <desc>Hammarbyhöjden (tunnelbanestation)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarbyhöjden_(tunnelbanestation)">
+            <text>Hammarbyhöjden (tunnelbanestation)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28401389" lon="18.10328056">
+        <name>Kärringstan</name>
+        <cmt>Enskededalen.</cmt>
+        <desc>Kärringstan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kärringstan">
+            <text>Kärringstan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30588056" lon="18.09436944">
+        <name>Lumafabriken</name>
+        <cmt>Södra Hammarbyhamnen. Sveriges industrihistoria. Industribyggnader i Sverige. Industriområden i Stockholm.
+            Funktionalistisk arkitektur. Byggnader i Hammarby sjöstad.
+        </cmt>
+        <desc>Lumafabriken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Lumafabriken">
+            <text>Lumafabriken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28333282" lon="18.10124969">
+        <name>Enskededalen</name>
+        <cmt>Trädgårdsstäder i Stockholm. Enskededalen. Skarpnäcks stadsdelsområde. Stadsdelar i Stockholm.</cmt>
+        <desc>Enskededalen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Enskededalen">
+            <text>Enskededalen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3075" lon="18.10066667">
+        <name>Hammarby sjö</name>
+        <cmt>Södermalm. Södra Hammarbyhamnen.</cmt>
+        <desc>Hammarby sjö</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarby_sjö">
+            <text>Hammarby sjö</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30305556" lon="18.1075">
+        <name>Sickla kanal</name>
+        <cmt>Kanaler i Sverige. Sicklaön. Sickla kanals avrinningsområde. Södra Hammarbyhamnen.</cmt>
+        <desc>Sickla kanal</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla_kanal">
+            <text>Sickla kanal</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30266667" lon="18.10888889">
+        <name>Sickla sluss</name>
+        <cmt>Sicklaön. Södra Hammarbyhamnen.</cmt>
+        <desc>Sickla sluss</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla_sluss">
+            <text>Sickla sluss</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30456111" lon="18.09104444">
+        <name>Hammarby sjöstad</name>
+        <cmt>Sienapriset. Södermalms stadsdelsområde. Södra Hammarbyhamnen.</cmt>
+        <desc>Hammarby sjöstad</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarby_sjöstad">
+            <text>Hammarby sjöstad</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31176111" lon="18.09867778">
+        <name>Stockholms Spårvägsmuseum</name>
+        <cmt>Spårvägsmuseer. Museer i Stockholm. Teknikmuseer i Sverige. Södermalm. Museer invigda 1944. Spårtrafik.
+        </cmt>
+        <desc>Stockholms Spårvägsmuseum</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stockholms_Spårvägsmuseum">
+            <text>Stockholms Spårvägsmuseum</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27611111" lon="18.13138889">
+        <name>Bagarmossen (tunnelbanestation)</name>
+        <cmt>Bagarmossen. Järnvägsstationer invigda 1958. Stockholms tunnelbanestationer.</cmt>
+        <desc>Bagarmossen (tunnelbanestation)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Bagarmossen_(tunnelbanestation)">
+            <text>Bagarmossen (tunnelbanestation)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28583333" lon="18.12305556">
+        <name>Kärrtorps IP</name>
+        <cmt>Sportanläggningar i Stockholms län. Sportanläggningar invigda 1966. Kärrtorp.</cmt>
+        <desc>Kärrtorps IP</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kärrtorps_IP">
+            <text>Kärrtorps IP</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29055556" lon="18.11555556">
+        <name>Björkhagen (tunnelbanestation)</name>
+        <cmt>Stockholms tunnelbanestationer. Björkhagen. Järnvägsstationer invigda 1958.</cmt>
+        <desc>Björkhagen (tunnelbanestation)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Björkhagen_(tunnelbanestation)">
+            <text>Björkhagen (tunnelbanestation)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.26680556" lon="18.13333333">
+        <name>Skarpnäck (tunnelbanestation)</name>
+        <cmt>Skarpnäcks gård. Järnvägsstationer invigda 1994. Stockholms tunnelbanestationer.</cmt>
+        <desc>Skarpnäck (tunnelbanestation)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Skarpnäck_(tunnelbanestation)">
+            <text>Skarpnäck (tunnelbanestation)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30764167" lon="18.089825">
+        <name>Kvarteret Hamnvakten</name>
+        <cmt>Södermalm. Kvarter i Stockholm.</cmt>
+        <desc>Kvarteret Hamnvakten</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kvarteret_Hamnvakten">
+            <text>Kvarteret Hamnvakten</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.2675" lon="18.12861111">
+        <name>Markusplatsen (Skarpnäck)</name>
+        <cmt>Skarpnäcks stadsdelsområde. Byggnader i Söderort. Kyrkobyggnader i Stockholms stift. Religiösa byggnader
+            invigda 2012.
+        </cmt>
+        <desc>Markusplatsen (Skarpnäck)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Markusplatsen_(Skarpnäck)">
+            <text>Markusplatsen (Skarpnäck)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28111111" lon="18.10666667">
+        <name>De gamlas vänner</name>
+        <cmt>Enskededalen. Byggnader i Söderort.</cmt>
+        <desc>De gamlas vänner</desc>
+        <link href="http://sv.wikipedia.org/wiki/De_gamlas_vänner">
+            <text>De gamlas vänner</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3068924" lon="18.10684204">
+        <name>Instabil</name>
+        <cmt>Stålskulpturer. Skulpturer i Södermalms stadsdelsområde.</cmt>
+        <desc>Instabil</desc>
+        <link href="http://sv.wikipedia.org/wiki/Instabil">
+            <text>Instabil</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30398941" lon="18.10508347">
+        <name>Allébron</name>
+        <cmt>Broar invigda 2000. Tvärbanan. Broar i Stockholm.</cmt>
+        <desc>Allébron</desc>
+        <link href="http://sv.wikipedia.org/wiki/Allébron">
+            <text>Allébron</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29194444" lon="18.11694444">
+        <name>Markuskyrkan</name>
+        <cmt>Byggnader av Sigurd Lewerentz. Björkhagen. Kasper Salin-priset. Kyrkobyggnader i Söderort. Religiösa
+            byggnader invigda 1963. Brutalistisk arkitektur. Kyrkobyggnader i Stockholms stift.
+        </cmt>
+        <desc>Markuskyrkan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Markuskyrkan">
+            <text>Markuskyrkan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30305556" lon="18.09222222">
+        <name>Mer än bara vänner?</name>
+        <cmt>Skulpturer i Stockholm. Södra Hammarbyhamnen. Skulpturer i rostfritt stål.</cmt>
+        <desc>Mer än bara vänner?</desc>
+        <link href="http://sv.wikipedia.org/wiki/Mer_än_bara_vänner?">
+            <text>Mer än bara vänner?</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27715" lon="18.13290833">
+        <name>Skarpnäcks församling</name>
+        <cmt>Skarpnäcks stadsdelsområde. Församlingar i Stockholms kommun.</cmt>
+        <desc>Skarpnäcks församling</desc>
+        <link href="http://sv.wikipedia.org/wiki/Skarpnäcks_församling">
+            <text>Skarpnäcks församling</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3025" lon="18.125">
+        <name>Sickla</name>
+        <cmt>Sicklaön. Nacka kommun. Södra Hammarbyhamnen.</cmt>
+        <desc>Sickla</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla">
+            <text>Sickla</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30877778" lon="18.10338889">
+        <name>Jan Inghes torg</name>
+        <cmt>Gator och torg i Hammarby sjöstad. Södra Hammarbyhamnen.</cmt>
+        <desc>Jan Inghes torg</desc>
+        <link href="http://sv.wikipedia.org/wiki/Jan_Inghes_torg">
+            <text>Jan Inghes torg</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29166667" lon="18.11083333">
+        <name>Halmstadsvägens radhus</name>
+        <cmt>Kvarter i Stockholm. Byggnader i Söderort. Björkhagen.</cmt>
+        <desc>Halmstadsvägens radhus</desc>
+        <link href="http://sv.wikipedia.org/wiki/Halmstadsvägens_radhus">
+            <text>Halmstadsvägens radhus</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30472183" lon="18.12111092">
+        <name>Atlas Copcos provgruva</name>
+        <cmt>Nacka kommun. Gruvdrift.</cmt>
+        <desc>Atlas Copcos provgruva</desc>
+        <link href="http://sv.wikipedia.org/wiki/Atlas_Copcos_provgruva">
+            <text>Atlas Copcos provgruva</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30194444" lon="18.11388889">
+        <name>Stora Sickla</name>
+        <cmt>Sicklaön. Herrgårdar i Södermanland. Ej längre existerande byggnader i Nacka kommun.</cmt>
+        <desc>Stora Sickla</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stora_Sickla">
+            <text>Stora Sickla</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27704444" lon="18.13161944">
+        <name>Bagarmossen</name>
+        <cmt>Bagarmossen. Skarpnäcks stadsdelsområde. Stadsdelar i Stockholm. Postorter i Sverige.</cmt>
+        <desc>Bagarmossen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Bagarmossen">
+            <text>Bagarmossen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27444444" lon="18.12166667">
+        <name>Riksrådsvägens radhusområde</name>
+        <cmt>Arkitektur i Stockholm. Bostadshus i Stockholm. Skarpnäcks gård.</cmt>
+        <desc>Riksrådsvägens radhusområde</desc>
+        <link href="http://sv.wikipedia.org/wiki/Riksrådsvägens_radhusområde">
+            <text>Riksrådsvägens radhusområde</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31175556" lon="18.09867778">
+        <name>Leksaksmuseet, Stockholm</name>
+        <cmt>Södermalm. Museer i Stockholm. Leksaksmuseer. Museer invigda 1980.</cmt>
+        <desc>Leksaksmuseet, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Leksaksmuseet,_Stockholm">
+            <text>Leksaksmuseet, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30488333" lon="18.10260278">
+        <name>Sicklauddsbron</name>
+        <cmt>Broar invigda 2002. Södra Hammarbyhamnen. Broar i Stockholm.</cmt>
+        <desc>Sicklauddsbron</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sicklauddsbron">
+            <text>Sicklauddsbron</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.306775" lon="18.12134722">
+        <name>Nacka station</name>
+        <cmt>Järnvägsstationer invigda 1894. Järnvägsstationer i Stockholms län. Byggnader i Nacka kommun.</cmt>
+        <desc>Nacka station</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nacka_station">
+            <text>Nacka station</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30009444" lon="18.09814167">
+        <name>Hammarbytornet</name>
+        <cmt>TV-torn i Sverige. Byggnader i Söderort. Hammarbyhöjden.</cmt>
+        <desc>Hammarbytornet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarbytornet">
+            <text>Hammarbytornet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30277778" lon="18.12222222">
+        <name>Sickla strand</name>
+        <cmt>Sicklaön. Nacka kommun.</cmt>
+        <desc>Sickla strand</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla_strand">
+            <text>Sickla strand</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28716667" lon="18.10880556">
+        <name>Konditori Santa Fé</name>
+        <cmt>Byggnader på Kungsholmen. Ljusskyltar i Stockholm. Kärrtorp.</cmt>
+        <desc>Konditori Santa Fé</desc>
+        <link href="http://sv.wikipedia.org/wiki/Konditori_Santa_Fé">
+            <text>Konditori Santa Fé</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30453611" lon="18.09587778">
+        <name>Luma, Stockholm</name>
+        <cmt>Södra Hammarbyhamnen.</cmt>
+        <desc>Luma, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Luma,_Stockholm">
+            <text>Luma, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.2845" lon="18.11444444">
+        <name>Kärrtorp (tunnelbanestation)</name>
+        <cmt>Stockholms tunnelbanestationer. Järnvägsstationer invigda 1958. Kärrtorp.</cmt>
+        <desc>Kärrtorp (tunnelbanestation)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kärrtorp_(tunnelbanestation)">
+            <text>Kärrtorp (tunnelbanestation)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27047222" lon="18.14847222">
+        <name>Brotorp</name>
+        <cmt>Bagarmossen. Byggnader i Söderort.</cmt>
+        <desc>Brotorp</desc>
+        <link href="http://sv.wikipedia.org/wiki/Brotorp">
+            <text>Brotorp</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28393333" lon="18.11428056">
+        <name>Reflexen</name>
+        <cmt>Byggnader i Söderort. Ljusskyltar i Stockholm. Biografer i Stockholm. Teatrar i Stockholm. Kärrtorp.</cmt>
+        <desc>Reflexen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Reflexen">
+            <text>Reflexen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30408611" lon="18.12183889">
+        <name>Designgymnasiet</name>
+        <cmt>Friskolor i Sverige. Gymnasieskolor i Sverige.</cmt>
+        <desc>Designgymnasiet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Designgymnasiet">
+            <text>Designgymnasiet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28870556" lon="18.11061944">
+        <name>Nytorps gärde</name>
+        <cmt>Gamla Enskede. Hammarbyhöjden. Kärrtorp.</cmt>
+        <desc>Nytorps gärde</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nytorps_gärde">
+            <text>Nytorps gärde</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.286325" lon="18.10335556">
+        <name>Koloniföreningen Dalen</name>
+        <cmt>Koloniträdgårdar i Stockholm. Kärrtorp.</cmt>
+        <desc>Koloniföreningen Dalen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Koloniföreningen_Dalen">
+            <text>Koloniföreningen Dalen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30683611" lon="18.08760556">
+        <name>Stora Blecktornsparken</name>
+        <cmt>Parker i Stockholms kommun. Södermalm.</cmt>
+        <desc>Stora Blecktornsparken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stora_Blecktornsparken">
+            <text>Stora Blecktornsparken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30974444" lon="18.10883889">
+        <name>Hammarby sjöstadsverk</name>
+        <cmt>Reningsverk i Sverige. Byggnader i Hammarby sjöstad. Södra Hammarbyhamnen.</cmt>
+        <desc>Hammarby sjöstadsverk</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarby_sjöstadsverk">
+            <text>Hammarby sjöstadsverk</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30222222" lon="18.11027778">
+        <name>Sickla kanalbro</name>
+        <cmt>Södra Hammarbyhamnen. Motorvägsbroar i Sverige. Broar invigda 2004. Broar i Stockholm.</cmt>
+        <desc>Sickla kanalbro</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla_kanalbro">
+            <text>Sickla kanalbro</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30305556" lon="18.09638889">
+        <name>Heliosparken</name>
+        <cmt>Parker i Stockholms kommun. Södra Hammarbyhamnen.</cmt>
+        <desc>Heliosparken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Heliosparken">
+            <text>Heliosparken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30463056" lon="18.10211111">
+        <name>Sickla kaj</name>
+        <cmt>Södra Hammarbyhamnen.</cmt>
+        <desc>Sickla kaj</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla_kaj">
+            <text>Sickla kaj</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30136" lon="18.1264">
+        <name>Sicklasjön</name>
+        <cmt>Insjöar i Stockholms kommun. Insjöar i Nacka kommun. Insjöar i Norrström-Tyresåns kustområde. Sickla kanals
+            avrinningsområde. Insjöar i Södermanland.
+        </cmt>
+        <desc>Sicklasjön</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sicklasjön">
+            <text>Sicklasjön</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30918121" lon="18.10409355">
+        <name>Henriksdalshamnen</name>
+        <cmt>Södra Hammarbyhamnen.</cmt>
+        <desc>Henriksdalshamnen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Henriksdalshamnen">
+            <text>Henriksdalshamnen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.303" lon="18.11566667">
+        <name>Fredells</name>
+        <cmt>Svenska bygghandelsföretag. Sicklaön. Företag i Nacka kommun. Svenska familjeföretag.</cmt>
+        <desc>Fredells</desc>
+        <link href="http://sv.wikipedia.org/wiki/Fredells">
+            <text>Fredells</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30841111" lon="18.09313056">
+        <name>Färgargårdstorget</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Färgargårdstorget</desc>
+        <link href="http://sv.wikipedia.org/wiki/Färgargårdstorget">
+            <text>Färgargårdstorget</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30722222" lon="18.09333333">
+        <name>Anna Lindhs park, Stockholm</name>
+        <cmt>Parker i Stockholms kommun. Södermalm.</cmt>
+        <desc>Anna Lindhs park, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Anna_Lindhs_park,_Stockholm">
+            <text>Anna Lindhs park, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27822222" lon="18.12847222">
+        <name>Styckmordet i Bagarmossen</name>
+        <cmt>Mord i Stockholm. Mord och mordförsök 1954. 1954 i Sverige.</cmt>
+        <desc>Styckmordet i Bagarmossen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Styckmordet_i_Bagarmossen">
+            <text>Styckmordet i Bagarmossen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30780556" lon="18.09086111">
+        <name>Vintertullstorget</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Vintertullstorget</desc>
+        <link href="http://sv.wikipedia.org/wiki/Vintertullstorget">
+            <text>Vintertullstorget</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30175278" lon="18.09773333">
+        <name>Kulturama</name>
+        <cmt>Södra Hammarbyhamnen. Konstskolor i Sverige. Musikutbildning i Stockholm. Utbildning i Stockholm.</cmt>
+        <desc>Kulturama</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kulturama">
+            <text>Kulturama</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27858056" lon="18.12099444">
+        <name>Stiftelsen Konung Oscar I:s Minne</name>
+        <cmt>Organisationer bildade 1876. Bagarmossen. Stiftelser i Sverige.</cmt>
+        <desc>Stiftelsen Konung Oscar I:s Minne</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stiftelsen_Konung_Oscar_I:s_Minne">
+            <text>Stiftelsen Konung Oscar I:s Minne</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.26236111" lon="18.127">
+        <name>Flatenvägen</name>
+        <cmt>Gator och torg i Söderort.</cmt>
+        <desc>Flatenvägen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Flatenvägen">
+            <text>Flatenvägen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.26708333" lon="18.13666667">
+        <name>Skarpnäcks gård (stadsdel)</name>
+        <cmt>Skarpnäcks stadsdelsområde. Trädgårdsstäder i Stockholm. Skarpnäcks gård. Stadsdelar i Stockholm.</cmt>
+        <desc>Skarpnäcks gård (stadsdel)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Skarpnäcks_gård_(stadsdel)">
+            <text>Skarpnäcks gård (stadsdel)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29027778" lon="18.11694444">
+        <name>Björkhagen</name>
+        <cmt>Skarpnäcks stadsdelsområde. Björkhagen. Stadsdelar i Stockholm.</cmt>
+        <desc>Björkhagen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Björkhagen">
+            <text>Björkhagen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30544444" lon="18.099">
+        <name>Vattentrappan</name>
+        <cmt>Södra Hammarbyhamnen. Fontäner i Stockholm.</cmt>
+        <desc>Vattentrappan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Vattentrappan">
+            <text>Vattentrappan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30833333" lon="18.09027778">
+        <name>AB Axel G Jansson</name>
+        <cmt>Företag upplösta 1978. Stålbyggnadsföretag. Södermalm. Företag bildade 1909. Ej längre existerande svenska
+            verkstadsindustriföretag. Företag i Stockholms kommun. Illustrationsbehov-Stockholms historia.
+        </cmt>
+        <desc>AB Axel G Jansson</desc>
+        <link href="http://sv.wikipedia.org/wiki/AB_Axel_G_Jansson">
+            <text>AB Axel G Jansson</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30139722" lon="18.09168056">
+        <name>Grafikskolan i Stockholm</name>
+        <cmt>Södra Hammarbyhamnen. Konstskolor i Sverige.</cmt>
+        <desc>Grafikskolan i Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Grafikskolan_i_Stockholm">
+            <text>Grafikskolan i Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29527778" lon="18.1075">
+        <name>Willy Brandts park</name>
+        <cmt>Hammarbyhöjden. Parker i Stockholms kommun.</cmt>
+        <desc>Willy Brandts park</desc>
+        <link href="http://sv.wikipedia.org/wiki/Willy_Brandts_park">
+            <text>Willy Brandts park</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30333328" lon="18.10333252">
+        <name>Fält (fontän)</name>
+        <cmt>Södra Hammarbyhamnen. Lekskulpturer. Skulpturer i Södermalms stadsdelsområde. Fontäner i Stockholm.
+            Skulpturer i Stockholm.
+        </cmt>
+        <desc>Fält (fontän)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Fält_(fontän)">
+            <text>Fält (fontän)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.26722222" lon="18.14583333">
+        <name>Skarpnäcks gård (gods)</name>
+        <cmt>Skarpnäcks gård. Byggnader i Söderort. Herrgårdar i Södermanland.</cmt>
+        <desc>Skarpnäcks gård (gods)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Skarpnäcks_gård_(gods)">
+            <text>Skarpnäcks gård (gods)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30416667" lon="18.11027778">
+        <name>Sickla park</name>
+        <cmt>Parker i Stockholms kommun. Södra Hammarbyhamnen.</cmt>
+        <desc>Sickla park</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla_park">
+            <text>Sickla park</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29194444" lon="18.11694444">
+        <name>Skarpnäcks distrikt</name>
+        <cmt>Indelningar i Stockholms kommun. Distrikt i Stockholms län. Söderort.</cmt>
+        <desc>Skarpnäcks distrikt</desc>
+        <link href="http://sv.wikipedia.org/wiki/Skarpnäcks_distrikt">
+            <text>Skarpnäcks distrikt</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30527778" lon="18.12166667">
+        <name>Filmstaden Sickla</name>
+        <cmt>Biografer i Stockholm. Byggnader i Nacka kommun.</cmt>
+        <desc>Filmstaden Sickla</desc>
+        <link href="http://sv.wikipedia.org/wiki/Filmstaden_Sickla">
+            <text>Filmstaden Sickla</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30563889" lon="18.10388889">
+        <name>Sickla udde</name>
+        <cmt>Södra Hammarbyhamnen.</cmt>
+        <desc>Sickla udde</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla_udde">
+            <text>Sickla udde</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30305556" lon="18.10461111">
+        <name>Sjöstadskapellet</name>
+        <cmt>Religiösa byggnader invigda 2002. Kyrkobyggnader i Stockholms innerstad. Kyrkobyggnader i Stockholms
+            stift.
+        </cmt>
+        <desc>Sjöstadskapellet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sjöstadskapellet">
+            <text>Sjöstadskapellet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28222222" lon="18.10611111">
+        <name>Hemmet för gamla</name>
+        <cmt>Byggnader i Söderort. Enskededalen. Arkitekturåret 1911.</cmt>
+        <desc>Hemmet för gamla</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hemmet_för_gamla">
+            <text>Hemmet för gamla</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28002167" lon="18.10813904">
+        <name>Barnvagnsfabriken</name>
+        <cmt>Enskededalen. Reklam. Ljusskyltar i Stockholm.</cmt>
+        <desc>Barnvagnsfabriken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Barnvagnsfabriken">
+            <text>Barnvagnsfabriken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30780556" lon="18.09086111">
+        <name>Vinterfågel</name>
+        <cmt>Djurskulpturer. Skulpturer av Göran Lange. Södermalm. Skulpturer i Södermalms stadsdelsområde. Skulpturer i
+            Stockholm.
+        </cmt>
+        <desc>Vinterfågel</desc>
+        <link href="http://sv.wikipedia.org/wiki/Vinterfågel">
+            <text>Vinterfågel</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30527778" lon="18.12083333">
+        <name>Dieselverkstaden</name>
+        <cmt>Sicklaön. Kulturhus i Sverige. Industrihistoria. Bibliotek i Sverige. Byggnader i Nacka kommun.</cmt>
+        <desc>Dieselverkstaden</desc>
+        <link href="http://sv.wikipedia.org/wiki/Dieselverkstaden">
+            <text>Dieselverkstaden</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29918056" lon="18.10950278">
+        <name>Hammarbytoppen</name>
+        <cmt>Vintersportanläggningar i Sverige. Björkhagen. Konstgjorda berg i Sverige.</cmt>
+        <desc>Hammarbytoppen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarbytoppen">
+            <text>Hammarbytoppen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <rte>
+        <name>Skarpnäckstråket A</name>
+        <desc>Stråket - totalt 7 km - går från Skarpnäck via Bagarmossen, Kärrtorp och Björkhagen till Hammarby
+            Sjöstad.
+        </desc>
+        <link href=""></link>
+        <rtept lat="59.2663387" lon="18.132756">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2666062" lon="18.1331422">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.266673" lon="18.1332362">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2668151" lon="18.133436">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2673214" lon="18.1340468">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2674201" lon="18.1341716">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.267523" lon="18.1343867">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2676107" lon="18.1346099">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2678607" lon="18.1354253">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2678974" lon="18.1356077">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2680092" lon="18.1359391">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2682242" lon="18.136512">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2683109" lon="18.1366064">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2684055" lon="18.136711">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2685005" lon="18.136789">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.268522" lon="18.1367942">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.268618" lon="18.1367942">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2687713" lon="18.1368426">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2688261" lon="18.1368641">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2689397" lon="18.1369445">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2689856" lon="18.1369501">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2690143" lon="18.1368844">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2691677" lon="18.1370643">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2692946" lon="18.1371509">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2694199" lon="18.1372896">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2696227" lon="18.1373862">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2697927" lon="18.1375686">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2699297" lon="18.1377188">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.270063" lon="18.1378588">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2702696" lon="18.1379977">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2704396" lon="18.1380514">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2706758" lon="18.1381451">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2708617" lon="18.1382445">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2712276" lon="18.1382927">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2712276" lon="18.1382927">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2715988" lon="18.1383525">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2716906" lon="18.1383473">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2717936" lon="18.1383177">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.271807" lon="18.1382758">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2718907" lon="18.1383929">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2720239" lon="18.1386522">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2722761" lon="18.1387488">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2724789" lon="18.1388453">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2726215" lon="18.1389311">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.272799" lon="18.1389417">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2730178" lon="18.1388264">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2730178" lon="18.1388264">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2729484" lon="18.1383963">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2729756" lon="18.1379828">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.272981" lon="18.1377879">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2729998" lon="18.1376078">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.272987" lon="18.1372912">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2729832" lon="18.1369461">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2729994" lon="18.1367997">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2730721" lon="18.1366231">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2731132" lon="18.1365175">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2731545" lon="18.1364105">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2731968" lon="18.1361462">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2732648" lon="18.1359954">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2734088" lon="18.1359115">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.273809" lon="18.1355896">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2738474" lon="18.1355591">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2741872" lon="18.1352892">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2743053" lon="18.1351492">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2745525" lon="18.1349433">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2746027" lon="18.1348982">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.274697" lon="18.1348064">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.274845" lon="18.1347206">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2750094" lon="18.1346348">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2751719" lon="18.1345547">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2752594" lon="18.1345256">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2753496" lon="18.134456">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.275424" lon="18.1342725">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2754793" lon="18.1340565">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2755589" lon="18.133684">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2756412" lon="18.1333217">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2756537" lon="18.1331271">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.27569" lon="18.132874">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2757417" lon="18.1326135">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2757715" lon="18.1324636">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.275924" lon="18.1321816">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2760728" lon="18.1318882">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2762318" lon="18.1316414">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2762714" lon="18.1315676">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2762714" lon="18.1315676">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.276357" lon="18.1310237">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2763832" lon="18.1308569">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2767959" lon="18.1311058">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2771334" lon="18.1313093">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2773219" lon="18.1300157">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2773602" lon="18.1298339">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2774798" lon="18.1290074">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2775243" lon="18.1290296">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2775839" lon="18.1286539">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2776179" lon="18.1284822">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2776623" lon="18.1282688">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2776974" lon="18.1278375">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2777412" lon="18.1274727">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.277796" lon="18.1271294">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2778508" lon="18.1267646">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2779111" lon="18.1264964">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2779824" lon="18.1262389">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2780645" lon="18.1260536">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2780975" lon="18.1257025">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2781687" lon="18.1252626">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2782427" lon="18.1250129">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.278305" lon="18.1249326">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2783172" lon="18.1249051">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2783492" lon="18.1246063">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2784191" lon="18.1242122">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2784835" lon="18.123911">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2785811" lon="18.1238148">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2787401" lon="18.1236799">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2787908" lon="18.1235082">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2789209" lon="18.1231488">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2791607" lon="18.1226123">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2793088" lon="18.1223873">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2794713" lon="18.1220781">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2796975" lon="18.1216705">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2797268" lon="18.1215334">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2797444" lon="18.1214509">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2797557" lon="18.1211273">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2797773" lon="18.1207643">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2798075" lon="18.1205848">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2799336" lon="18.1203381">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2801489" lon="18.1199595">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2803226" lon="18.1196887">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2805769" lon="18.1196801">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.280623" lon="18.1196364">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2806956" lon="18.1195746">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2808615" lon="18.1196056">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.281222" lon="18.1194452">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2812966" lon="18.1194037">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2813398" lon="18.1193797">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.281502" lon="18.1192252">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2819097" lon="18.1186415">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2819545" lon="18.1184855">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.282019" lon="18.1179606">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2820517" lon="18.1178659">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.282112" lon="18.1177774">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2821783" lon="18.1176972">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2822752" lon="18.1175797">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.282486" lon="18.117249">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.282523" lon="18.1171444">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2825285" lon="18.1170639">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.282552" lon="18.1167751">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2825711" lon="18.1165954">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2826013" lon="18.1165122">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2826532" lon="18.1164309">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2829176" lon="18.1161278">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2831904" lon="18.1158202">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2833123" lon="18.1157129">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2834422" lon="18.1156221">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.283502" lon="18.1155803">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2835945" lon="18.1154742">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.283582" lon="18.1154249">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2836972" lon="18.1153016">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2836698" lon="18.1151836">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.283615" lon="18.1150441">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2835444" lon="18.1147842">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2835658" lon="18.1147598">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2833555" lon="18.1140025">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2832543" lon="18.1140999">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2832396" lon="18.114092">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2832259" lon="18.1140088">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2832725" lon="18.113982">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2832908" lon="18.1138885">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2832972" lon="18.1138559">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2833383" lon="18.1138827">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2833591" lon="18.1138559">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2834043" lon="18.1140276">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2836997" lon="18.1137157">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2837456" lon="18.1136647">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2837571" lon="18.1137117">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.283808" lon="18.1136661">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2837461" lon="18.1134415">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2837424" lon="18.1133866">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2837887" lon="18.1133174">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2838309" lon="18.1134716">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2838993" lon="18.1135811">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2839781" lon="18.1135811">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2846359" lon="18.1132697">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2847865" lon="18.1132419">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2851001" lon="18.1131612">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2851834" lon="18.1130946">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2852341" lon="18.1130275">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.285264" lon="18.1129291">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.285277" lon="18.1129512">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2853292" lon="18.1130954">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.285354" lon="18.113175">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2854785" lon="18.1135743">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2854785" lon="18.1135743">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2855194" lon="18.1135927">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.285708" lon="18.1136774">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2858456" lon="18.1138443">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2860805" lon="18.1140221">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2864345" lon="18.1140037">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2866256" lon="18.113832">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2867352" lon="18.1139117">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2868802" lon="18.1139664">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2870195" lon="18.1141776">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2873161" lon="18.1143272">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.28746" lon="18.114336">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2875319" lon="18.1142304">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2875425" lon="18.113951">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2875425" lon="18.113951">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2875425" lon="18.1137499">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2875425" lon="18.1131092">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2876742" lon="18.1128904">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.287744" lon="18.1130567">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.28779" lon="18.1132074">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2878745" lon="18.1138698">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2878668" lon="18.1140713">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2880022" lon="18.1141225">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2882871" lon="18.1144819">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2883472" lon="18.1146172">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2885696" lon="18.1149365">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2884802" lon="18.1152626">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2884013" lon="18.1155973">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2883153" lon="18.1160437">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2885258" lon="18.1159064">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2887715" lon="18.1158516">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2890851" lon="18.1157952">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.289355" lon="18.1158033">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2894879" lon="18.1158489">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2897349" lon="18.1159837">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2900317" lon="18.1161144">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2901065" lon="18.1161285">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2902633" lon="18.1161223">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2902659" lon="18.1162217">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2906056" lon="18.1162163">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.291222" lon="18.1161842">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2914453" lon="18.1161815">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2915247" lon="18.1161922">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2915699" lon="18.1162432">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2916156" lon="18.1162577">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2916206" lon="18.1162593">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2917424" lon="18.1162683">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2919178" lon="18.1163344">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2920274" lon="18.1163317">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2922178" lon="18.1162727">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.292492" lon="18.1161679">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2927112" lon="18.1160606">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2930675" lon="18.1158979">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2931875" lon="18.1157898">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2936644" lon="18.115175">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2936644" lon="18.115175">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2941477" lon="18.1146545">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2943357" lon="18.114349">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2943816" lon="18.1142262">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2944421" lon="18.1140195">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2946243" lon="18.1132846">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2948952" lon="18.1121636">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2949653" lon="18.1118013">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2949839" lon="18.1116622">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2950072" lon="18.1114654">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2950186" lon="18.1113695">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.294983" lon="18.1110101">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2949995" lon="18.1108679">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2950392" lon="18.1106909">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2951204" lon="18.110538">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.295278" lon="18.1104013">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2952614" lon="18.1103327">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2958405" lon="18.1099223">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2960861" lon="18.1111713">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2962818" lon="18.1119534">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2964333" lon="18.1123467">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2965401" lon="18.1121958">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2967096" lon="18.1118394">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2967371" lon="18.1118449">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2968894" lon="18.1117961">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2970812" lon="18.1116378">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2971562" lon="18.1116062">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2973331" lon="18.1116298">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2975616" lon="18.1116947">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2976592" lon="18.1117088">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2985201" lon="18.1128213">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2990978" lon="18.1134874">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2992045" lon="18.113292">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.299236" lon="18.1132276">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2992716" lon="18.1131874">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.299314" lon="18.1131901">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2994085" lon="18.1132357">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2996496" lon="18.1135843">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.2999597" lon="18.1140893">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3002801" lon="18.1146204">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3005513" lon="18.1147438">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3006941" lon="18.1147092">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3007913" lon="18.1146556">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3008694" lon="18.1145295">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3009269" lon="18.1143552">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3009471" lon="18.1142128">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3009926" lon="18.1143766">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3009941" lon="18.1143905">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3010186" lon="18.1146153">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3010735" lon="18.1147272">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3011965" lon="18.1148062">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3015426" lon="18.1149168">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3015868" lon="18.1149174">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3015868" lon="18.1149174">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3016129" lon="18.1145751">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3016263" lon="18.114304">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3017756" lon="18.1134981">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3018814" lon="18.1130799">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3019672" lon="18.1127992">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3020132" lon="18.1125374">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3020016" lon="18.112486">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3019994" lon="18.1124036">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3020021" lon="18.1122829">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3019925" lon="18.1121622">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3019829" lon="18.1119824">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3019816" lon="18.1119127">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3019741" lon="18.1118391">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3019714" lon="18.1117801">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3019645" lon="18.1116567">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3019597" lon="18.1115506">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3019419" lon="18.1114952">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3019419" lon="18.1114952">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3020829" lon="18.1110194">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3020829" lon="18.1110194">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3023189" lon="18.1103074">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3024287" lon="18.1100184">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3025277" lon="18.1096361">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3025491" lon="18.1093716">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3026353" lon="18.1091312">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3027286" lon="18.1092837">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3027286" lon="18.1092837">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3028374" lon="18.1089725">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3030003" lon="18.1085703">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3031065" lon="18.1083575">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3031352" lon="18.108269">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.303168" lon="18.1081643">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3032051" lon="18.1080812">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3032653" lon="18.1080007">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3033025" lon="18.1079115">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3034491" lon="18.1072972">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3036502" lon="18.1067074">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3038093" lon="18.1062495">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3039353" lon="18.106185">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3040672" lon="18.1057814">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3042653" lon="18.1052407">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.304428" lon="18.1047252">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3046062" lon="18.1041604">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3046288" lon="18.1040981">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3046743" lon="18.1039668">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3048107" lon="18.1036369">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.304926" lon="18.1033949">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3050768" lon="18.1030119">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3050639" lon="18.1007579">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3051917" lon="18.1004073">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3053243" lon="18.1000358">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3054817" lon="18.099561">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3054817" lon="18.099561">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3055358" lon="18.0993809">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3056294" lon="18.0993226">
+            <link href=""></link>
+        </rtept>
+        <rtept lat="59.3057873" lon="18.0993211">
+            <link href=""></link>
+        </rtept>
+    </rte>
+    <trk>
+        <link href=""></link>
+        <trkseg>
+            <trkpt lat="59.2663387" lon="18.132756">
+                <ele>33.0</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2666062" lon="18.1331422">
+                <ele>33.0</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.266673" lon="18.1332362">
+                <ele>33.0321888596</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2668151" lon="18.133436">
+                <ele>33.1006435725</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2673214" lon="18.1340468">
+                <ele>33.3333333333</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2674201" lon="18.1341716">
+                <ele>33.0</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.267523" lon="18.1343867">
+                <ele>32.701359073</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2676107" lon="18.1346099">
+                <ele>32.7345099259</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2678607" lon="18.1354253">
+                <ele>33.1798054522</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2678974" lon="18.1356077">
+                <ele>33.3130530678</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2680092" lon="18.1359391">
+                <ele>34.0583627697</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2682242" lon="18.136512">
+                <ele>34.992968594</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2683109" lon="18.1366064">
+                <ele>35.5947867215</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2684055" lon="18.136711">
+                <ele>37.0236767493</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2685005" lon="18.136789">
+                <ele>38.3784797866</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.268522" lon="18.1367942">
+                <ele>38.6633663859</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.268618" lon="18.1367942">
+                <ele>39.9258124306</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2687713" lon="18.1368426">
+                <ele>40.8677053813</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2688261" lon="18.1368641">
+                <ele>41.2067192418</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2689397" lon="18.1369445">
+                <ele>41.9394610113</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2689856" lon="18.1369501">
+                <ele>42.4464298453</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2690143" lon="18.1368844">
+                <ele>42.9333280891</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2691677" lon="18.1370643">
+                <ele>44.9047678437</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2692946" lon="18.1371509">
+                <ele>46.3862908468</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2694199" lon="18.1372896">
+                <ele>46.6850029298</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2696227" lon="18.1373862">
+                <ele>47.1181024314</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2697927" lon="18.1375686">
+                <ele>48.187062115</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2699297" lon="18.1377188">
+                <ele>47.5597677821</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.270063" lon="18.1378588">
+                <ele>46.9554451859</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2702696" lon="18.1379977">
+                <ele>46.7913380728</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2704396" lon="18.1380514">
+                <ele>46.6619763802</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2706758" lon="18.1381451">
+                <ele>46.6724637312</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2708617" lon="18.1382445">
+                <ele>46.4511996729</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2712276" lon="18.1382927">
+                <ele>46.0301413299</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2712276" lon="18.1382927">
+                <ele>46.0301413299</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2715988" lon="18.1383525">
+                <ele>46.3796821715</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2716906" lon="18.1383473">
+                <ele>47.3836785479</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2717936" lon="18.1383177">
+                <ele>47.3619511343</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.271807" lon="18.1382758">
+                <ele>47.3725374901</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2718907" lon="18.1383929">
+                <ele>47.4156619032</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2720239" lon="18.1386522">
+                <ele>47.4944077276</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2722761" lon="18.1387488">
+                <ele>47.6021208671</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2724789" lon="18.1388453">
+                <ele>47.6895992323</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2726215" lon="18.1389311">
+                <ele>47.9043132582</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.272799" lon="18.1389417">
+                <ele>48.1598954323</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2730178" lon="18.1388264">
+                <ele>48.0744625141</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2730178" lon="18.1388264">
+                <ele>48.0744625141</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2729484" lon="18.1383963">
+                <ele>47.9875725047</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2729756" lon="18.1379828">
+                <ele>47.5739231658</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.272981" lon="18.1377879">
+                <ele>47.4429214617</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2729998" lon="18.1376078">
+                <ele>47.3195484044</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.272987" lon="18.1372912">
+                <ele>47.1063943594</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2729832" lon="18.1369461">
+                <ele>47.0398972521</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2729994" lon="18.1367997">
+                <ele>46.9098058039</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2730721" lon="18.1366231">
+                <ele>46.747287136</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2731132" lon="18.1365175">
+                <ele>46.6521590472</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2731545" lon="18.1364105">
+                <ele>46.5560621476</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2731968" lon="18.1361462">
+                <ele>46.5010704602</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2732648" lon="18.1359954">
+                <ele>46.4611358743</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2734088" lon="18.1359115">
+                <ele>46.4027506867</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.273809" lon="18.1355896">
+                <ele>45.9012790234</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2738474" lon="18.1355591">
+                <ele>45.9190192797</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2741872" lon="18.1352892">
+                <ele>46.0760027099</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2743053" lon="18.1351492">
+                <ele>45.966395655</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2745525" lon="18.1349433">
+                <ele>45.753129245</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2746027" lon="18.1348982">
+                <ele>45.709281096</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.274697" lon="18.1348064">
+                <ele>45.5975182796</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.274845" lon="18.1347206">
+                <ele>45.4337204466</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2750094" lon="18.1346348">
+                <ele>44.9172983681</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2751719" lon="18.1345547">
+                <ele>44.408676953</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2752594" lon="18.1345256">
+                <ele>44.4387690456</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2753496" lon="18.134456">
+                <ele>44.4716420778</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.275424" lon="18.1342725">
+                <ele>44.5122217844</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2754793" lon="18.1340565">
+                <ele>44.6788600938</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2755589" lon="18.133684">
+                <ele>44.9573490518</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2756412" lon="18.1333217">
+                <ele>45.3593649946</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2756537" lon="18.1331271">
+                <ele>45.3933396576</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.27569" lon="18.132874">
+                <ele>45.438877194</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2757417" lon="18.1326135">
+                <ele>45.4872868123</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2757715" lon="18.1324636">
+                <ele>45.2336912218</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.275924" lon="18.1321816">
+                <ele>44.189937628</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2760728" lon="18.1318882">
+                <ele>43.8625267735</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2762318" lon="18.1316414">
+                <ele>43.63559586</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2762714" lon="18.1315676">
+                <ele>43.5744493665</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2762714" lon="18.1315676">
+                <ele>43.5744493665</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.276357" lon="18.1310237">
+                <ele>43.2492937398</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2763832" lon="18.1308569">
+                <ele>43.0925535009</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2767959" lon="18.1311058">
+                <ele>42.3333333333</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2771334" lon="18.1313093">
+                <ele>42.4464801431</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2773219" lon="18.1300157">
+                <ele>43.0</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2773602" lon="18.1298339">
+                <ele>42.7467860944</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2774798" lon="18.1290074">
+                <ele>42.7634316803</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2775243" lon="18.1290296">
+                <ele>43.4667207853</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2775839" lon="18.1286539">
+                <ele>43.6269971605</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2776179" lon="18.1284822">
+                <ele>43.702021709</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2776623" lon="18.1282688">
+                <ele>43.7958980682</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2776974" lon="18.1278375">
+                <ele>43.9738321434</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2777412" lon="18.1274727">
+                <ele>45.3072604617</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.277796" lon="18.1271294">
+                <ele>45.6272784007</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2778508" lon="18.1267646">
+                <ele>45.965603203</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2779111" lon="18.1264964">
+                <ele>46.5597326273</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2779824" lon="18.1262389">
+                <ele>47.1535902632</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2780645" lon="18.1260536">
+                <ele>47.0815004999</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2780975" lon="18.1257025">
+                <ele>46.9765774798</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2781687" lon="18.1252626">
+                <ele>47.0963473956</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2782427" lon="18.1250129">
+                <ele>47.2014794623</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.278305" lon="18.1249326">
+                <ele>47.8534005586</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2783172" lon="18.1249051">
+                <ele>48.0160175172</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2783492" lon="18.1246063">
+                <ele>49.379105769</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2784191" lon="18.1242122">
+                <ele>49.1570683163</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2784835" lon="18.123911">
+                <ele>48.983283753</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2785811" lon="18.1238148">
+                <ele>49.0611842146</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2787401" lon="18.1236799">
+                <ele>49.1847219189</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2787908" lon="18.1235082">
+                <ele>48.6360371316</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2789209" lon="18.1231488">
+                <ele>46.9871358803</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2791607" lon="18.1226123">
+                <ele>46.5504833339</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2793088" lon="18.1223873">
+                <ele>47.2677277387</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2794713" lon="18.1220781">
+                <ele>46.9259265168</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2796975" lon="18.1216705">
+                <ele>46.462216723</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2797268" lon="18.1215334">
+                <ele>45.4124855346</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2797444" lon="18.1214509">
+                <ele>44.7809761292</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2797557" lon="18.1211273">
+                <ele>43.9933998172</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2797773" lon="18.1207643">
+                <ele>43.1060298184</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2798075" lon="18.1205848">
+                <ele>42.8297955449</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2799336" lon="18.1203381">
+                <ele>42.3196868293</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2801489" lon="18.1199595">
+                <ele>40.8249292678</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2803226" lon="18.1196887">
+                <ele>40.189566309</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2805769" lon="18.1196801">
+                <ele>39.9307310346</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.280623" lon="18.1196364">
+                <ele>39.8593025425</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2806956" lon="18.1195746">
+                <ele>39.7489021677</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2808615" lon="18.1196056">
+                <ele>39.5164984223</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.281222" lon="18.1194452">
+                <ele>39.4158121679</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2812966" lon="18.1194037">
+                <ele>39.3946904294</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2813398" lon="18.1193797">
+                <ele>39.382460298</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.281502" lon="18.1192252">
+                <ele>39.3333333333</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2819097" lon="18.1186415">
+                <ele>39.4480160888</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2819545" lon="18.1184855">
+                <ele>39.4687724993</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.282019" lon="18.1179606">
+                <ele>39.8647210583</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2820517" lon="18.1178659">
+                <ele>39.8779785106</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.282112" lon="18.1177774">
+                <ele>39.895090095</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2821783" lon="18.1176972">
+                <ele>40.0213728441</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2822752" lon="18.1175797">
+                <ele>40.2060637309</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.282486" lon="18.117249">
+                <ele>40.6437720443</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.282523" lon="18.1171444">
+                <ele>40.9633197889</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2825285" lon="18.1170639">
+                <ele>41.167299188</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.282552" lon="18.1167751">
+                <ele>41.9017768845</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2825711" lon="18.1165954">
+                <ele>42.1184700275</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2826013" lon="18.1165122">
+                <ele>42.2389677233</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2826532" lon="18.1164309">
+                <ele>42.3925925961</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2829176" lon="18.1161278">
+                <ele>43.1007329686</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2831904" lon="18.1158202">
+                <ele>44.1616622343</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2833123" lon="18.1157129">
+                <ele>44.5749852377</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2834422" lon="18.1156221">
+                <ele>45.8953487282</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.283502" lon="18.1155803">
+                <ele>46.5031831251</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2835945" lon="18.1154742">
+                <ele>47.5294325713</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.283582" lon="18.1154249">
+                <ele>47.6163733279</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2836972" lon="18.1153016">
+                <ele>48.0223896788</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2836698" lon="18.1151836">
+                <ele>48.1450463949</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.283615" lon="18.1150441">
+                <ele>48.3115756533</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2835444" lon="18.1147842">
+                <ele>48.6715694275</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2835658" lon="18.1147598">
+                <ele>48.7308615965</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2833555" lon="18.1140025">
+                <ele>49.7850146503</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2832543" lon="18.1140999">
+                <ele>47.8023128669</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2832396" lon="18.114092">
+                <ele>47.8046512111</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2832259" lon="18.1140088">
+                <ele>47.8115006306</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2832725" lon="18.113982">
+                <ele>47.8189509542</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2832908" lon="18.1138885">
+                <ele>47.8267964447</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2832972" lon="18.1138559">
+                <ele>47.8295329471</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2833383" lon="18.1138827">
+                <ele>48.0085922369</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2833591" lon="18.1138559">
+                <ele>48.1115166937</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2834043" lon="18.1140276">
+                <ele>48.5193428163</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2836997" lon="18.1137157">
+                <ele>49.9066158604</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2837456" lon="18.1136647">
+                <ele>49.9147116735</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2837571" lon="18.1137117">
+                <ele>49.9187949716</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.283808" lon="18.1136661">
+                <ele>49.9273814986</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2837461" lon="18.1134415">
+                <ele>49.9473777736</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2837424" lon="18.1133866">
+                <ele>49.9517166282</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2837887" lon="18.1133174">
+                <ele>49.9606519634</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2838309" lon="18.1134716">
+                <ele>49.8680461161</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2838993" lon="18.1135811">
+                <ele>49.8113756593</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2839781" lon="18.1135811">
+                <ele>49.7608344445</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2846359" lon="18.1132697">
+                <ele>48.7524437582</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2847865" lon="18.1132419">
+                <ele>48.467300626</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2851001" lon="18.1131612">
+                <ele>45.8710737573</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2851834" lon="18.1130946">
+                <ele>45.8085162798</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2852341" lon="18.1130275">
+                <ele>45.765968846</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.285264" lon="18.1129291">
+                <ele>45.725309952</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.285277" lon="18.1129512">
+                <ele>45.7133399614</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2853292" lon="18.1130954">
+                <ele>45.650576444</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.285354" lon="18.113175">
+                <ele>45.5620708104</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2854785" lon="18.1135743">
+                <ele>45.1180057006</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2854785" lon="18.1135743">
+                <ele>45.1180057006</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2855194" lon="18.1135927">
+                <ele>45.1240353953</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.285708" lon="18.1136774">
+                <ele>45.1518373859</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2858456" lon="18.1138443">
+                <ele>45.1750945533</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2860805" lon="18.1140221">
+                <ele>45.0</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2864345" lon="18.1140037">
+                <ele>44.9571212179</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2866256" lon="18.113832">
+                <ele>45.3600976637</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2867352" lon="18.1139117">
+                <ele>45.5841721754</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2868802" lon="18.1139664">
+                <ele>45.5662921043</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2870195" lon="18.1141776">
+                <ele>45.5449593601</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2873161" lon="18.1143272">
+                <ele>45.5078734993</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.28746" lon="18.114336">
+                <ele>43.9216711866</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2875319" lon="18.1142304">
+                <ele>42.9314124655</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2875425" lon="18.113951">
+                <ele>42.5786802735</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2875425" lon="18.113951">
+                <ele>42.5786802735</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2875425" lon="18.1137499">
+                <ele>42.3254965074</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2875425" lon="18.1131092">
+                <ele>41.5188588197</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2876742" lon="18.1128904">
+                <ele>41.2862357161</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.287744" lon="18.1130567">
+                <ele>41.1381723363</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.28779" lon="18.1132074">
+                <ele>41.2035725179</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2878745" lon="18.1138698">
+                <ele>41.1245731317</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2878668" lon="18.1140713">
+                <ele>41.2591530508</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2880022" lon="18.1141225">
+                <ele>41.4389888087</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2882871" lon="18.1144819">
+                <ele>41.8809556423</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2883472" lon="18.1146172">
+                <ele>42.2810856071</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2885696" lon="18.1149365">
+                <ele>42.4822340628</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2884802" lon="18.1152626">
+                <ele>42.9983232902</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2884013" lon="18.1155973">
+                <ele>43.512351106</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2883153" lon="18.1160437">
+                <ele>42.6644673041</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2885258" lon="18.1159064">
+                <ele>43.7488032361</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2887715" lon="18.1158516">
+                <ele>44.9573561462</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2890851" lon="18.1157952">
+                <ele>44.1539551422</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.289355" lon="18.1158033">
+                <ele>43.9475214714</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2894879" lon="18.1158489">
+                <ele>44.1258778854</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2897349" lon="18.1159837">
+                <ele>44.464830224</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2900317" lon="18.1161144">
+                <ele>44.9411794041</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2901065" lon="18.1161285">
+                <ele>44.9765067718</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2902633" lon="18.1161223">
+                <ele>44.8115853329</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2902659" lon="18.1162217">
+                <ele>44.7136209574</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2906056" lon="18.1162163">
+                <ele>44.0588849342</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.291222" lon="18.1161842">
+                <ele>41.2037912059</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2914453" lon="18.1161815">
+                <ele>40.7734099174</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2915247" lon="18.1161922">
+                <ele>40.6745443202</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2915699" lon="18.1162432">
+                <ele>40.6097420971</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2916156" lon="18.1162577">
+                <ele>40.5522322542</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2916206" lon="18.1162593">
+                <ele>40.5459387666</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2917424" lon="18.1162683">
+                <ele>40.3945286218</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2919178" lon="18.1163344">
+                <ele>40.1726450971</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2920274" lon="18.1163317">
+                <ele>40.0364869484</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2922178" lon="18.1162727">
+                <ele>39.7970252499</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.292492" lon="18.1161679">
+                <ele>39.4499813998</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2927112" lon="18.1160606">
+                <ele>38.6306429649</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2930675" lon="18.1158979">
+                <ele>38.4970540903</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2931875" lon="18.1157898">
+                <ele>38.7821572101</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2936644" lon="18.115175">
+                <ele>37.9070122634</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2936644" lon="18.115175">
+                <ele>37.9070122634</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2941477" lon="18.1146545">
+                <ele>37.7056158515</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2943357" lon="18.114349">
+                <ele>38.6171270823</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2943816" lon="18.1142262">
+                <ele>38.8347150946</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2944421" lon="18.1140195">
+                <ele>38.8420232145</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2946243" lon="18.1132846">
+                <ele>40.6767255642</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2948952" lon="18.1121636">
+                <ele>43.3924946082</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2949653" lon="18.1118013">
+                <ele>43.9284977046</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2949839" lon="18.1116622">
+                <ele>44.4607584964</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2950072" lon="18.1114654">
+                <ele>44.7402448398</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2950186" lon="18.1113695">
+                <ele>44.8764657788</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.294983" lon="18.1110101">
+                <ele>45.382947941</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2949995" lon="18.1108679">
+                <ele>46.0634990069</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2950392" lon="18.1106909">
+                <ele>46.9657173463</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2951204" lon="18.110538">
+                <ele>47.8754664671</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.295278" lon="18.1104013">
+                <ele>48.3319177029</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2952614" lon="18.1103327">
+                <ele>48.4345667884</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2958405" lon="18.1099223">
+                <ele>50.0654295731</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2960861" lon="18.1111713">
+                <ele>52.5997224706</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2962818" lon="18.1119534">
+                <ele>52.8553834118</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2964333" lon="18.1123467">
+                <ele>53.0</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2965401" lon="18.1121958">
+                <ele>52.4809592015</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2967096" lon="18.1118394">
+                <ele>50.8341359979</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2967371" lon="18.1118449">
+                <ele>50.7251858287</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2968894" lon="18.1117961">
+                <ele>50.1169413985</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2970812" lon="18.1116378">
+                <ele>49.9632810173</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2971562" lon="18.1116062">
+                <ele>49.6609187331</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2973331" lon="18.1116298">
+                <ele>48.9620823289</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2975616" lon="18.1116947">
+                <ele>45.3854017575</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2976592" lon="18.1117088">
+                <ele>44.9362389937</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2985201" lon="18.1128213">
+                <ele>40.2025102455</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2990978" lon="18.1134874">
+                <ele>36.4997037906</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2992045" lon="18.113292">
+                <ele>37.6489114105</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.299236" lon="18.1132276">
+                <ele>37.4876098382</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2992716" lon="18.1131874">
+                <ele>37.3420407976</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.299314" lon="18.1131901">
+                <ele>37.1917611428</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2994085" lon="18.1132357">
+                <ele>36.8469893005</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2996496" lon="18.1135843">
+                <ele>33.7854029609</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.2999597" lon="18.1140893">
+                <ele>32.3567961842</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3002801" lon="18.1146204">
+                <ele>22.3294318628</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3005513" lon="18.1147438">
+                <ele>20.5065809122</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3006941" lon="18.1147092">
+                <ele>19.5645298544</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3007913" lon="18.1146556">
+                <ele>18.9034139833</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3008694" lon="18.1145295">
+                <ele>18.7390517484</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3009269" lon="18.1143552">
+                <ele>18.5670033575</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3009471" lon="18.1142128">
+                <ele>18.4444728442</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3009926" lon="18.1143766">
+                <ele>18.4021604262</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3009941" lon="18.1143905">
+                <ele>18.3989367564</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3010186" lon="18.1146153">
+                <ele>18.3467792123</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3010735" lon="18.1147272">
+                <ele>18.3115646904</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3011965" lon="18.1148062">
+                <ele>18.2540332976</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3015426" lon="18.1149168">
+                <ele>18.0981749692</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3015868" lon="18.1149174">
+                <ele>18.0785297338</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3015868" lon="18.1149174">
+                <ele>18.0785297338</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3016129" lon="18.1145751">
+                <ele>18.0</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3016263" lon="18.114304">
+                <ele>17.4665482177</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3017756" lon="18.1134981">
+                <ele>15.7874272961</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3018814" lon="18.1130799">
+                <ele>13.677685424</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3019672" lon="18.1127992">
+                <ele>13.1334454921</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3020132" lon="18.1125374">
+                <ele>12.1186909246</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3020016" lon="18.112486">
+                <ele>11.9127201278</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3019994" lon="18.1124036">
+                <ele>11.7754614246</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3020021" lon="18.1122829">
+                <ele>11.5744858209</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3019925" lon="18.1121622">
+                <ele>11.4394740909</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3019829" lon="18.1119824">
+                <ele>11.2396680521</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3019816" lon="18.1119127">
+                <ele>11.1625814249</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3019741" lon="18.1118391">
+                <ele>11.0796310357</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3019714" lon="18.1117801">
+                <ele>10.9705480753</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3019645" lon="18.1116567">
+                <ele>10.7419504306</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3019597" lon="18.1115506">
+                <ele>10.5458036697</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3019419" lon="18.1114952">
+                <ele>10.4252624701</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3019419" lon="18.1114952">
+                <ele>10.4252624701</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3020829" lon="18.1110194">
+                <ele>9.4121685183</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3020829" lon="18.1110194">
+                <ele>9.4121685183</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3023189" lon="18.1103074">
+                <ele>8.14059037186</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3024287" lon="18.1100184">
+                <ele>7.97035570833</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3025277" lon="18.1096361">
+                <ele>7.542615194</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3025491" lon="18.1093716">
+                <ele>7.48363702975</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3026353" lon="18.1091312">
+                <ele>7.41893888956</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3027286" lon="18.1092837">
+                <ele>7.36651770317</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3027286" lon="18.1092837">
+                <ele>7.36651770317</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3028374" lon="18.1089725">
+                <ele>7.28345085358</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3030003" lon="18.1085703">
+                <ele>7.170383484</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3031065" lon="18.1083575">
+                <ele>7.10484527593</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3031352" lon="18.108269">
+                <ele>7.06866950842</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.303168" lon="18.1081643">
+                <ele>7.02628471948</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3032051" lon="18.1080812">
+                <ele>6.98819459686</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3032653" lon="18.1080007">
+                <ele>6.9389303909</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3033025" lon="18.1079115">
+                <ele>6.89918911865</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3034491" lon="18.1072972">
+                <ele>6.66522033304</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3036502" lon="18.1067074">
+                <ele>6.36093591447</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3038093" lon="18.1062495">
+                <ele>5.45663698722</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3039353" lon="18.106185">
+                <ele>5.29841666885</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3040672" lon="18.1057814">
+                <ele>5.00120445084</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3042653" lon="18.1052407">
+                <ele>5.22387711182</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.304428" lon="18.1047252">
+                <ele>5.12310572384</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3046062" lon="18.1041604">
+                <ele>5.0127077046</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3046288" lon="18.1040981">
+                <ele>4.99316713412</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3046743" lon="18.1039668">
+                <ele>4.96731794818</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3048107" lon="18.1036369">
+                <ele>4.89816741152</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.304926" lon="18.1033949">
+                <ele>4.8442478063</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3050768" lon="18.1030119">
+                <ele>4.09879562107</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3050639" lon="18.1007579">
+                <ele>4.064967339</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3051917" lon="18.1004073">
+                <ele>4.23135017255</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3053243" lon="18.1000358">
+                <ele>4.40642030868</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3054817" lon="18.099561">
+                <ele>5.62892517095</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3054817" lon="18.099561">
+                <ele>5.62892517095</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3055358" lon="18.0993809">
+                <ele>5.73803194319</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3056294" lon="18.0993226">
+                <ele>5.8384920783</ele>
+                <link href=""></link>
+            </trkpt>
+            <trkpt lat="59.3057873" lon="18.0993211">
+                <ele>6.0</ele>
+                <link href=""></link>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>
