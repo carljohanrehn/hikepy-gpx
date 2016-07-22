@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1"
+     creator="Carl Johan Rehn">
+    <metadata>
+        <name>Saltsjö-Duvnässtråket A</name>
+        <desc>GPX-koordinater för Wikipedia-artiklar.
+        </desc>
+        <author>
+            <name>Carl Johan Rehn</name>
+            <email id="care02" domain="gmail.com"/>
+            <link href="https://github.com/carljohanrehn/hikepy-gpx"></link>
+        </author>
+        <copyright author="Carl Johan Rehn">
+            <year>2016</year>
+            <license>http://opendatacommons.org/licenses/odbl/1.0/</license>
+        </copyright>
+        <link href="http://www.openstreetmap.org/copyright/">
+            <text>(c) OpenStreetMap contributors</text>
+            <type>OpenStreetMap Copyright and License</type>
+        </link>
+    </metadata>
+    <wpt lat="59.31032181" lon="18.15256119">
+        <name>Klara Södra gymnasium</name>
+        <cmt>Gymnasieskolor i Stockholm.</cmt>
+        <desc>Klara Södra gymnasium</desc>
+        <link href="http://sv.wikipedia.org/wiki/Klara_Södra_gymnasium">
+            <text>Klara Södra gymnasium</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30277778" lon="18.12222222">
+        <name>Sickla strand</name>
+        <cmt>Sicklaön. Nacka kommun.</cmt>
+        <desc>Sickla strand</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla_strand">
+            <text>Sickla strand</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30555556" lon="18.17805556">
+        <name>Storängens station</name>
+        <cmt>Järnvägsstationer invigda 1904. Nacka kommun. Järnvägsstationer i Stockholms län.</cmt>
+        <desc>Storängens station</desc>
+        <link href="http://sv.wikipedia.org/wiki/Storängens_station">
+            <text>Storängens station</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30091389" lon="18.09015278">
+        <name>Fryshuset</name>
+        <cmt>Södra Hammarbyhamnen. Konsertscener i Stockholm. Utbildning i Stockholm.</cmt>
+        <desc>Fryshuset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Fryshuset">
+            <text>Fryshuset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30694444" lon="18.10861111">
+        <name>Lugnets industriområde</name>
+        <cmt>Södra Hammarbyhamnen. Historiska industriområden i Stockholm. Illustrationsbehov-Stockholms historia.</cmt>
+        <desc>Lugnets industriområde</desc>
+        <link href="http://sv.wikipedia.org/wiki/Lugnets_industriområde">
+            <text>Lugnets industriområde</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30361667" lon="18.08932222">
+        <name>Hammarby gård</name>
+        <cmt>Ej längre existerande byggnader i Söderort. Södra Hammarbyhamnen.</cmt>
+        <desc>Hammarby gård</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarby_gård">
+            <text>Hammarby gård</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29805556" lon="18.14638889">
+        <name>Nacka gård</name>
+        <cmt>Industri. Sveriges industrihistoria. Bruk. Svenska järnbruk. Nacka kommun.</cmt>
+        <desc>Nacka gård</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nacka_gård">
+            <text>Nacka gård</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30595016" lon="18.10087776">
+        <name>Södra Hammarbyhamnen</name>
+        <cmt>Ej uppdaterad 2014-04. Ej uppdaterad-samtliga. Stadsdelar i Stockholm.</cmt>
+        <desc>Södra Hammarbyhamnen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södra_Hammarbyhamnen">
+            <text>Södra Hammarbyhamnen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30556389" lon="18.12183333">
+        <name>Stockholms läns museum</name>
+        <cmt>Museer i Stockholm. Länsmuseer i Sverige. Museer i Stockholms län. Byggnader i Nacka kommun.</cmt>
+        <desc>Stockholms läns museum</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stockholms_läns_museum">
+            <text>Stockholms läns museum</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31166667" lon="18.10444444">
+        <name>Anders Franzéns park</name>
+        <cmt>Parker i Stockholms kommun. Södra Hammarbyhamnen.</cmt>
+        <desc>Anders Franzéns park</desc>
+        <link href="http://sv.wikipedia.org/wiki/Anders_Franzéns_park">
+            <text>Anders Franzéns park</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3033" lon="18.09153889">
+        <name>Hammarby, Stockholm</name>
+        <cmt>Södra Hammarbyhamnen. Söderort.</cmt>
+        <desc>Hammarby, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarby,_Stockholm">
+            <text>Hammarby, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.299325" lon="18.12156111">
+        <name>Lilla Sickla</name>
+        <cmt>Engelska parker i Sverige. Byggnader i Söderort. Björkhagen.</cmt>
+        <desc>Lilla Sickla</desc>
+        <link href="http://sv.wikipedia.org/wiki/Lilla_Sickla">
+            <text>Lilla Sickla</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30715556" lon="18.14309444">
+        <name>Boo distrikt</name>
+        <cmt>Indelningar i Nacka kommun. Distrikt i Stockholms län.</cmt>
+        <desc>Boo distrikt</desc>
+        <link href="http://sv.wikipedia.org/wiki/Boo_distrikt">
+            <text>Boo distrikt</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30361111" lon="18.12583333">
+        <name>Tallbacken, Nacka kommun</name>
+        <cmt>Sicklaön. Nacka kommun.</cmt>
+        <desc>Tallbacken, Nacka kommun</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tallbacken,_Nacka_kommun">
+            <text>Tallbacken, Nacka kommun</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30602778" lon="18.12577778">
+        <name>Sickla Köpkvarter</name>
+        <cmt>Sicklaön. Köpcentrum i Stockholms län. Nacka kommun.</cmt>
+        <desc>Sickla Köpkvarter</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla_Köpkvarter">
+            <text>Sickla Köpkvarter</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30694444" lon="18.16611111">
+        <name>Villa Wållgren</name>
+        <cmt>Villor i Storängen.</cmt>
+        <desc>Villa Wållgren</desc>
+        <link href="http://sv.wikipedia.org/wiki/Villa_Wållgren">
+            <text>Villa Wållgren</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29861069" lon="18.15694427">
+        <name>Erstagårdskliniken</name>
+        <cmt>Sjukhus i Stockholms län. Medicinsk historia. Stockholms läns landsting. Stockholms sjukvårdsregion.</cmt>
+        <desc>Erstagårdskliniken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Erstagårdskliniken">
+            <text>Erstagårdskliniken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31" lon="18.13">
+        <name>Svindersvik</name>
+        <cmt>Sicklaön. Grill. Herrgårdar i Södermanland. Byggnader i Nacka kommun.</cmt>
+        <desc>Svindersvik</desc>
+        <link href="http://sv.wikipedia.org/wiki/Svindersvik">
+            <text>Svindersvik</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3025" lon="18.17888889">
+        <name>Fannydal</name>
+        <cmt>Nacka kommun.</cmt>
+        <desc>Fannydal</desc>
+        <link href="http://sv.wikipedia.org/wiki/Fannydal">
+            <text>Fannydal</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3125" lon="18.13361111">
+        <name>Stockholms Superfosfat Fabriks AB</name>
+        <cmt>Företag bildade 1871. Ej längre existerande svenska företag. Svenska kemiföretag. Företag i Nacka kommun.
+        </cmt>
+        <desc>Stockholms Superfosfat Fabriks AB</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stockholms_Superfosfat_Fabriks_AB">
+            <text>Stockholms Superfosfat Fabriks AB</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30833333" lon="18.09611111">
+        <name>Barnängsparken</name>
+        <cmt>Parker i Stockholms kommun. Södermalm.</cmt>
+        <desc>Barnängsparken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Barnängsparken">
+            <text>Barnängsparken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31118333" lon="18.093775">
+        <name>Tengdahlsparken</name>
+        <cmt>Parker i Stockholms kommun.</cmt>
+        <desc>Tengdahlsparken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tengdahlsparken">
+            <text>Tengdahlsparken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30666733" lon="18.09527779">
+        <name>Hammarbyleden</name>
+        <cmt>Kanaler i Sverige. Södermalm. Sjöfart i Stockholm. Södra Hammarbyhamnen.</cmt>
+        <desc>Hammarbyleden</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarbyleden">
+            <text>Hammarbyleden</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30719722" lon="18.12377222">
+        <name>Alphyddan, Nacka kommun</name>
+        <cmt>Sicklaön.</cmt>
+        <desc>Alphyddan, Nacka kommun</desc>
+        <link href="http://sv.wikipedia.org/wiki/Alphyddan,_Nacka_kommun">
+            <text>Alphyddan, Nacka kommun</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3075" lon="18.09194444">
+        <name>Vintertullen</name>
+        <cmt>Södermalm. Illustrationsbehov-Stockholms historia. Historiska tullar i Stockholm.</cmt>
+        <desc>Vintertullen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Vintertullen">
+            <text>Vintertullen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30819722" lon="18.09030833">
+        <name>Orionteatern</name>
+        <cmt>Teaterinstitutioner och teatergrupper. Kultur och konst i Stockholm. Teatrar i Stockholm. Byggnader på
+            Södermalm.
+        </cmt>
+        <desc>Orionteatern</desc>
+        <link href="http://sv.wikipedia.org/wiki/Orionteatern">
+            <text>Orionteatern</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30722222" lon="18.13583333">
+        <name>Setterwallska villan</name>
+        <cmt>Byggnader ritade av Johan Laurentz. Byggnadsminnen i Stockholms län. Byggnader i Nacka kommun.</cmt>
+        <desc>Setterwallska villan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Setterwallska_villan">
+            <text>Setterwallska villan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31032181" lon="18.15256119">
+        <name>Nacka gymnasium</name>
+        <cmt>Gymnasieskolor i Sverige. Samtliga utgångna bäst före. Utgångna bäst före 2015-08. Nacka kommun.</cmt>
+        <desc>Nacka gymnasium</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nacka_gymnasium">
+            <text>Nacka gymnasium</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30588056" lon="18.09436944">
+        <name>Lumafabriken</name>
+        <cmt>Södra Hammarbyhamnen. Sveriges industrihistoria. Industribyggnader i Sverige. Industriområden i Stockholm.
+            Funktionalistisk arkitektur. Byggnader i Hammarby sjöstad.
+        </cmt>
+        <desc>Lumafabriken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Lumafabriken">
+            <text>Lumafabriken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3075" lon="18.10066667">
+        <name>Hammarby sjö</name>
+        <cmt>Södermalm. Södra Hammarbyhamnen.</cmt>
+        <desc>Hammarby sjö</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarby_sjö">
+            <text>Hammarby sjö</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30305556" lon="18.1075">
+        <name>Sickla kanal</name>
+        <cmt>Kanaler i Sverige. Sicklaön. Sickla kanals avrinningsområde. Södra Hammarbyhamnen.</cmt>
+        <desc>Sickla kanal</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla_kanal">
+            <text>Sickla kanal</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30444444" lon="18.17944444">
+        <name>Villa Leander</name>
+        <cmt>Villor i Storängen. Arkitekturåret 1904.</cmt>
+        <desc>Villa Leander</desc>
+        <link href="http://sv.wikipedia.org/wiki/Villa_Leander">
+            <text>Villa Leander</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30266667" lon="18.10888889">
+        <name>Sickla sluss</name>
+        <cmt>Sicklaön. Södra Hammarbyhamnen.</cmt>
+        <desc>Sickla sluss</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla_sluss">
+            <text>Sickla sluss</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30456111" lon="18.09104444">
+        <name>Hammarby sjöstad</name>
+        <cmt>Sienapriset. Södermalms stadsdelsområde. Södra Hammarbyhamnen.</cmt>
+        <desc>Hammarby sjöstad</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarby_sjöstad">
+            <text>Hammarby sjöstad</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31176111" lon="18.09867778">
+        <name>Stockholms Spårvägsmuseum</name>
+        <cmt>Spårvägsmuseer. Museer i Stockholm. Teknikmuseer i Sverige. Södermalm. Museer invigda 1944. Spårtrafik.
+        </cmt>
+        <desc>Stockholms Spårvägsmuseum</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stockholms_Spårvägsmuseum">
+            <text>Stockholms Spårvägsmuseum</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30694444" lon="18.14305556">
+        <name>Nacka socken</name>
+        <cmt>Socknar i Svartlösa härad. Indelningar i Nacka kommun.</cmt>
+        <desc>Nacka socken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nacka_socken">
+            <text>Nacka socken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30833333" lon="18.17055556">
+        <name>Storängens Samskola</name>
+        <cmt>Riksintressen för kulturmiljövården i Stockholms län. Nacka kommun.</cmt>
+        <desc>Storängens Samskola</desc>
+        <link href="http://sv.wikipedia.org/wiki/Storängens_Samskola">
+            <text>Storängens Samskola</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30764167" lon="18.089825">
+        <name>Kvarteret Hamnvakten</name>
+        <cmt>Södermalm. Kvarter i Stockholm.</cmt>
+        <desc>Kvarteret Hamnvakten</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kvarteret_Hamnvakten">
+            <text>Kvarteret Hamnvakten</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29833333" lon="18.15888889">
+        <name>Hästhagen, Nacka kommun</name>
+        <cmt>Orter i Nacka kommun. Tätorter i Sverige.</cmt>
+        <desc>Hästhagen, Nacka kommun</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hästhagen,_Nacka_kommun">
+            <text>Hästhagen, Nacka kommun</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29818333" lon="18.14706944">
+        <name>Nacka ström</name>
+        <cmt>Vattendrag i Sverige. Nacka kommun. Sickla kanals avrinningsområde.</cmt>
+        <desc>Nacka ström</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nacka_ström">
+            <text>Nacka ström</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3025" lon="18.125">
+        <name>Sickla</name>
+        <cmt>Sicklaön. Nacka kommun. Södra Hammarbyhamnen.</cmt>
+        <desc>Sickla</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla">
+            <text>Sickla</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30398941" lon="18.10508347">
+        <name>Allébron</name>
+        <cmt>Broar invigda 2000. Tvärbanan. Broar i Stockholm.</cmt>
+        <desc>Allébron</desc>
+        <link href="http://sv.wikipedia.org/wiki/Allébron">
+            <text>Allébron</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30305556" lon="18.09222222">
+        <name>Mer än bara vänner?</name>
+        <cmt>Skulpturer i Stockholm. Södra Hammarbyhamnen. Skulpturer i rostfritt stål.</cmt>
+        <desc>Mer än bara vänner?</desc>
+        <link href="http://sv.wikipedia.org/wiki/Mer_än_bara_vänner?">
+            <text>Mer än bara vänner?</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30555556" lon="18.12638889">
+        <name>Sicklaön</name>
+        <cmt>Sicklaön. Halvöar i Sverige. Stockholms geografi. Nacka kommun.</cmt>
+        <desc>Sicklaön</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sicklaön">
+            <text>Sicklaön</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30075556" lon="18.17480278">
+        <name>Kranglan</name>
+        <cmt>Nacka kommun.</cmt>
+        <desc>Kranglan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kranglan">
+            <text>Kranglan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30475556" lon="18.16128056">
+        <name>Lillängen</name>
+        <cmt>Sicklaön. Nacka kommun.</cmt>
+        <desc>Lillängen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Lillängen">
+            <text>Lillängen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3068924" lon="18.10684204">
+        <name>Instabil</name>
+        <cmt>Stålskulpturer. Skulpturer i Södermalms stadsdelsområde.</cmt>
+        <desc>Instabil</desc>
+        <link href="http://sv.wikipedia.org/wiki/Instabil">
+            <text>Instabil</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30916667" lon="18.17055556">
+        <name>Villa Pauli, Storängen</name>
+        <cmt>Villor i Storängen. Arkitekturåret 1905.</cmt>
+        <desc>Villa Pauli, Storängen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Villa_Pauli,_Storängen">
+            <text>Villa Pauli, Storängen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30472183" lon="18.12111092">
+        <name>Atlas Copcos provgruva</name>
+        <cmt>Nacka kommun. Gruvdrift.</cmt>
+        <desc>Atlas Copcos provgruva</desc>
+        <link href="http://sv.wikipedia.org/wiki/Atlas_Copcos_provgruva">
+            <text>Atlas Copcos provgruva</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30722222" lon="18.09333333">
+        <name>Anna Lindhs park, Stockholm</name>
+        <cmt>Parker i Stockholms kommun. Södermalm.</cmt>
+        <desc>Anna Lindhs park, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Anna_Lindhs_park,_Stockholm">
+            <text>Anna Lindhs park, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29861069" lon="18.15694427">
+        <name>Villa Neumüller</name>
+        <cmt>Byggnader i Nacka kommun.</cmt>
+        <desc>Villa Neumüller</desc>
+        <link href="http://sv.wikipedia.org/wiki/Villa_Neumüller">
+            <text>Villa Neumüller</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31175556" lon="18.09867778">
+        <name>Leksaksmuseet, Stockholm</name>
+        <cmt>Södermalm. Museer i Stockholm. Leksaksmuseer. Museer invigda 1980.</cmt>
+        <desc>Leksaksmuseet, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Leksaksmuseet,_Stockholm">
+            <text>Leksaksmuseet, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30488333" lon="18.10260278">
+        <name>Sicklauddsbron</name>
+        <cmt>Broar invigda 2002. Södra Hammarbyhamnen. Broar i Stockholm.</cmt>
+        <desc>Sicklauddsbron</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sicklauddsbron">
+            <text>Sicklauddsbron</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.306775" lon="18.12134722">
+        <name>Nacka station</name>
+        <cmt>Järnvägsstationer invigda 1894. Järnvägsstationer i Stockholms län. Byggnader i Nacka kommun.</cmt>
+        <desc>Nacka station</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nacka_station">
+            <text>Nacka station</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30009444" lon="18.09814167">
+        <name>Hammarbytornet</name>
+        <cmt>TV-torn i Sverige. Byggnader i Söderort. Hammarbyhöjden.</cmt>
+        <desc>Hammarbytornet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarbytornet">
+            <text>Hammarbytornet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30555556" lon="18.14611111">
+        <name>Ekudden, Nacka</name>
+        <cmt>Sicklaön.</cmt>
+        <desc>Ekudden, Nacka</desc>
+        <link href="http://sv.wikipedia.org/wiki/Ekudden,_Nacka">
+            <text>Ekudden, Nacka</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30453611" lon="18.09587778">
+        <name>Luma, Stockholm</name>
+        <cmt>Södra Hammarbyhamnen.</cmt>
+        <desc>Luma, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Luma,_Stockholm">
+            <text>Luma, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31233333" lon="18.13847222">
+        <name>Sofia kyrka</name>
+        <cmt>Kyrkobyggnader i Stockholms innerstad. Religiösa byggnader invigda 1906. Byggnader ritade av Gustaf
+            Hermansson. Byggnader på Södermalm. Kyrkobyggnader i Stockholms stift.
+        </cmt>
+        <desc>Sofia kyrka</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sofia_kyrka">
+            <text>Sofia kyrka</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30277778" lon="18.20055556">
+        <name>Saltsjö-Duvnäs</name>
+        <cmt>Sicklaön. Nacka kommun. Järnvägsstationer i Stockholms län.</cmt>
+        <desc>Saltsjö-Duvnäs</desc>
+        <link href="http://sv.wikipedia.org/wiki/Saltsjö-Duvnäs">
+            <text>Saltsjö-Duvnäs</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3075" lon="18.17638889">
+        <name>Villa Bellander</name>
+        <cmt>Villor i Storängen.</cmt>
+        <desc>Villa Bellander</desc>
+        <link href="http://sv.wikipedia.org/wiki/Villa_Bellander">
+            <text>Villa Bellander</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30694444" lon="18.17694444">
+        <name>Villa Lodén</name>
+        <cmt>Villor i Storängen. Arkitekturåret 1904.</cmt>
+        <desc>Villa Lodén</desc>
+        <link href="http://sv.wikipedia.org/wiki/Villa_Lodén">
+            <text>Villa Lodén</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30408611" lon="18.12183889">
+        <name>Designgymnasiet</name>
+        <cmt>Friskolor i Sverige. Gymnasieskolor i Sverige.</cmt>
+        <desc>Designgymnasiet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Designgymnasiet">
+            <text>Designgymnasiet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30611111" lon="18.17">
+        <name>Villa Wahlström</name>
+        <cmt>Villor i Storängen. Arkitekturåret 1906.</cmt>
+        <desc>Villa Wahlström</desc>
+        <link href="http://sv.wikipedia.org/wiki/Villa_Wahlström">
+            <text>Villa Wahlström</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30224" lon="18.15736">
+        <name>Järlasjön</name>
+        <cmt>Insjöar i Norrström-Tyresåns kustområde. Insjöar i Södermanland. Insjöar i Nacka kommun. Sickla kanals
+            avrinningsområde.
+        </cmt>
+        <desc>Järlasjön</desc>
+        <link href="http://sv.wikipedia.org/wiki/Järlasjön">
+            <text>Järlasjön</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30953598" lon="18.16854668">
+        <name>Villa Yngve Larsson</name>
+        <cmt>1907 i Sverige. Byggnader ritade av Ragnar Östberg. Villor i Storängen. Arkitekturåret 1907. Byggnader med
+            anknytning till Bonnierfamiljen.
+        </cmt>
+        <desc>Villa Yngve Larsson</desc>
+        <link href="http://sv.wikipedia.org/wiki/Villa_Yngve_Larsson">
+            <text>Villa Yngve Larsson</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30683611" lon="18.08760556">
+        <name>Stora Blecktornsparken</name>
+        <cmt>Parker i Stockholms kommun. Södermalm.</cmt>
+        <desc>Stora Blecktornsparken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stora_Blecktornsparken">
+            <text>Stora Blecktornsparken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30916667" lon="18.17361111">
+        <name>Villa Bergh</name>
+        <cmt>Villor i Storängen.</cmt>
+        <desc>Villa Bergh</desc>
+        <link href="http://sv.wikipedia.org/wiki/Villa_Bergh">
+            <text>Villa Bergh</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31" lon="18.16388889">
+        <name>Nacka</name>
+        <cmt>Orter i Nacka kommun. Sicklaön. Centralorter i Stockholms län.</cmt>
+        <desc>Nacka</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nacka">
+            <text>Nacka</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30561066" lon="18.17236137">
+        <name>Villa Wallbeck-Hallgren</name>
+        <cmt>1908 i Sverige. Arkitekturåret 1908. Villor i Storängen.</cmt>
+        <desc>Villa Wallbeck-Hallgren</desc>
+        <link href="http://sv.wikipedia.org/wiki/Villa_Wallbeck-Hallgren">
+            <text>Villa Wallbeck-Hallgren</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30974444" lon="18.10883889">
+        <name>Hammarby sjöstadsverk</name>
+        <cmt>Reningsverk i Sverige. Byggnader i Hammarby sjöstad. Södra Hammarbyhamnen.</cmt>
+        <desc>Hammarby sjöstadsverk</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarby_sjöstadsverk">
+            <text>Hammarby sjöstadsverk</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30222222" lon="18.11027778">
+        <name>Sickla kanalbro</name>
+        <cmt>Södra Hammarbyhamnen. Motorvägsbroar i Sverige. Broar invigda 2004. Broar i Stockholm.</cmt>
+        <desc>Sickla kanalbro</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla_kanalbro">
+            <text>Sickla kanalbro</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30715556" lon="18.14309444">
+        <name>Nacka distrikt</name>
+        <cmt>Indelningar i Nacka kommun. Distrikt i Stockholms län.</cmt>
+        <desc>Nacka distrikt</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nacka_distrikt">
+            <text>Nacka distrikt</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30479431" lon="18.15049744">
+        <name>Järla sjö</name>
+        <cmt>Nacka kommun.</cmt>
+        <desc>Järla sjö</desc>
+        <link href="http://sv.wikipedia.org/wiki/Järla_sjö">
+            <text>Järla sjö</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30416667" lon="18.15305556">
+        <name>Järla gård</name>
+        <cmt>Herrgårdar i Södermanland. Byggnader i Nacka kommun.</cmt>
+        <desc>Järla gård</desc>
+        <link href="http://sv.wikipedia.org/wiki/Järla_gård">
+            <text>Järla gård</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30463056" lon="18.10211111">
+        <name>Sickla kaj</name>
+        <cmt>Södra Hammarbyhamnen.</cmt>
+        <desc>Sickla kaj</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla_kaj">
+            <text>Sickla kaj</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30136" lon="18.1264">
+        <name>Sicklasjön</name>
+        <cmt>Insjöar i Stockholms kommun. Insjöar i Nacka kommun. Insjöar i Norrström-Tyresåns kustområde. Sickla kanals
+            avrinningsområde. Insjöar i Södermanland.
+        </cmt>
+        <desc>Sicklasjön</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sicklasjön">
+            <text>Sicklasjön</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30583191" lon="18.13416672">
+        <name>Villa Tomtebo, Sickla</name>
+        <cmt>Villor i Sverige. Byggnader i Nacka kommun.</cmt>
+        <desc>Villa Tomtebo, Sickla</desc>
+        <link href="http://sv.wikipedia.org/wiki/Villa_Tomtebo,_Sickla">
+            <text>Villa Tomtebo, Sickla</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30809444" lon="18.13301944">
+        <name>Finntorp</name>
+        <cmt>Sicklaön. Nacka kommun.</cmt>
+        <desc>Finntorp</desc>
+        <link href="http://sv.wikipedia.org/wiki/Finntorp">
+            <text>Finntorp</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30918121" lon="18.10409355">
+        <name>Henriksdalshamnen</name>
+        <cmt>Södra Hammarbyhamnen.</cmt>
+        <desc>Henriksdalshamnen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Henriksdalshamnen">
+            <text>Henriksdalshamnen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.303" lon="18.11566667">
+        <name>Fredells</name>
+        <cmt>Svenska bygghandelsföretag. Sicklaön. Företag i Nacka kommun. Svenska familjeföretag.</cmt>
+        <desc>Fredells</desc>
+        <link href="http://sv.wikipedia.org/wiki/Fredells">
+            <text>Fredells</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30583333" lon="18.17833333">
+        <name>Storängen</name>
+        <cmt>Sicklaön. Stadsplanering i Stockholm. Villor i Storängen. Riksintressen för kulturmiljövården i Stockholms
+            län. Nacka kommun. Stockholms historia.
+        </cmt>
+        <desc>Storängen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Storängen">
+            <text>Storängen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30995833" lon="18.15486389">
+        <name>Järla</name>
+        <cmt>Sicklaön. Nacka kommun.</cmt>
+        <desc>Järla</desc>
+        <link href="http://sv.wikipedia.org/wiki/Järla">
+            <text>Järla</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30444444" lon="18.17611111">
+        <name>Lotterivillan, Storängen</name>
+        <cmt>Villor i Storängen.</cmt>
+        <desc>Lotterivillan, Storängen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Lotterivillan,_Storängen">
+            <text>Lotterivillan, Storängen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30877778" lon="18.10338889">
+        <name>Jan Inghes torg</name>
+        <cmt>Gator och torg i Hammarby sjöstad. Södra Hammarbyhamnen.</cmt>
+        <desc>Jan Inghes torg</desc>
+        <link href="http://sv.wikipedia.org/wiki/Jan_Inghes_torg">
+            <text>Jan Inghes torg</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30861111" lon="18.1175">
+        <name>Dockan, Nacka kommun</name>
+        <cmt>Nacka kommun.</cmt>
+        <desc>Dockan, Nacka kommun</desc>
+        <link href="http://sv.wikipedia.org/wiki/Dockan,_Nacka_kommun">
+            <text>Dockan, Nacka kommun</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30752778" lon="18.14060556">
+        <name>Nacka församling</name>
+        <cmt>Indelningar i Nacka kommun. Församlingar i Stockholms stift.</cmt>
+        <desc>Nacka församling</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nacka_församling">
+            <text>Nacka församling</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30555725" lon="18.1380558">
+        <name>Kyrkviken, Nacka</name>
+        <cmt>Nacka kommun.</cmt>
+        <desc>Kyrkviken, Nacka</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kyrkviken,_Nacka">
+            <text>Kyrkviken, Nacka</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30841111" lon="18.09313056">
+        <name>Färgargårdstorget</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Färgargårdstorget</desc>
+        <link href="http://sv.wikipedia.org/wiki/Färgargårdstorget">
+            <text>Färgargårdstorget</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30194444" lon="18.11388889">
+        <name>Stora Sickla</name>
+        <cmt>Sicklaön. Herrgårdar i Södermanland. Ej längre existerande byggnader i Nacka kommun.</cmt>
+        <desc>Stora Sickla</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stora_Sickla">
+            <text>Stora Sickla</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30780556" lon="18.09086111">
+        <name>Vintertullstorget</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Vintertullstorget</desc>
+        <link href="http://sv.wikipedia.org/wiki/Vintertullstorget">
+            <text>Vintertullstorget</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31" lon="18.12694444">
+        <name>Villa Kullen, Nacka kommun</name>
+        <cmt>Villor i Sverige. Byggnader i Nacka kommun.</cmt>
+        <desc>Villa Kullen, Nacka kommun</desc>
+        <link href="http://sv.wikipedia.org/wiki/Villa_Kullen,_Nacka_kommun">
+            <text>Villa Kullen, Nacka kommun</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30175278" lon="18.09773333">
+        <name>Kulturama</name>
+        <cmt>Södra Hammarbyhamnen. Konstskolor i Sverige. Musikutbildning i Stockholm. Utbildning i Stockholm.</cmt>
+        <desc>Kulturama</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kulturama">
+            <text>Kulturama</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30305556" lon="18.09638889">
+        <name>Heliosparken</name>
+        <cmt>Parker i Stockholms kommun. Södra Hammarbyhamnen.</cmt>
+        <desc>Heliosparken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Heliosparken">
+            <text>Heliosparken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30544444" lon="18.099">
+        <name>Vattentrappan</name>
+        <cmt>Södra Hammarbyhamnen. Fontäner i Stockholm.</cmt>
+        <desc>Vattentrappan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Vattentrappan">
+            <text>Vattentrappan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30638885" lon="18.17527771">
+        <name>Villa Jacobsen, Storängen</name>
+        <cmt>Villor i Storängen. Arkitekturåret 1906.</cmt>
+        <desc>Villa Jacobsen, Storängen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Villa_Jacobsen,_Storängen">
+            <text>Villa Jacobsen, Storängen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30833333" lon="18.09027778">
+        <name>AB Axel G Jansson</name>
+        <cmt>Företag upplösta 1978. Stålbyggnadsföretag. Södermalm. Företag bildade 1909. Ej längre existerande svenska
+            verkstadsindustriföretag. Företag i Stockholms kommun. Illustrationsbehov-Stockholms historia.
+        </cmt>
+        <desc>AB Axel G Jansson</desc>
+        <link href="http://sv.wikipedia.org/wiki/AB_Axel_G_Jansson">
+            <text>AB Axel G Jansson</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30139722" lon="18.09168056">
+        <name>Grafikskolan i Stockholm</name>
+        <cmt>Södra Hammarbyhamnen. Konstskolor i Sverige.</cmt>
+        <desc>Grafikskolan i Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Grafikskolan_i_Stockholm">
+            <text>Grafikskolan i Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30538056" lon="18.15125">
+        <name>AB de Lavals Ångturbin</name>
+        <cmt>Företag bildade 1893. Ej längre existerande svenska verkstadsindustriföretag. Sveriges industrihistoria. Ej
+            längre existerande företag i Nacka kommun.
+        </cmt>
+        <desc>AB de Lavals Ångturbin</desc>
+        <link href="http://sv.wikipedia.org/wiki/AB_de_Lavals_Ångturbin">
+            <text>AB de Lavals Ångturbin</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30333328" lon="18.10333252">
+        <name>Fält (fontän)</name>
+        <cmt>Södra Hammarbyhamnen. Lekskulpturer. Skulpturer i Södermalms stadsdelsområde. Fontäner i Stockholm.
+            Skulpturer i Stockholm.
+        </cmt>
+        <desc>Fält (fontän)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Fält_(fontän)">
+            <text>Fält (fontän)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30685833" lon="18.14972222">
+        <name>Saltsjö-Järla</name>
+        <cmt>Nacka kommun.</cmt>
+        <desc>Saltsjö-Järla</desc>
+        <link href="http://sv.wikipedia.org/wiki/Saltsjö-Järla">
+            <text>Saltsjö-Järla</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3075" lon="18.17916667">
+        <name>Villa Kallstenius</name>
+        <cmt>Villor i Storängen. Arkitekturåret 1906.</cmt>
+        <desc>Villa Kallstenius</desc>
+        <link href="http://sv.wikipedia.org/wiki/Villa_Kallstenius">
+            <text>Villa Kallstenius</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30416667" lon="18.11027778">
+        <name>Sickla park</name>
+        <cmt>Parker i Stockholms kommun. Södra Hammarbyhamnen.</cmt>
+        <desc>Sickla park</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla_park">
+            <text>Sickla park</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30694444" lon="18.18">
+        <name>Villa Widstrand</name>
+        <cmt>Villor i Storängen. Arkitekturåret 1906.</cmt>
+        <desc>Villa Widstrand</desc>
+        <link href="http://sv.wikipedia.org/wiki/Villa_Widstrand">
+            <text>Villa Widstrand</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30527778" lon="18.12166667">
+        <name>Filmstaden Sickla</name>
+        <cmt>Biografer i Stockholm. Byggnader i Nacka kommun.</cmt>
+        <desc>Filmstaden Sickla</desc>
+        <link href="http://sv.wikipedia.org/wiki/Filmstaden_Sickla">
+            <text>Filmstaden Sickla</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30563889" lon="18.10388889">
+        <name>Sickla udde</name>
+        <cmt>Södra Hammarbyhamnen.</cmt>
+        <desc>Sickla udde</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sickla_udde">
+            <text>Sickla udde</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30305556" lon="18.10461111">
+        <name>Sjöstadskapellet</name>
+        <cmt>Religiösa byggnader invigda 2002. Kyrkobyggnader i Stockholms innerstad. Kyrkobyggnader i Stockholms
+            stift.
+        </cmt>
+        <desc>Sjöstadskapellet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sjöstadskapellet">
+            <text>Sjöstadskapellet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30715556" lon="18.14309444">
+        <name>Nacka kyrka</name>
+        <cmt>Byggnader ritade av Gustaf Wickman. Religiösa byggnader invigda 1891. Sicklaön. Kyrkobyggnader i Nacka
+            kommun. Kyrkobyggnader i Stockholms stift.
+        </cmt>
+        <desc>Nacka kyrka</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nacka_kyrka">
+            <text>Nacka kyrka</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30715556" lon="18.14309444">
+        <name>Birka, Nacka kommun</name>
+        <cmt>Sicklaön.</cmt>
+        <desc>Birka, Nacka kommun</desc>
+        <link href="http://sv.wikipedia.org/wiki/Birka,_Nacka_kommun">
+            <text>Birka, Nacka kommun</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30780556" lon="18.09086111">
+        <name>Vinterfågel</name>
+        <cmt>Djurskulpturer. Skulpturer av Göran Lange. Södermalm. Skulpturer i Södermalms stadsdelsområde. Skulpturer i
+            Stockholm.
+        </cmt>
+        <desc>Vinterfågel</desc>
+        <link href="http://sv.wikipedia.org/wiki/Vinterfågel">
+            <text>Vinterfågel</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30527778" lon="18.12083333">
+        <name>Dieselverkstaden</name>
+        <cmt>Sicklaön. Kulturhus i Sverige. Industrihistoria. Bibliotek i Sverige. Byggnader i Nacka kommun.</cmt>
+        <desc>Dieselverkstaden</desc>
+        <link href="http://sv.wikipedia.org/wiki/Dieselverkstaden">
+            <text>Dieselverkstaden</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30948611" lon="18.16431667">
+        <name>Nacka Forum</name>
+        <cmt>Köpcentrum i Stockholms län. Byggnader i Nacka kommun.</cmt>
+        <desc>Nacka Forum</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nacka_Forum">
+            <text>Nacka Forum</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29918056" lon="18.10950278">
+        <name>Hammarbytoppen</name>
+        <cmt>Vintersportanläggningar i Sverige. Björkhagen. Konstgjorda berg i Sverige.</cmt>
+        <desc>Hammarbytoppen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hammarbytoppen">
+            <text>Hammarbytoppen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+</gpx>

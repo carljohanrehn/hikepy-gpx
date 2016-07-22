@@ -1,0 +1,3703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1"
+     creator="Carl Johan Rehn">
+    <metadata>
+        <name>Huddingestråket</name>
+        <desc>GPX-koordinater för Wikipedia-artiklar.
+        </desc>
+        <author>
+            <name>Carl Johan Rehn</name>
+            <email id="care02" domain="gmail.com"/>
+            <link href="https://github.com/carljohanrehn/hikepy-gpx"></link>
+        </author>
+        <copyright author="Carl Johan Rehn">
+            <year>2016</year>
+            <license>http://opendatacommons.org/licenses/odbl/1.0/</license>
+        </copyright>
+        <link href="http://www.openstreetmap.org/copyright/">
+            <text>(c) OpenStreetMap contributors</text>
+            <type>OpenStreetMap Copyright and License</type>
+        </link>
+    </metadata>
+    <wpt lat="59.27943056" lon="18.00823889">
+        <name>Lerkrogen</name>
+        <cmt>Byggnader i Söderort. Älvsjö stadsdelsområde. Solberga.</cmt>
+        <desc>Lerkrogen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Lerkrogen">
+            <text>Lerkrogen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32027778" lon="18.06138889">
+        <name>Ivar Los park</name>
+        <cmt>Parker i Stockholms kommun.</cmt>
+        <desc>Ivar Los park</desc>
+        <link href="http://sv.wikipedia.org/wiki/Ivar_Los_park">
+            <text>Ivar Los park</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30805556" lon="18.02777778">
+        <name>Förskolan Sjötorget</name>
+        <cmt>Liljeholmen.</cmt>
+        <desc>Förskolan Sjötorget</desc>
+        <link href="http://sv.wikipedia.org/wiki/Förskolan_Sjötorget">
+            <text>Förskolan Sjötorget</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32536111" lon="18.06999722">
+        <name>Cornelis Vreeswijkmuseet</name>
+        <cmt>Ej längre existerande museer i Stockholm. Museer invigda 2000. Museer nedlagda 2011.</cmt>
+        <desc>Cornelis Vreeswijkmuseet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Cornelis_Vreeswijkmuseet">
+            <text>Cornelis Vreeswijkmuseet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32575" lon="18.06975">
+        <name>Trångsund, Stockholm</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Trångsund, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Trångsund,_Stockholm">
+            <text>Trångsund, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23633889" lon="17.97875">
+        <name>Huddinge (pendeltågsstation)</name>
+        <cmt>Byggnader i Huddinge kommun. Järnvägsstationer invigda 1860. Sjödalen-Fullersta (kommundel).
+            Järnvägsstationer i Stockholms län.
+        </cmt>
+        <desc>Huddinge (pendeltågsstation)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Huddinge_(pendeltågsstation)">
+            <text>Huddinge (pendeltågsstation)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.2902" lon="18.03490556">
+        <name>Östberga</name>
+        <cmt>Östberga. Stadsdelar i Stockholm.</cmt>
+        <desc>Östberga</desc>
+        <link href="http://sv.wikipedia.org/wiki/Östberga">
+            <text>Östberga</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27802778" lon="18.02241667">
+        <name>Brännkyrkasjön</name>
+        <cmt>Ej längre existerande insjöar. Insjöar i Södermanland.</cmt>
+        <desc>Brännkyrkasjön</desc>
+        <link href="http://sv.wikipedia.org/wiki/Brännkyrkasjön">
+            <text>Brännkyrkasjön</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27943056" lon="18.00823889">
+        <name>Älvkvarnstenen</name>
+        <cmt>Fornminnen från järnåldern i Sverige. Fornminnen i Stockholms kommun. Fornminnen i Södermanland.
+            Skålgropar.
+        </cmt>
+        <desc>Älvkvarnstenen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Älvkvarnstenen">
+            <text>Älvkvarnstenen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31666667" lon="18.04694444">
+        <name>Globala gymnasiet</name>
+        <cmt>Gymnasieskolor i Stockholm. Gymnasieskolor i Sverige. Utbildningsinstitutioner bildade 2004. Södermalm.
+        </cmt>
+        <desc>Globala gymnasiet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Globala_gymnasiet">
+            <text>Globala gymnasiet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3109" lon="18.06199444">
+        <name>Rosenlunds sjukhus</name>
+        <cmt>Sjukhus i Stockholms län. Byggnader på Södermalm. Byggnader ritade av Axel Kumlien. Byggnader ritade av
+            Hjalmar Kumlien.
+        </cmt>
+        <desc>Rosenlunds sjukhus</desc>
+        <link href="http://sv.wikipedia.org/wiki/Rosenlunds_sjukhus">
+            <text>Rosenlunds sjukhus</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31555556" lon="18.05">
+        <name>Zinkensdamms IP</name>
+        <cmt>Södermalm. Sportanläggningar i Stockholms län. Bandyanläggningar i Sverige. Sportanläggningar invigda 1937.
+            Fotbollsanläggningar i Sverige.
+        </cmt>
+        <desc>Zinkensdamms IP</desc>
+        <link href="http://sv.wikipedia.org/wiki/Zinkensdamms_IP">
+            <text>Zinkensdamms IP</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29733889" lon="18.05193056">
+        <name>Årsta centrum</name>
+        <cmt>Årsta. Byggnader i Söderort. Riksbyggen. Riksintressen för kulturmiljövården i Stockholms län.</cmt>
+        <desc>Årsta centrum</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årsta_centrum">
+            <text>Årsta centrum</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31444444" lon="18.055">
+        <name>Kvarteret Tobaksmonopolet</name>
+        <cmt>Historiska industriområden i Stockholm. Södermalm. Kvarter i Stockholm. Sveriges industrihistoria.</cmt>
+        <desc>Kvarteret Tobaksmonopolet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kvarteret_Tobaksmonopolet">
+            <text>Kvarteret Tobaksmonopolet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32416667" lon="18.07166667">
+        <name>Tyska kyrkan, Stockholm</name>
+        <cmt>Kyrkobyggnader i Gamla stan. Relationer mellan Sverige och Tyskland. Klockspel i Sverige.</cmt>
+        <desc>Tyska kyrkan, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tyska_kyrkan,_Stockholm">
+            <text>Tyska kyrkan, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31444444" lon="18.05972222">
+        <name>Bergsgruvan</name>
+        <cmt>Parker i Stockholms kommun. Södermalm. Stockholms historia.</cmt>
+        <desc>Bergsgruvan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Bergsgruvan">
+            <text>Bergsgruvan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32466667" lon="18.06694444">
+        <name>Munkbron</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Munkbron</desc>
+        <link href="http://sv.wikipedia.org/wiki/Munkbron">
+            <text>Munkbron</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.24006944" lon="17.985">
+        <name>Huddinge socken</name>
+        <cmt>Indelningar i Huddinge kommun. Socknar i Svartlösa härad.</cmt>
+        <desc>Huddinge socken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Huddinge_socken">
+            <text>Huddinge socken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.325" lon="18.06527778">
+        <name>Riddarholmsbron</name>
+        <cmt>Riddarholmen. Gamla stan. Broar invigda 1958. Broar i Stockholm.</cmt>
+        <desc>Riddarholmsbron</desc>
+        <link href="http://sv.wikipedia.org/wiki/Riddarholmsbron">
+            <text>Riddarholmsbron</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31894444" lon="18.07111111">
+        <name>Klevgränd</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Klevgränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Klevgränd">
+            <text>Klevgränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29166667" lon="18.04722222">
+        <name>Gamla Göta landsväg</name>
+        <cmt>Gator och torg i Söderort. Botkyrka kommun. Södertälje kommun. Enskede-Årsta-Vantörs stadsdelsområde.
+            Vägtrafik i Stockholm. Stockholms historia. Gator och torg i Huddinge. Historiska riksvägar i Sverige.
+            Salems kommun. Medeltida vägar i Sverige.
+        </cmt>
+        <desc>Gamla Göta landsväg</desc>
+        <link href="http://sv.wikipedia.org/wiki/Gamla_Göta_landsväg">
+            <text>Gamla Göta landsväg</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32" lon="18.07111111">
+        <name>Södermalmstorg</name>
+        <cmt>Slussen. Gator och torg på Södermalm.</cmt>
+        <desc>Södermalmstorg</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södermalmstorg">
+            <text>Södermalmstorg</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30266389" lon="18.05693056">
+        <name>Årsta skogs och holmars naturreservat</name>
+        <cmt>Årsta. Planerade naturreservat i Stockholms stad. Södermalm.</cmt>
+        <desc>Årsta skogs och holmars naturreservat</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årsta_skogs_och_holmars_naturreservat">
+            <text>Årsta skogs och holmars naturreservat</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.315" lon="18.06972222">
+        <name>Söder torn</name>
+        <cmt>Skyskrapor i Stockholm. Byggnader på Södermalm.</cmt>
+        <desc>Söder torn</desc>
+        <link href="http://sv.wikipedia.org/wiki/Söder_torn">
+            <text>Söder torn</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.2538" lon="17.99378056">
+        <name>Häradsvägen, Huddinge kommun</name>
+        <cmt>Gator och torg i Huddinge. Huddinge kommun.</cmt>
+        <desc>Häradsvägen, Huddinge kommun</desc>
+        <link href="http://sv.wikipedia.org/wiki/Häradsvägen,_Huddinge_kommun">
+            <text>Häradsvägen, Huddinge kommun</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.26173611" lon="18.00367222">
+        <name>Ormkärr</name>
+        <cmt>Hagsätra.</cmt>
+        <desc>Ormkärr</desc>
+        <link href="http://sv.wikipedia.org/wiki/Ormkärr">
+            <text>Ormkärr</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32488632" lon="18.06787491">
+        <name>Milon 11</name>
+        <cmt>Byggnader ritade av Erik Josephson. Historiska bankbyggnader i Sverige. Byggnader i Gamla stan.</cmt>
+        <desc>Milon 11</desc>
+        <link href="http://sv.wikipedia.org/wiki/Milon_11">
+            <text>Milon 11</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27638889" lon="18.00027778">
+        <name>Sjättenovembervägen</name>
+        <cmt>Älvsjö. Gator och torg i Söderort. Långbro.</cmt>
+        <desc>Sjättenovembervägen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sjättenovembervägen">
+            <text>Sjättenovembervägen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32416667" lon="18.06444444">
+        <name>Gymnasiegränd</name>
+        <cmt>Gator och torg på Riddarholmen.</cmt>
+        <desc>Gymnasiegränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Gymnasiegränd">
+            <text>Gymnasiegränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31842222" lon="18.06429167">
+        <name>Kvarteret Rosendal, Stockholm</name>
+        <cmt>Kvarter i Stockholm. Byggnader på Södermalm.</cmt>
+        <desc>Kvarteret Rosendal, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kvarteret_Rosendal,_Stockholm">
+            <text>Kvarteret Rosendal, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3128891" lon="18.06772232">
+        <name>KF:s centrallager</name>
+        <cmt>Funktionalistisk arkitektur. Ej längre existerande byggnader på Södermalm.</cmt>
+        <desc>KF:s centrallager</desc>
+        <link href="http://sv.wikipedia.org/wiki/KF:s_centrallager">
+            <text>KF:s centrallager</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31472222" lon="18.07083333">
+        <name>Södermalms saluhall</name>
+        <cmt>Saluhallar i Sverige. Byggnader på Södermalm.</cmt>
+        <desc>Södermalms saluhall</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södermalms_saluhall">
+            <text>Södermalms saluhall</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31527778" lon="18.05611111">
+        <name>Maria Skolgata</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Maria Skolgata</desc>
+        <link href="http://sv.wikipedia.org/wiki/Maria_Skolgata">
+            <text>Maria Skolgata</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32566667" lon="18.06794444">
+        <name>Cattelin</name>
+        <cmt>Harry Friberg. Restauranger i Stockholm.</cmt>
+        <desc>Cattelin</desc>
+        <link href="http://sv.wikipedia.org/wiki/Cattelin">
+            <text>Cattelin</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31333333" lon="18.05994444">
+        <name>Kvarteret Brinckan</name>
+        <cmt>Byggnader på Södermalm.</cmt>
+        <desc>Kvarteret Brinckan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kvarteret_Brinckan">
+            <text>Kvarteret Brinckan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31263889" lon="18.05816667">
+        <name>Fatburs kvarngata</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Fatburs kvarngata</desc>
+        <link href="http://sv.wikipedia.org/wiki/Fatburs_kvarngata">
+            <text>Fatburs kvarngata</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3175" lon="18.065">
+        <name>Björngårdsgatan</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Björngårdsgatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Björngårdsgatan">
+            <text>Björngårdsgatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31847222" lon="18.05002778">
+        <name>Ringvägen, Stockholm</name>
+        <cmt>Ringleder. Gator och torg på Södermalm.</cmt>
+        <desc>Ringvägen, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Ringvägen,_Stockholm">
+            <text>Ringvägen, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31805556" lon="18.06861111">
+        <name>Monteliushuset</name>
+        <cmt>Byggnader på Södermalm.</cmt>
+        <desc>Monteliushuset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Monteliushuset">
+            <text>Monteliushuset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32184982" lon="18.06963348">
+        <name>Söderström</name>
+        <cmt>Slussenområdet. Vattendrag i Sverige. Stockholms geografi.</cmt>
+        <desc>Söderström</desc>
+        <link href="http://sv.wikipedia.org/wiki/Söderström">
+            <text>Söderström</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32541656" lon="18.06999969">
+        <name>Ankargränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Ankargränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Ankargränd">
+            <text>Ankargränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28711111" lon="18.00995">
+        <name>Klacktorget</name>
+        <cmt>Gator och torg i Söderort. Solberga.</cmt>
+        <desc>Klacktorget</desc>
+        <link href="http://sv.wikipedia.org/wiki/Klacktorget">
+            <text>Klacktorget</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32561111" lon="18.06697222">
+        <name>Stora Nygatan</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Stora Nygatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stora_Nygatan">
+            <text>Stora Nygatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32455556" lon="18.06744444">
+        <name>Lilla Nygatan</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Lilla Nygatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Lilla_Nygatan">
+            <text>Lilla Nygatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23820278" lon="17.98768611">
+        <name>Biskopsstenen</name>
+        <cmt>Flyttblock. Kvartärgeologi. Huddinge kommun.</cmt>
+        <desc>Biskopsstenen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Biskopsstenen">
+            <text>Biskopsstenen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32333333" lon="18.07041667">
+        <name>Lejonstedts gränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Lejonstedts gränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Lejonstedts_gränd">
+            <text>Lejonstedts gränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31683333" lon="18.05791667">
+        <name>Malmqvistska barnuppfostringsanstalten</name>
+        <cmt>Ej längre existerande skolor i Stockholm. Utbildningsinstitutioner bildade 1852. Södermalm.
+            Utbildningsinstitutioner upplösta 1948. Ugglan. Stockholms historia.
+        </cmt>
+        <desc>Malmqvistska barnuppfostringsanstalten</desc>
+        <link href="http://sv.wikipedia.org/wiki/Malmqvistska_barnuppfostringsanstalten">
+            <text>Malmqvistska barnuppfostringsanstalten</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31252778" lon="18.05472222">
+        <name>Sköldgatan</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Sköldgatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sköldgatan">
+            <text>Sköldgatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23777778" lon="17.98916667">
+        <name>Tomtberga kyrkogård</name>
+        <cmt>Begravningsplatser i Stockholms län. Huddinge kommun.</cmt>
+        <desc>Tomtberga kyrkogård</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tomtberga_kyrkogård">
+            <text>Tomtberga kyrkogård</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31527778" lon="18.04027778">
+        <name>Drakenbergsområdet</name>
+        <cmt>Miljonprogrammet. Södermalm.</cmt>
+        <desc>Drakenbergsområdet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Drakenbergsområdet">
+            <text>Drakenbergsområdet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.325" lon="18.06791667">
+        <name>Forum för levande historia</name>
+        <cmt>Myndigheter i Stockholm. Myndigheter under Kulturdepartementet. Verksamheter i Gamla stan. Regeringen
+            Persson. Antirasism. Per Anger-priset.
+        </cmt>
+        <desc>Forum för levande historia</desc>
+        <link href="http://sv.wikipedia.org/wiki/Forum_för_levande_historia">
+            <text>Forum för levande historia</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31472222" lon="18.07194444">
+        <name>Medborgarplatsen</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Medborgarplatsen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Medborgarplatsen">
+            <text>Medborgarplatsen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23472214" lon="17.98055649">
+        <name>Huddinge centrum</name>
+        <cmt>Sjödalen-Fullersta (kommundel). Köpcentrum i Stockholms län.</cmt>
+        <desc>Huddinge centrum</desc>
+        <link href="http://sv.wikipedia.org/wiki/Huddinge_centrum">
+            <text>Huddinge centrum</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28616714" lon="18.04741669">
+        <name>Sockenvägen</name>
+        <cmt>Gator och torg i Söderort.</cmt>
+        <desc>Sockenvägen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sockenvägen">
+            <text>Sockenvägen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30948056" lon="18.03120278">
+        <name>Årstadalshamnen</name>
+        <cmt>Historiska industriområden i Stockholm. Pågående byggprojekt i Stockholm. Liljeholmen.</cmt>
+        <desc>Årstadalshamnen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årstadalshamnen">
+            <text>Årstadalshamnen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32125" lon="18.07083333">
+        <name>Sjöbergsplan</name>
+        <cmt>Parker i Stockholms kommun. Slussen. Gator och torg på Södermalm.</cmt>
+        <desc>Sjöbergsplan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sjöbergsplan">
+            <text>Sjöbergsplan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31958333" lon="18.07222222">
+        <name>Ryssgården</name>
+        <cmt>Slussen. Gator och torg på Södermalm.</cmt>
+        <desc>Ryssgården</desc>
+        <link href="http://sv.wikipedia.org/wiki/Ryssgården">
+            <text>Ryssgården</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.2875" lon="18.01805556">
+        <name>Västberga begravningsplats</name>
+        <cmt>Begravningsplatser i Stockholm. Västberga.</cmt>
+        <desc>Västberga begravningsplats</desc>
+        <link href="http://sv.wikipedia.org/wiki/Västberga_begravningsplats">
+            <text>Västberga begravningsplats</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31613889" lon="18.043">
+        <name>Pipmakartrappan</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Pipmakartrappan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Pipmakartrappan">
+            <text>Pipmakartrappan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30972222" lon="18.04638889">
+        <name>Tanto sockerbruk</name>
+        <cmt>Byggnader uppförda av Skanska. Industriföretag i Stockholm. Södermalm. Sockerbruk. Sveriges
+            industrihistoria. Byggnader ritade av Johan Fredrik Åbom. Ej längre existerande svenska livsmedelsföretag.
+            Företag bildade 1857. Företag upplösta 1956.
+        </cmt>
+        <desc>Tanto sockerbruk</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tanto_sockerbruk">
+            <text>Tanto sockerbruk</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31568889" lon="18.04991111">
+        <name>Zinkensdamm</name>
+        <cmt>Södermalm.</cmt>
+        <desc>Zinkensdamm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Zinkensdamm">
+            <text>Zinkensdamm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.325" lon="18.0675">
+        <name>Kvarteret Milon</name>
+        <cmt>Kvarter i Gamla stan.</cmt>
+        <desc>Kvarteret Milon</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kvarteret_Milon">
+            <text>Kvarteret Milon</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31277847" lon="18.04277802">
+        <name>Tantolundens luftvärnsställning</name>
+        <cmt>Stockholms fasta försvar. Stockholms historia.</cmt>
+        <desc>Tantolundens luftvärnsställning</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tantolundens_luftvärnsställning">
+            <text>Tantolundens luftvärnsställning</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31" lon="18.05638889">
+        <name>Body och soul</name>
+        <cmt>Skulpturer på Södermalm.</cmt>
+        <desc>Body och soul</desc>
+        <link href="http://sv.wikipedia.org/wiki/Body_&#038;_soul">
+            <text>Body och soul</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30833333" lon="18.05638889">
+        <name>Barn- och ungdomspsykiatriska kliniken</name>
+        <cmt>Sjukhus i Stockholms län. Byggnader ritade av Ivar Tengbom. Byggnader på Södermalm. Barn- och
+            ungdomspsykiatri.
+        </cmt>
+        <desc>Barn- och ungdomspsykiatriska kliniken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Barn-_och_ungdomspsykiatriska_kliniken">
+            <text>Barn- och ungdomspsykiatriska kliniken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32416667" lon="18.07166667">
+        <name>Tyska kyrkans brand 1878</name>
+        <cmt>Gamla stan. Bränder i Stockholm. Kyrkbränder i Sverige. 1878 i Sverige. Religionsåret 1878. Bränder 1878.
+        </cmt>
+        <desc>Tyska kyrkans brand 1878</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tyska_kyrkans_brand_1878">
+            <text>Tyska kyrkans brand 1878</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31469167" lon="18.07110278">
+        <name>Filmstaden Söder</name>
+        <cmt>Biografer i Stockholm.</cmt>
+        <desc>Filmstaden Söder</desc>
+        <link href="http://sv.wikipedia.org/wiki/Filmstaden_Söder">
+            <text>Filmstaden Söder</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32472229" lon="18.06744385">
+        <name>Munkbron 9</name>
+        <cmt>Byggnader uppförda av Skanska. Byggnader i Gamla stan. Historiska bankbyggnader i Sverige. Byggnader ritade
+            av Erik Josephson.
+        </cmt>
+        <desc>Munkbron 9</desc>
+        <link href="http://sv.wikipedia.org/wiki/Munkbron_9">
+            <text>Munkbron 9</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31861111" lon="18.07138889">
+        <name>Urvädersgränd</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Urvädersgränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Urvädersgränd">
+            <text>Urvädersgränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31611111" lon="18.05861111">
+        <name>Maria sjukhus</name>
+        <cmt>Södermalm. Byggnader ritade av Gustaf Wickman. Svenska eponymer. Sjukhus i Stockholms län.</cmt>
+        <desc>Maria sjukhus</desc>
+        <link href="http://sv.wikipedia.org/wiki/Maria_sjukhus">
+            <text>Maria sjukhus</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23861111" lon="17.98527778">
+        <name>Nyboda hembygds- och skolmuseum</name>
+        <cmt>Hembygdsmuseer i Sverige. Huddinge kommun.</cmt>
+        <desc>Nyboda hembygds- och skolmuseum</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nyboda_hembygds-_och_skolmuseum">
+            <text>Nyboda hembygds- och skolmuseum</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32527778" lon="18.07055556">
+        <name>Börshuset</name>
+        <cmt>Stockholms politiska historia. Sveriges ekonomiska historia. Byggnader i Gamla stan.</cmt>
+        <desc>Börshuset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Börshuset">
+            <text>Börshuset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29733889" lon="18.05193056">
+        <name>Biograf Forum</name>
+        <cmt>Årsta. Biografer i Stockholm.</cmt>
+        <desc>Biograf Forum</desc>
+        <link href="http://sv.wikipedia.org/wiki/Biograf_Forum">
+            <text>Biograf Forum</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31016667" lon="18.04875">
+        <name>Tanto, Stockholm</name>
+        <cmt>Södermalm.</cmt>
+        <desc>Tanto, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tanto,_Stockholm">
+            <text>Tanto, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.325" lon="18.07055556">
+        <name>Stortorget, Stockholm</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Stortorget, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stortorget,_Stockholm">
+            <text>Stortorget, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32055556" lon="18.05972222">
+        <name>Olle Adolphsons park</name>
+        <cmt>Parker i Stockholms kommun. Södermalm.</cmt>
+        <desc>Olle Adolphsons park</desc>
+        <link href="http://sv.wikipedia.org/wiki/Olle_Adolphsons_park">
+            <text>Olle Adolphsons park</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.325025" lon="18.07134444">
+        <name>Grillska huset</name>
+        <cmt>Grill. Byggnader i Gamla stan.</cmt>
+        <desc>Grillska huset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Grillska_huset">
+            <text>Grillska huset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32486111" lon="18.07027778">
+        <name>Schantzska huset</name>
+        <cmt>Byggnader i Gamla stan.</cmt>
+        <desc>Schantzska huset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Schantzska_huset">
+            <text>Schantzska huset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32561111" lon="18.06624985">
+        <name>Riddarhustorget</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Riddarhustorget</desc>
+        <link href="http://sv.wikipedia.org/wiki/Riddarhustorget">
+            <text>Riddarhustorget</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32376389" lon="18.07204167">
+        <name>Tyska S:ta Gertruds församling</name>
+        <cmt>Församlingar i Stockholms kommun. Verksamheter i Gamla stan.</cmt>
+        <desc>Tyska S:ta Gertruds församling</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tyska_S:ta_Gertruds_församling">
+            <text>Tyska S:ta Gertruds församling</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31944444" lon="18.07027778">
+        <name>Record-Teatern</name>
+        <cmt>Södermalm. Nedlagda biografer i Stockholm.</cmt>
+        <desc>Record-Teatern</desc>
+        <link href="http://sv.wikipedia.org/wiki/Record-Teatern">
+            <text>Record-Teatern</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32483292" lon="18.07033348">
+        <name>Kåkbrinken</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Kåkbrinken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kåkbrinken">
+            <text>Kåkbrinken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31811389" lon="18.06700278">
+        <name>Seriegalleriet</name>
+        <cmt>Konstgallerier i Stockholm. Södermalm.</cmt>
+        <desc>Seriegalleriet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Seriegalleriet">
+            <text>Seriegalleriet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23916667" lon="17.98666667">
+        <name>Huddinge kyrkskola</name>
+        <cmt>Grundskolor i Sverige. Byggnader i Huddinge kommun. Sjödalen-Fullersta (kommundel).</cmt>
+        <desc>Huddinge kyrkskola</desc>
+        <link href="http://sv.wikipedia.org/wiki/Huddinge_kyrkskola">
+            <text>Huddinge kyrkskola</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.324875" lon="18.06883333">
+        <name>Sven Vintappares gränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Sven Vintappares gränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sven_Vintappares_gränd">
+            <text>Sven Vintappares gränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32441667" lon="18.06997222">
+        <name>Västerlånggatan</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Västerlånggatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Västerlånggatan">
+            <text>Västerlånggatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31777778" lon="18.06222222">
+        <name>S:t Paulskyrkan, Stockholm</name>
+        <cmt>Svenska metodistkyrkor. Byggnader på Södermalm. Religiösa byggnader invigda 1876. Byggnader ritade av Axel
+            Kumlien. Byggnader ritade av Hjalmar Kumlien. Tidigare kyrkobyggnader i Sverige.
+        </cmt>
+        <desc>S:t Paulskyrkan, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/S:t_Paulskyrkan,_Stockholm">
+            <text>S:t Paulskyrkan, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32316667" lon="18.07186111">
+        <name>Torgdragargränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Torgdragargränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Torgdragargränd">
+            <text>Torgdragargränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32083333" lon="18.06944444">
+        <name>Guldfjärdsplan</name>
+        <cmt>Slussenområdet. Gator och torg på Södermalm.</cmt>
+        <desc>Guldfjärdsplan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Guldfjärdsplan">
+            <text>Guldfjärdsplan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30944443" lon="18.06416702">
+        <name>Stativet och Tumstocken</name>
+        <cmt>Gunnar Asplund. Ej längre existerande byggnader på Södermalm. Kvarter i Stockholm.</cmt>
+        <desc>Stativet och Tumstocken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stativet_och_Tumstocken">
+            <text>Stativet och Tumstocken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31980556" lon="18.07011111">
+        <name>Hornsgatan</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Hornsgatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hornsgatan">
+            <text>Hornsgatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30926389" lon="18.03091667">
+        <name>Själsfränder</name>
+        <cmt>Skulpturer i Stockholm. Liljeholmen.</cmt>
+        <desc>Själsfränder</desc>
+        <link href="http://sv.wikipedia.org/wiki/Själsfränder">
+            <text>Själsfränder</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31846111" lon="18.05833889">
+        <name>Folkoperan</name>
+        <cmt>Operahus i Sverige. Stiftelser i Sverige. Konsertscener i Stockholm. Opera. Teaterinstitutioner och
+            teatergrupper. Teatrar i Stockholm.
+        </cmt>
+        <desc>Folkoperan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Folkoperan">
+            <text>Folkoperan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31522222" lon="18.06683333">
+        <name>Oscar I:s Minne (byggnad)</name>
+        <cmt>Byggnader på Södermalm. Arkitekturåret 1875.</cmt>
+        <desc>Oscar I:s Minne (byggnad)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Oscar_I:s_Minne_(byggnad)">
+            <text>Oscar I:s Minne (byggnad)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.315" lon="18.05222222">
+        <name>Mariaskolan</name>
+        <cmt>Grundskolor i Stockholm. Södermalm.</cmt>
+        <desc>Mariaskolan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Mariaskolan">
+            <text>Mariaskolan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31527778" lon="18.06666667">
+        <name>Fatburen</name>
+        <cmt>Ej längre existerande insjöar. Södermalm. Insjöar i Södermanland.</cmt>
+        <desc>Fatburen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Fatburen">
+            <text>Fatburen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31916667" lon="18.07068611">
+        <name>Louis De Geers palats</name>
+        <cmt>Relationer mellan Nederländerna och Sverige. Privatpalats i Stockholm. Byggnader på Södermalm. Malmgårdar i
+            Stockholm. Byggnader avbildade i Suecian.
+        </cmt>
+        <desc>Louis De Geers palats</desc>
+        <link href="http://sv.wikipedia.org/wiki/Louis_De_Geers_palats">
+            <text>Louis De Geers palats</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23930556" lon="17.98503889">
+        <name>Flemingsbergs församling</name>
+        <cmt>Indelningar i Huddinge kommun. Församlingar i Stockholms stift. Flemingsberg.</cmt>
+        <desc>Flemingsbergs församling</desc>
+        <link href="http://sv.wikipedia.org/wiki/Flemingsbergs_församling">
+            <text>Flemingsbergs församling</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23930556" lon="17.98503333">
+        <name>S:t Mikaels församling, Stockholms stift</name>
+        <cmt>Indelningar i Huddinge kommun. Församlingar i Stockholms stift.</cmt>
+        <desc>S:t Mikaels församling, Stockholms stift</desc>
+        <link href="http://sv.wikipedia.org/wiki/S:t_Mikaels_församling,_Stockholms_stift">
+            <text>S:t Mikaels församling, Stockholms stift</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31703889" lon="18.06496111">
+        <name>Wollmar Yxkullsgatan</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Wollmar Yxkullsgatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Wollmar_Yxkullsgatan">
+            <text>Wollmar Yxkullsgatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31843567" lon="18.05447197">
+        <name>Måleriyrkets museum</name>
+        <cmt>Södermalm. Museer i Stockholm. Arbetslivsmuseer i Sverige. Hantverk.</cmt>
+        <desc>Måleriyrkets museum</desc>
+        <link href="http://sv.wikipedia.org/wiki/Måleriyrkets_museum">
+            <text>Måleriyrkets museum</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.319" lon="18.07195">
+        <name>Stomatolskylten</name>
+        <cmt>Harry Friberg. Södermalm. Reklam. Stockholms historia. Ljusskyltar i Stockholm.</cmt>
+        <desc>Stomatolskylten</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stomatolskylten">
+            <text>Stomatolskylten</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32486111" lon="18.07027778">
+        <name>Seyfridtzska huset</name>
+        <cmt>Byggnader i Gamla stan.</cmt>
+        <desc>Seyfridtzska huset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Seyfridtzska_huset">
+            <text>Seyfridtzska huset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31847222" lon="18.04777778">
+        <name>Dockteatern Tittut</name>
+        <cmt>Dockteater. Teatrar i Stockholm.</cmt>
+        <desc>Dockteatern Tittut</desc>
+        <link href="http://sv.wikipedia.org/wiki/Dockteatern_Tittut">
+            <text>Dockteatern Tittut</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23444366" lon="17.98166656">
+        <name>Sjödalsgymnasiet</name>
+        <cmt>Sjödalen-Fullersta (kommundel). Utbildningsinstitutioner bildade 1994. Gymnasieskolor i Sverige. Huddinge
+            kommun.
+        </cmt>
+        <desc>Sjödalsgymnasiet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sjödalsgymnasiet">
+            <text>Sjödalsgymnasiet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30953889" lon="18.05626944">
+        <name>Södersjukhuset</name>
+        <cmt>Underjorden. Länsdelssjukhus. Karolinska institutet. Byggnader på Södermalm. Sjukhus i Stockholms län.
+        </cmt>
+        <desc>Södersjukhuset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södersjukhuset">
+            <text>Södersjukhuset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32550049" lon="18.06875038">
+        <name>Stora Gråmunkegränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Stora Gråmunkegränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stora_Gråmunkegränd">
+            <text>Stora Gråmunkegränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32041667" lon="18.06994444">
+        <name>Guldgränd</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Guldgränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Guldgränd">
+            <text>Guldgränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31361111" lon="18.0725">
+        <name>Sankt Eriks katolska domkyrka</name>
+        <cmt>Kyrkobyggnader i Stockholms innerstad. Domkyrkor i Sverige. Romersk-katolska domkyrkor. Romersk-katolska
+            kyrkobyggnader i Sverige. Religiösa byggnader invigda 1892.
+        </cmt>
+        <desc>Sankt Eriks katolska domkyrka</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sankt_Eriks_katolska_domkyrka">
+            <text>Sankt Eriks katolska domkyrka</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.2907" lon="18.04495833">
+        <name>Årstafältet</name>
+        <cmt>Parker i Stockholms kommun. Östberga.</cmt>
+        <desc>Årstafältet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årstafältet">
+            <text>Årstafältet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23444444" lon="17.98583333">
+        <name>Sjödalen-Fullersta</name>
+        <cmt>Sjödalen-Fullersta (kommundel). Kommundelar i Huddinge kommun.</cmt>
+        <desc>Sjödalen-Fullersta</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sjödalen-Fullersta">
+            <text>Sjödalen-Fullersta</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31833333" lon="18.06361111">
+        <name>Philipsenska Skolinrättningen</name>
+        <cmt>Ej längre existerande skolor i Stockholm. Utbildningsinstitutioner upplösta 1948. Södermalm.
+            Utbildningsinstitutioner bildade 1811.
+        </cmt>
+        <desc>Philipsenska Skolinrättningen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Philipsenska_Skolinrättningen">
+            <text>Philipsenska Skolinrättningen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.24" lon="17.97277778">
+        <name>Fullersta bio</name>
+        <cmt>Byggnader i Huddinge kommun. Teater i Sverige. Konstinstitutioner i Sverige. Funktionalistisk arkitektur.
+            Sjödalen-Fullersta (kommundel). Biografer i Stockholm.
+        </cmt>
+        <desc>Fullersta bio</desc>
+        <link href="http://sv.wikipedia.org/wiki/Fullersta_bio">
+            <text>Fullersta bio</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23886871" lon="17.97481918">
+        <name>Fullersta gård</name>
+        <cmt>Byggnader i Huddinge kommun. Herrgårdar i Södermanland. Sjödalen-Fullersta (kommundel). Kommunala
+            konsthallar i Sverige.
+        </cmt>
+        <desc>Fullersta gård</desc>
+        <link href="http://sv.wikipedia.org/wiki/Fullersta_gård">
+            <text>Fullersta gård</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31972222" lon="18.07083333">
+        <name>Stadsmuseet i Stockholm</name>
+        <cmt>Slussenområdet. Stadsmuseer i Sverige. Museer i Stockholm. Kommunala museer i Sverige. Organisationer i
+            Stockholm. Kulturmärkning i Sverige. Samtliga ej utgångna bäst före. Bäst före om mer än 1 år.
+        </cmt>
+        <desc>Stadsmuseet i Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stadsmuseet_i_Stockholm">
+            <text>Stadsmuseet i Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.24006944" lon="17.985">
+        <name>Huddinge kyrka</name>
+        <cmt>Kyrkobyggnader i Huddinge kommun. Kyrkobyggnader i Stockholms stift. Religiösa byggnader invigda under
+            1200-talet.
+        </cmt>
+        <desc>Huddinge kyrka</desc>
+        <link href="http://sv.wikipedia.org/wiki/Huddinge_kyrka">
+            <text>Huddinge kyrka</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32472229" lon="18.06444359">
+        <name>Riddarholmskyrkan</name>
+        <cmt>Byggnader på Riddarholmen. Kungl. Maj:ts orden. Kyrkobyggnader i Stockholms innerstad. Kyrkobyggnader
+            avbildade i Suecian.
+        </cmt>
+        <desc>Riddarholmskyrkan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Riddarholmskyrkan">
+            <text>Riddarholmskyrkan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.325675" lon="18.06851389">
+        <name>Storkyrkobrinken 7</name>
+        <cmt>Byggnadsminnen i Stockholms kommun. Historiska bankbyggnader i Sverige. Byggnader i Gamla stan.</cmt>
+        <desc>Storkyrkobrinken 7</desc>
+        <link href="http://sv.wikipedia.org/wiki/Storkyrkobrinken_7">
+            <text>Storkyrkobrinken 7</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3179" lon="18.06058889">
+        <name>Södermalmsskolan</name>
+        <cmt>Utbildningsinstitutioner bildade 1881. Byggnader på Södermalm. Funktionalistisk arkitektur. Utbildning i
+            Stockholm. Skolor i Sverige.
+        </cmt>
+        <desc>Södermalmsskolan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södermalmsskolan">
+            <text>Södermalmsskolan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32016667" lon="18.05905556">
+        <name>Timmermansgatan, Stockholm</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Timmermansgatan, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Timmermansgatan,_Stockholm">
+            <text>Timmermansgatan, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29361111" lon="18.03305556">
+        <name>Trädgårdshallen</name>
+        <cmt>Handel. Byggnader i Söderort. Östberga. Näringsliv i Stockholm. Svenska partihandelsföretag.</cmt>
+        <desc>Trädgårdshallen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Trädgårdshallen">
+            <text>Trädgårdshallen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31374741" lon="18.03397179">
+        <name>Liljeholmens båtklubb</name>
+        <cmt>Båtklubbar.</cmt>
+        <desc>Liljeholmens båtklubb</desc>
+        <link href="http://sv.wikipedia.org/wiki/Liljeholmens_båtklubb">
+            <text>Liljeholmens båtklubb</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.314525" lon="18.068325">
+        <name>Fatbursparken</name>
+        <cmt>Parker i Stockholms kommun. Södermalm.</cmt>
+        <desc>Fatbursparken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Fatbursparken">
+            <text>Fatbursparken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.303367" lon="18.04828">
+        <name>Årstadals Båtklubb</name>
+        <cmt>Årsta. Organisationer bildade 1948. Båtklubbar. Organisationer i Stockholm.</cmt>
+        <desc>Årstadals Båtklubb</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årstadals_Båtklubb">
+            <text>Årstadals Båtklubb</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30583333" lon="18.03388889">
+        <name>Kajen 4</name>
+        <cmt>Byggnader i Söderort. Liljeholmen.</cmt>
+        <desc>Kajen 4</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kajen_4">
+            <text>Kajen 4</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32277778" lon="18.0675">
+        <name>Gamla stan (tunnelbanestation)</name>
+        <cmt>Järnvägsstationer invigda 1957. Gamla stan. Stockholms tunnelbanestationer.</cmt>
+        <desc>Gamla stan (tunnelbanestation)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Gamla_stan_(tunnelbanestation)">
+            <text>Gamla stan (tunnelbanestation)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32027778" lon="18.06972222">
+        <name>Johan Skyttes hus</name>
+        <cmt>Byggnader på Södermalm.</cmt>
+        <desc>Johan Skyttes hus</desc>
+        <link href="http://sv.wikipedia.org/wiki/Johan_Skyttes_hus">
+            <text>Johan Skyttes hus</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31875" lon="18.04866667">
+        <name>Lundagatan</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Lundagatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Lundagatan">
+            <text>Lundagatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31083298" lon="18.06805611">
+        <name>Rosenlundsparken</name>
+        <cmt>Parker i Stockholms kommun. Södermalm. Sienapriset.</cmt>
+        <desc>Rosenlundsparken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Rosenlundsparken">
+            <text>Rosenlundsparken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.26666667" lon="17.9925">
+        <name>Älvsjöskogen</name>
+        <cmt>Älvsjö. Skogar i Sverige. Planerade naturreservat i Stockholms stad. Rekreations- och fritidsområden i
+            Stockholms kommun.
+        </cmt>
+        <desc>Älvsjöskogen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Älvsjöskogen">
+            <text>Älvsjöskogen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32477778" lon="18.06694444">
+        <name>Riddarholmsbroarna</name>
+        <cmt>Skulpturer i Gamla stan.</cmt>
+        <desc>Riddarholmsbroarna</desc>
+        <link href="http://sv.wikipedia.org/wiki/Riddarholmsbroarna">
+            <text>Riddarholmsbroarna</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.24166667" lon="17.99722222">
+        <name>Stuvsta gårds kvarn</name>
+        <cmt>Ej längre existerande byggnader i Huddinge kommun. Kvarnar i Stockholms län.</cmt>
+        <desc>Stuvsta gårds kvarn</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stuvsta_gårds_kvarn">
+            <text>Stuvsta gårds kvarn</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30916667" lon="18.04388889">
+        <name>Årstabroarna</name>
+        <cmt>Årsta. Broar uppförda av Skanska. Södermalm. Broar invigda 2005. Cyrillus Johansson. Broar i Stockholm.
+            Järnvägsbroar i Sverige. Broar invigda 1929.
+        </cmt>
+        <desc>Årstabroarna</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årstabroarna">
+            <text>Årstabroarna</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27805556" lon="18.01055556">
+        <name>Älvsjö station</name>
+        <cmt>Solberga. Järnvägsstationer i Stockholms län. Älvsjö stadsdelsområde.</cmt>
+        <desc>Älvsjö station</desc>
+        <link href="http://sv.wikipedia.org/wiki/Älvsjö_station">
+            <text>Älvsjö station</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.25305557" lon="17.99611092">
+        <name>Stuvsta</name>
+        <cmt>Stuvsta-Snättringe (kommundel). Huddinge kommun.</cmt>
+        <desc>Stuvsta</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stuvsta">
+            <text>Stuvsta</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28472222" lon="18.03555556">
+        <name>Örby kvarn</name>
+        <cmt>Ej längre existerande byggnader i Söderort. Kvarnar i Stockholms län. Örby slott.</cmt>
+        <desc>Örby kvarn</desc>
+        <link href="http://sv.wikipedia.org/wiki/Örby_kvarn">
+            <text>Örby kvarn</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31027778" lon="18.06972222">
+        <name>Helgagatan</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Helgagatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Helgagatan">
+            <text>Helgagatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31722222" lon="18.05916667">
+        <name>Stora och Lilla Tuna</name>
+        <cmt>Ej längre existerande byggnader på Södermalm. Kvarnar i Stockholms län.</cmt>
+        <desc>Stora och Lilla Tuna</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stora_och_Lilla_Tuna">
+            <text>Stora och Lilla Tuna</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32396944" lon="18.06510556">
+        <name>Gamla riksdagshuset</name>
+        <cmt>Byggnader på Riddarholmen. Historiska byggnader för Sveriges riksdag. Stockholms historia. Byggnader ritade
+            av Johan Fredrik Åbom. Byggnader ritade av Aron Johansson.
+        </cmt>
+        <desc>Gamla riksdagshuset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Gamla_riksdagshuset">
+            <text>Gamla riksdagshuset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31543056" lon="18.063175">
+        <name>KF gymnasiet</name>
+        <cmt>Södermalm. Gymnasieskolor i Stockholm. Friskolor i Sverige. Utbildningsinstitutioner bildade 1994.</cmt>
+        <desc>KF gymnasiet</desc>
+        <link href="http://sv.wikipedia.org/wiki/KF_gymnasiet">
+            <text>KF gymnasiet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31954722" lon="18.06743333">
+        <name>Hornsgatspuckeln</name>
+        <cmt>Södermalm.</cmt>
+        <desc>Hornsgatspuckeln</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hornsgatspuckeln">
+            <text>Hornsgatspuckeln</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32548333" lon="18.06704722">
+        <name>Ryningska palatset</name>
+        <cmt>Privatpalats i Stockholm. Byggnadsminnen i Stockholms kommun. Byggnader i Gamla stan.</cmt>
+        <desc>Ryningska palatset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Ryningska_palatset">
+            <text>Ryningska palatset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27876944" lon="17.9992">
+        <name>Långbrodal</name>
+        <cmt>Historiska stadsdelar i Stockholm. Långbro. Långsjö.</cmt>
+        <desc>Långbrodal</desc>
+        <link href="http://sv.wikipedia.org/wiki/Långbrodal">
+            <text>Långbrodal</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28222222" lon="18.00916667">
+        <name>Solberga prästgård</name>
+        <cmt>Byggnader i Söderort. Solberga. Prästgårdar i Sverige.</cmt>
+        <desc>Solberga prästgård</desc>
+        <link href="http://sv.wikipedia.org/wiki/Solberga_prästgård">
+            <text>Solberga prästgård</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32333333" lon="18.07">
+        <name>Kvarteret Pan</name>
+        <cmt>Kvarter i Gamla stan. Stockholms historia. Historiska bankbyggnader i Sverige. Byggnader ritade av Johan
+            Fredrik Åbom. Byggnader i Gamla stan.
+        </cmt>
+        <desc>Kvarteret Pan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kvarteret_Pan">
+            <text>Kvarteret Pan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28305556" lon="18.02722222">
+        <name>Park-Bio</name>
+        <cmt>Byggnader i Söderort. Örby slott. Nedlagda biografer i Stockholm.</cmt>
+        <desc>Park-Bio</desc>
+        <link href="http://sv.wikipedia.org/wiki/Park-Bio">
+            <text>Park-Bio</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32019444" lon="18.06602778">
+        <name>Tavastgatan, Södermalm</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Tavastgatan, Södermalm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tavastgatan,_Södermalm">
+            <text>Tavastgatan, Södermalm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31852778" lon="18.07080556">
+        <name>Sankt Paulsgatan</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Sankt Paulsgatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sankt_Paulsgatan">
+            <text>Sankt Paulsgatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32472229" lon="18.07052803">
+        <name>Skomakargatan</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Skomakargatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Skomakargatan">
+            <text>Skomakargatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31902778" lon="18.07138889">
+        <name>Ormsaltaren</name>
+        <cmt>Södermalm. Kvarter i Stockholm.</cmt>
+        <desc>Ormsaltaren</desc>
+        <link href="http://sv.wikipedia.org/wiki/Ormsaltaren">
+            <text>Ormsaltaren</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31777778" lon="18.05">
+        <name>Zinkensdamm (tunnelbanestation)</name>
+        <cmt>Södermalm. Järnvägsstationer invigda 1964. Stockholms tunnelbanestationer.</cmt>
+        <desc>Zinkensdamm (tunnelbanestation)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Zinkensdamm_(tunnelbanestation)">
+            <text>Zinkensdamm (tunnelbanestation)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27694444" lon="18.01583333">
+        <name>Scandic Talk Hotel</name>
+        <cmt>Älvsjö. Byggnader i Söderort. Skyskrapor i Stockholm. Hotell i Stockholm. Företag bildade 2005.</cmt>
+        <desc>Scandic Talk Hotel</desc>
+        <link href="http://sv.wikipedia.org/wiki/Scandic_Talk_Hotel">
+            <text>Scandic Talk Hotel</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31899444" lon="18.06721667">
+        <name>Maria Magdalena kyrkas tornur</name>
+        <cmt>Ur. Södermalm.</cmt>
+        <desc>Maria Magdalena kyrkas tornur</desc>
+        <link href="http://sv.wikipedia.org/wiki/Maria_Magdalena_kyrkas_tornur">
+            <text>Maria Magdalena kyrkas tornur</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32480556" lon="18.06944444">
+        <name>Yxsmedsgränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Yxsmedsgränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Yxsmedsgränd">
+            <text>Yxsmedsgränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.24768889" lon="18.00611111">
+        <name>Stuvsta-Snättringe</name>
+        <cmt>Kommundelar i Huddinge kommun.</cmt>
+        <desc>Stuvsta-Snättringe</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stuvsta-Snättringe">
+            <text>Stuvsta-Snättringe</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32602778" lon="18.06808333">
+        <name>Brantingtorget</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Brantingtorget</desc>
+        <link href="http://sv.wikipedia.org/wiki/Brantingtorget">
+            <text>Brantingtorget</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32008333" lon="18.06730556">
+        <name>Brännkyrkagatan</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Brännkyrkagatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Brännkyrkagatan">
+            <text>Brännkyrkagatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.24016944" lon="17.99506944">
+        <name>Kvarnbergsplan</name>
+        <cmt>Huddinge kommun.</cmt>
+        <desc>Kvarnbergsplan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kvarnbergsplan">
+            <text>Kvarnbergsplan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31008889" lon="18.06075">
+        <name>Guldbröllopshemmet</name>
+        <cmt>Byggnader på Södermalm.</cmt>
+        <desc>Guldbröllopshemmet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Guldbröllopshemmet">
+            <text>Guldbröllopshemmet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31816389" lon="18.06286389">
+        <name>Mariatorget</name>
+        <cmt>Parker i Stockholms kommun. Stockholms historia. Gator och torg på Södermalm.</cmt>
+        <desc>Mariatorget</desc>
+        <link href="http://sv.wikipedia.org/wiki/Mariatorget">
+            <text>Mariatorget</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30634444" lon="18.02631111">
+        <name>Årstadal</name>
+        <cmt>Liljeholmen.</cmt>
+        <desc>Årstadal</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årstadal">
+            <text>Årstadal</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29678056" lon="18.05995833">
+        <name>Vättersparken</name>
+        <cmt>Parker i Stockholms kommun. Årsta.</cmt>
+        <desc>Vättersparken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Vättersparken">
+            <text>Vättersparken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30277778" lon="18.0425">
+        <name>Årsta gård</name>
+        <cmt>Byggnader avbildade i Suecian. Årsta. Byggnader i Söderort. Herrgårdar i Södermanland.</cmt>
+        <desc>Årsta gård</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årsta_gård">
+            <text>Årsta gård</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29394444" lon="18.05216667">
+        <name>Valla gård</name>
+        <cmt>Årsta. Ej längre existerande byggnader i Söderort.</cmt>
+        <desc>Valla gård</desc>
+        <link href="http://sv.wikipedia.org/wiki/Valla_gård">
+            <text>Valla gård</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31873056" lon="18.07168611">
+        <name>Bellmanhuset, Södermalm</name>
+        <cmt>Byggnadsminnen i Stockholms kommun. Museer i Stockholm. Byggnader på Södermalm.</cmt>
+        <desc>Bellmanhuset, Södermalm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Bellmanhuset,_Södermalm">
+            <text>Bellmanhuset, Södermalm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32511111" lon="18.06933333">
+        <name>Jakob Sauers hus</name>
+        <cmt>Byggnader i Gamla stan.</cmt>
+        <desc>Jakob Sauers hus</desc>
+        <link href="http://sv.wikipedia.org/wiki/Jakob_Sauers_hus">
+            <text>Jakob Sauers hus</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32522202" lon="18.0692215">
+        <name>Palmstedts hus</name>
+        <cmt>Byggnader i Gamla stan.</cmt>
+        <desc>Palmstedts hus</desc>
+        <link href="http://sv.wikipedia.org/wiki/Palmstedts_hus">
+            <text>Palmstedts hus</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32391667" lon="18.06947222">
+        <name>Schönfeldts gränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Schönfeldts gränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Schönfeldts_gränd">
+            <text>Schönfeldts gränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31899444" lon="18.06721667">
+        <name>Maria Magdalena kyrka, Stockholm</name>
+        <cmt>Kyrkobyggnader avbildade i Suecian. Kyrkobyggnader i Stockholms innerstad. Religiösa byggnader invigda
+            1634. Kyrkobyggnader i Stockholms stift. Byggnader på Södermalm.
+        </cmt>
+        <desc>Maria Magdalena kyrka, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Maria_Magdalena_kyrka,_Stockholm">
+            <text>Maria Magdalena kyrka, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32463889" lon="18.07130556">
+        <name>Mäster Olofsgården</name>
+        <cmt>Byggnader i Gamla stan. Verksamheter i Gamla stan. Svartmangatan.</cmt>
+        <desc>Mäster Olofsgården</desc>
+        <link href="http://sv.wikipedia.org/wiki/Mäster_Olofsgården">
+            <text>Mäster Olofsgården</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31888889" lon="18.06222222">
+        <name>Paul U. Bergström, Södermalm</name>
+        <cmt>Varuhus i Sverige. Byggnader på Södermalm.</cmt>
+        <desc>Paul U. Bergström, Södermalm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Paul_U._Bergström,_Södermalm">
+            <text>Paul U. Bergström, Södermalm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3" lon="18.03666667">
+        <name>Storängsparken</name>
+        <cmt>Parker i Stockholms kommun. Årsta.</cmt>
+        <desc>Storängsparken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Storängsparken">
+            <text>Storängsparken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32277778" lon="18.07138889">
+        <name>Kornhamnstorg</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Kornhamnstorg</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kornhamnstorg">
+            <text>Kornhamnstorg</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.2902" lon="18.03490556">
+        <name>Konst på Östbergahöjden</name>
+        <cmt>Östberga. Konstverk i Stockholm.</cmt>
+        <desc>Konst på Östbergahöjden</desc>
+        <link href="http://sv.wikipedia.org/wiki/Konst_på_Östbergahöjden">
+            <text>Konst på Östbergahöjden</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32302222" lon="18.068525">
+        <name>Mälartorget</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Mälartorget</desc>
+        <link href="http://sv.wikipedia.org/wiki/Mälartorget">
+            <text>Mälartorget</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32527778" lon="18.07055556">
+        <name>Siskeburen</name>
+        <cmt>Nedlagda fängelser i Stockholm. Stockholms historia.</cmt>
+        <desc>Siskeburen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Siskeburen">
+            <text>Siskeburen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31472222" lon="18.03861111">
+        <name>Vårdhemmet Högalid</name>
+        <cmt>Ej längre existerande byggnader på Södermalm. Omsorgsinrättningar.</cmt>
+        <desc>Vårdhemmet Högalid</desc>
+        <link href="http://sv.wikipedia.org/wiki/Vårdhemmet_Högalid">
+            <text>Vårdhemmet Högalid</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31527778" lon="18.07222222">
+        <name>Lillienhoffska palatset</name>
+        <cmt>Privatpalats i Stockholm. Byggnader på Södermalm.</cmt>
+        <desc>Lillienhoffska palatset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Lillienhoffska_palatset">
+            <text>Lillienhoffska palatset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31305556" lon="18.0625">
+        <name>Timmermansparken</name>
+        <cmt>Parker i Stockholms kommun. Södermalm.</cmt>
+        <desc>Timmermansparken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Timmermansparken">
+            <text>Timmermansparken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32502778" lon="18.06497222">
+        <name>Wrangelska backen</name>
+        <cmt>Gator och torg på Riddarholmen.</cmt>
+        <desc>Wrangelska backen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Wrangelska_backen">
+            <text>Wrangelska backen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31638889" lon="18.04777778">
+        <name>Hornskroken</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Hornskroken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hornskroken">
+            <text>Hornskroken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31138889" lon="18.03166667">
+        <name>Marievik 15</name>
+        <cmt>Byggnader i Söderort. Liljeholmen.</cmt>
+        <desc>Marievik 15</desc>
+        <link href="http://sv.wikipedia.org/wiki/Marievik_15">
+            <text>Marievik 15</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31388855" lon="18.03666687">
+        <name>Tantolunden</name>
+        <cmt>Parker i Stockholms kommun. Södermalm. Koloniträdgårdar i Stockholm.</cmt>
+        <desc>Tantolunden</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tantolunden">
+            <text>Tantolunden</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31944444" lon="18.06305556">
+        <name>Söderhöjdskyrkan</name>
+        <cmt>Svenska EFK-församlingar. Byggnader på Södermalm. Organisationer i Stockholm. Kyrkobyggnader i Stockholms
+            innerstad. Religiösa byggnader invigda 1886.
+        </cmt>
+        <desc>Söderhöjdskyrkan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Söderhöjdskyrkan">
+            <text>Söderhöjdskyrkan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.316" lon="18.05769444">
+        <name>Maria beroendecentrum</name>
+        <cmt>Sjukhus i Stockholms län.</cmt>
+        <desc>Maria beroendecentrum</desc>
+        <link href="http://sv.wikipedia.org/wiki/Maria_beroendecentrum">
+            <text>Maria beroendecentrum</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32063889" lon="18.06733333">
+        <name>Pustegränd</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Pustegränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Pustegränd">
+            <text>Pustegränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31972222" lon="18.07">
+        <name>Hans Marschalcks hus</name>
+        <cmt>Byggnader på Södermalm.</cmt>
+        <desc>Hans Marschalcks hus</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hans_Marschalcks_hus">
+            <text>Hans Marschalcks hus</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31666667" lon="18.06916667">
+        <name>Christian Hanssons kvarn</name>
+        <cmt>Ej längre existerande byggnader på Södermalm. Kvarnar i Stockholms län.</cmt>
+        <desc>Christian Hanssons kvarn</desc>
+        <link href="http://sv.wikipedia.org/wiki/Christian_Hanssons_kvarn">
+            <text>Christian Hanssons kvarn</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31919444" lon="18.07094444">
+        <name>Mariagränd</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Mariagränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Mariagränd">
+            <text>Mariagränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31611111" lon="18.05868611">
+        <name>Reenstiernska palatset</name>
+        <cmt>Malmgårdar i Stockholm. Privatpalats i Stockholm. Byggnader på Södermalm.</cmt>
+        <desc>Reenstiernska palatset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Reenstiernska_palatset">
+            <text>Reenstiernska palatset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31777778" lon="18.06611111">
+        <name>Van der Nootska palatset</name>
+        <cmt>Privatpalats i Stockholm. Byggnader ritade av Isak Gustaf Clason. Byggnader på Södermalm.</cmt>
+        <desc>Van der Nootska palatset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Van_der_Nootska_palatset">
+            <text>Van der Nootska palatset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30805" lon="18.06546667">
+        <name>Eriksdalshallen</name>
+        <cmt>Södermalm. Sporthallar i Sverige. Sportanläggningar i Stockholms län. Sportanläggningar invigda 1938.</cmt>
+        <desc>Eriksdalshallen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Eriksdalshallen">
+            <text>Eriksdalshallen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31826111" lon="18.06741944">
+        <name>Kvarngatan</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Kvarngatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kvarngatan">
+            <text>Kvarngatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31388889" lon="18.07138889">
+        <name>Söderledstunneln</name>
+        <cmt>Södermalm. Vägtunnlar i Stockholm.</cmt>
+        <desc>Söderledstunneln</desc>
+        <link href="http://sv.wikipedia.org/wiki/Söderledstunneln">
+            <text>Söderledstunneln</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32333333" lon="18.07138889">
+        <name>Kvarteret Typhon</name>
+        <cmt>Kvarter i Gamla stan.</cmt>
+        <desc>Kvarteret Typhon</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kvarteret_Typhon">
+            <text>Kvarteret Typhon</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.325675" lon="18.06851389">
+        <name>Riksdagsbiblioteket (Stockholm)</name>
+        <cmt>Bibliotek i Stockholm. Sveriges riksdag. Verksamheter i Gamla stan.</cmt>
+        <desc>Riksdagsbiblioteket (Stockholm)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Riksdagsbiblioteket_(Stockholm)">
+            <text>Riksdagsbiblioteket (Stockholm)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31225" lon="18.06897222">
+        <name>Åsögatan</name>
+        <cmt>Stockholms historia. Gator och torg på Södermalm.</cmt>
+        <desc>Åsögatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Åsögatan">
+            <text>Åsögatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28194427" lon="18.02305603">
+        <name>Brännkyrka distrikt</name>
+        <cmt>Indelningar i Stockholms kommun. Distrikt i Stockholms län. Söderort.</cmt>
+        <desc>Brännkyrka distrikt</desc>
+        <link href="http://sv.wikipedia.org/wiki/Brännkyrka_distrikt">
+            <text>Brännkyrka distrikt</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28161111" lon="18.002">
+        <name>LM Ericssons kabelverk, Älvsjö</name>
+        <cmt>Byggnader i Söderort. Solberga. Historiska industriområden i Stockholm. Funktionalistisk arkitektur.
+            Planerade byggprojekt. Ericsson. Älvsjö stadsdelsområde.
+        </cmt>
+        <desc>LM Ericssons kabelverk, Älvsjö</desc>
+        <link href="http://sv.wikipedia.org/wiki/LM_Ericssons_kabelverk,_Älvsjö">
+            <text>LM Ericssons kabelverk, Älvsjö</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32062778" lon="18.064275">
+        <name>Laurinska huset</name>
+        <cmt>Byggnader på Södermalm.</cmt>
+        <desc>Laurinska huset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Laurinska_huset">
+            <text>Laurinska huset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32" lon="18.06972222">
+        <name>Grafiska sällskapet</name>
+        <cmt>Intresseorganisationer i Sverige. Organisationer i Stockholm. Organisationer bildade 1910. Grafik.</cmt>
+        <desc>Grafiska sällskapet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Grafiska_sällskapet">
+            <text>Grafiska sällskapet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27806111" lon="18.00918056">
+        <name>Älvsjö</name>
+        <cmt>Älvsjö. Stadsdelar i Stockholm. Söderort. Älvsjö stadsdelsområde.</cmt>
+        <desc>Älvsjö</desc>
+        <link href="http://sv.wikipedia.org/wiki/Älvsjö">
+            <text>Älvsjö</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28223056" lon="18.02951944">
+        <name>Örby slott</name>
+        <cmt>Stadsdelar i Stockholm. Söderort. Älvsjö stadsdelsområde.</cmt>
+        <desc>Örby slott</desc>
+        <link href="http://sv.wikipedia.org/wiki/Örby_slott">
+            <text>Örby slott</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.25388889" lon="17.99638889">
+        <name>Stuvsta (pendeltågsstation)</name>
+        <cmt>Stuvsta-Snättringe (kommundel). Järnvägsstationer i Stockholms län. Huddinge kommun.</cmt>
+        <desc>Stuvsta (pendeltågsstation)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stuvsta_(pendeltågsstation)">
+            <text>Stuvsta (pendeltågsstation)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31444444" lon="18.07222222">
+        <name>Ljunglöfska salongen</name>
+        <cmt>Inredning. Södermalm. Möbler.</cmt>
+        <desc>Ljunglöfska salongen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Ljunglöfska_salongen">
+            <text>Ljunglöfska salongen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31666667" lon="18.06916667">
+        <name>Södra Latin</name>
+        <cmt>Södermalm. Ej längre existerande läroverk i Sverige. Gymnasieskolor i Stockholm. Byggnader på Södermalm.
+            Musikutbildning i Stockholm. Utbildning i Stockholm.
+        </cmt>
+        <desc>Södra Latin</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södra_Latin">
+            <text>Södra Latin</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29555556" lon="18.05166667">
+        <name>Årsta kyrka</name>
+        <cmt>Årsta. Kyrkobyggnader i Stockholms stift. Religiösa byggnader invigda 2011. Kyrkobyggnader i Söderort.
+        </cmt>
+        <desc>Årsta kyrka</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årsta_kyrka">
+            <text>Årsta kyrka</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28194427" lon="18.02305603">
+        <name>Brännkyrka socken</name>
+        <cmt>Indelningar i Stockholms kommun. Socknar i Svartlösa härad. Indelningar i Nacka kommun.</cmt>
+        <desc>Brännkyrka socken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Brännkyrka_socken">
+            <text>Brännkyrka socken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30666667" lon="18.04444444">
+        <name>Årsta holmar</name>
+        <cmt>Planerade naturreservat i Stockholms stad. Södermalm. Öar i Stockholms kommun.</cmt>
+        <desc>Årsta holmar</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årsta_holmar">
+            <text>Årsta holmar</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28138889" lon="18.03027778">
+        <name>Vietnams ambassad i Stockholm</name>
+        <cmt>Relationer mellan Sverige och Vietnam. Ambassader i Stockholm. Örby slott.</cmt>
+        <desc>Vietnams ambassad i Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Vietnams_ambassad_i_Stockholm">
+            <text>Vietnams ambassad i Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32044444" lon="18.06663889">
+        <name>Södermalms tvätt- och badinrättning</name>
+        <cmt>Ej längre existerande byggnader på Södermalm. Badhus i Stockholm.</cmt>
+        <desc>Södermalms tvätt- och badinrättning</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södermalms_tvätt-_och_badinrättning">
+            <text>Södermalms tvätt- och badinrättning</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31899444" lon="18.06721667">
+        <name>Maria Magdalena församling</name>
+        <cmt>Södermalm. Församlingar i Stockholms kommun.</cmt>
+        <desc>Maria Magdalena församling</desc>
+        <link href="http://sv.wikipedia.org/wiki/Maria_Magdalena_församling">
+            <text>Maria Magdalena församling</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31805556" lon="18.05861111">
+        <name>Kvarteret Mullvaden Första</name>
+        <cmt>Södermalm. Kvarter i Stockholm.</cmt>
+        <desc>Kvarteret Mullvaden Första</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kvarteret_Mullvaden_Första">
+            <text>Kvarteret Mullvaden Första</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31594722" lon="18.06495278">
+        <name>Nürnbergs Bryggeri</name>
+        <cmt>Ej längre existerande svenska bryggeriföretag. Anläggningar i Sverige. Industriföretag i Stockholm.
+            Byggnader på Södermalm. Företag upplösta 1916. Tidigare förvaringsanläggningar i Sverige.
+        </cmt>
+        <desc>Nürnbergs Bryggeri</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nürnbergs_Bryggeri">
+            <text>Nürnbergs Bryggeri</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27026944" lon="17.99971944">
+        <name>Älvsjödepån</name>
+        <cmt>Järnvägsåret 1968. Järnväg i Stockholms län. Lokaltrafikdepåer i Stockholm. Älvsjö. Byggnader i Söderort.
+        </cmt>
+        <desc>Älvsjödepån</desc>
+        <link href="http://sv.wikipedia.org/wiki/Älvsjödepån">
+            <text>Älvsjödepån</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31361111" lon="18.07277778">
+        <name>Paulis malmgård</name>
+        <cmt>Malmgårdar i Stockholm. Byggnader på Södermalm.</cmt>
+        <desc>Paulis malmgård</desc>
+        <link href="http://sv.wikipedia.org/wiki/Paulis_malmgård">
+            <text>Paulis malmgård</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32" lon="18.07111111">
+        <name>Brunnsbacken</name>
+        <cmt>Stockholms historia. Gator och torg på Södermalm.</cmt>
+        <desc>Brunnsbacken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Brunnsbacken">
+            <text>Brunnsbacken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32072222" lon="18.06030556">
+        <name>Monteliusvägen</name>
+        <cmt>Gator och torg på Södermalm. Gångvägar i Sverige.</cmt>
+        <desc>Monteliusvägen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Monteliusvägen">
+            <text>Monteliusvägen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32055556" lon="18.06305556">
+        <name>Cederborgska villan</name>
+        <cmt>Byggnader på Södermalm.</cmt>
+        <desc>Cederborgska villan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Cederborgska_villan">
+            <text>Cederborgska villan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32055556" lon="18.06222222">
+        <name>Blecktornsgränd</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Blecktornsgränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Blecktornsgränd">
+            <text>Blecktornsgränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32" lon="18.06944444">
+        <name>Kvarteret Överkikaren</name>
+        <cmt>Kvarter i Stockholm. Stockholms historia. Stadsplanering i Stockholm.</cmt>
+        <desc>Kvarteret Överkikaren</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kvarteret_Överkikaren">
+            <text>Kvarteret Överkikaren</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32425556" lon="18.06429722">
+        <name>Östra Gymnasiehuset</name>
+        <cmt>Byggnader på Riddarholmen.</cmt>
+        <desc>Östra Gymnasiehuset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Östra_Gymnasiehuset">
+            <text>Östra Gymnasiehuset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28194427" lon="18.02305603">
+        <name>Brännkyrka kyrka</name>
+        <cmt>Religiösa byggnader invigda under 1100-talet. Kyrkobyggnader i Stockholms stift. Örby slott. Kyrkobyggnader
+            i Söderort.
+        </cmt>
+        <desc>Brännkyrka kyrka</desc>
+        <link href="http://sv.wikipedia.org/wiki/Brännkyrka_kyrka">
+            <text>Brännkyrka kyrka</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29166667" lon="18.03638889">
+        <name>Ersta, Brännkyrka socken</name>
+        <cmt>Ej längre existerande byggnader i Söderort. Östberga.</cmt>
+        <desc>Ersta, Brännkyrka socken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Ersta,_Brännkyrka_socken">
+            <text>Ersta, Brännkyrka socken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.24361111" lon="17.99638889">
+        <name>Huddingegymnasiet</name>
+        <cmt>Utbildningsinstitutioner bildade 1972. Gymnasieskolor i Sverige. Huddinge kommun.</cmt>
+        <desc>Huddingegymnasiet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Huddingegymnasiet">
+            <text>Huddingegymnasiet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29527778" lon="18.05444444">
+        <name>Årsta</name>
+        <cmt>Årsta. Stadsdelar i Stockholm. Söderort.</cmt>
+        <desc>Årsta</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årsta">
+            <text>Årsta</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27972222" lon="18.00333333">
+        <name>Klockhuset, Älvsjö</name>
+        <cmt>Byggnader i Söderort. Solberga. Ericsson. Älvsjö stadsdelsområde.</cmt>
+        <desc>Klockhuset, Älvsjö</desc>
+        <link href="http://sv.wikipedia.org/wiki/Klockhuset,_Älvsjö">
+            <text>Klockhuset, Älvsjö</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31972222" lon="18.07027778">
+        <name>Stockholms enskilda bank, Hornsgatan</name>
+        <cmt>Byggnader ritade av Ivar Tengbom. Historiska bankbyggnader i Sverige. Byggnader på Södermalm.</cmt>
+        <desc>Stockholms enskilda bank, Hornsgatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stockholms_enskilda_bank,_Hornsgatan">
+            <text>Stockholms enskilda bank, Hornsgatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28083333" lon="18.02777778">
+        <name>Sjöängen, Stockholms kommun</name>
+        <cmt>Örby slott.</cmt>
+        <desc>Sjöängen, Stockholms kommun</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sjöängen,_Stockholms_kommun">
+            <text>Sjöängen, Stockholms kommun</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32333333" lon="18.06861111">
+        <name>Munkbroteatern</name>
+        <cmt>Historiska verksamheter i Gamla stan. Teaterinstitutioner och teatergrupper. Teatrar i Stockholm.</cmt>
+        <desc>Munkbroteatern</desc>
+        <link href="http://sv.wikipedia.org/wiki/Munkbroteatern">
+            <text>Munkbroteatern</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31222222" lon="18.05305556">
+        <name>Tantogården</name>
+        <cmt>Södermalm. Nedlagda konsertscener i Stockholm. Ej längre existerande byggnader på Södermalm.</cmt>
+        <desc>Tantogården</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tantogården">
+            <text>Tantogården</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31388889" lon="18.06916667">
+        <name>Bofills båge</name>
+        <cmt>Byggnader på Södermalm.</cmt>
+        <desc>Bofills båge</desc>
+        <link href="http://sv.wikipedia.org/wiki/Bofills_båge">
+            <text>Bofills båge</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31289673" lon="18.06771851">
+        <name>Fatburen (byggnad)</name>
+        <cmt>Byggnader på Södermalm.</cmt>
+        <desc>Fatburen (byggnad)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Fatburen_(byggnad)">
+            <text>Fatburen (byggnad)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32444382" lon="18.06777763">
+        <name>Leijontornet (restaurang)</name>
+        <cmt>Gamla stans historia. Verksamheter i Gamla stan. Restauranger i Stockholm. Restauranger i Sverige som
+            tidigare haft stjärnor i Michelinguiden. Vinnare av Gulddraken.
+        </cmt>
+        <desc>Leijontornet (restaurang)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Leijontornet_(restaurang)">
+            <text>Leijontornet (restaurang)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31375" lon="18.05666667">
+        <name>Maria Bangata</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Maria Bangata</desc>
+        <link href="http://sv.wikipedia.org/wiki/Maria_Bangata">
+            <text>Maria Bangata</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31944444" lon="18.06972222">
+        <name>Sparbankernas bank, Hornsgatan</name>
+        <cmt>Historiska bankbyggnader i Sverige. Byggnader på Södermalm.</cmt>
+        <desc>Sparbankernas bank, Hornsgatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sparbankernas_bank,_Hornsgatan">
+            <text>Sparbankernas bank, Hornsgatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30333333" lon="18.04388889">
+        <name>Årstaskogens bäckravin</name>
+        <cmt>Vattendrag i Sverige. Årsta.</cmt>
+        <desc>Årstaskogens bäckravin</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årstaskogens_bäckravin">
+            <text>Årstaskogens bäckravin</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32097222" lon="18.06616667">
+        <name>Söder Mälarstrand</name>
+        <cmt>Sjöfart i Stockholm. Gator och torg på Södermalm.</cmt>
+        <desc>Söder Mälarstrand</desc>
+        <link href="http://sv.wikipedia.org/wiki/Söder_Mälarstrand">
+            <text>Söder Mälarstrand</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32027222" lon="18.06761667">
+        <name>Poppius journalistskola</name>
+        <cmt>Utbildningsinstitutioner bildade 1947. Skolor i Sverige.</cmt>
+        <desc>Poppius journalistskola</desc>
+        <link href="http://sv.wikipedia.org/wiki/Poppius_journalistskola">
+            <text>Poppius journalistskola</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32093333" lon="18.06430278">
+        <name>Mariahissen</name>
+        <cmt>Transporthistoria. Byggnader på Södermalm. Hissar.</cmt>
+        <desc>Mariahissen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Mariahissen">
+            <text>Mariahissen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32380556" lon="18.06741667">
+        <name>Piperska palatset</name>
+        <cmt>Privatpalats i Stockholm. Byggnader i Gamla stan.</cmt>
+        <desc>Piperska palatset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Piperska_palatset">
+            <text>Piperska palatset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31555557" lon="18.06638908">
+        <name>Sankta Birgittas folkhögskola</name>
+        <cmt>Södermalm. Katolska församlingar i Sverige. Folkhögskolor i Sverige. Illustrationsbehov-Stockholm.
+            Utbildning i Stockholm.
+        </cmt>
+        <desc>Sankta Birgittas folkhögskola</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sankta_Birgittas_folkhögskola">
+            <text>Sankta Birgittas folkhögskola</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32505278" lon="18.07086667">
+        <name>Stadsholmen</name>
+        <cmt>Öar i Stockholms kommun. Gamla stan. Stockholms geografi.</cmt>
+        <desc>Stadsholmen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stadsholmen">
+            <text>Stadsholmen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28111111" lon="18.00361111">
+        <name>Karlsviks Industrier</name>
+        <cmt>Kungsholmen. Industriföretag i Stockholm. Svenska verkstadsindustriföretag. Solberga. Ej längre existerande
+            svenska gjuterier. Marieberg. Älvsjö stadsdelsområde.
+        </cmt>
+        <desc>Karlsviks Industrier</desc>
+        <link href="http://sv.wikipedia.org/wiki/Karlsviks_Industrier">
+            <text>Karlsviks Industrier</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31899444" lon="18.06721667">
+        <name>Maria Magdalena kyrkogård</name>
+        <cmt>Begravningsplatser i Stockholm. Södermalm.</cmt>
+        <desc>Maria Magdalena kyrkogård</desc>
+        <link href="http://sv.wikipedia.org/wiki/Maria_Magdalena_kyrkogård">
+            <text>Maria Magdalena kyrkogård</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28138889" lon="18.03027778">
+        <name>Örby slott (byggnad)</name>
+        <cmt>Byggnader i Söderort. Örby slott. Herrgårdar i Södermanland.</cmt>
+        <desc>Örby slott (byggnad)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Örby_slott_(byggnad)">
+            <text>Örby slott (byggnad)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32052778" lon="18.06836111">
+        <name>Södergatan, Stockholm</name>
+        <cmt>Ej längre existerande byggnader i Stockholm. Stadsplanering i Stockholm. Nedlagda byggprojekt i Stockholm.
+            Gator och torg på Södermalm.
+        </cmt>
+        <desc>Södergatan, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södergatan,_Stockholm">
+            <text>Södergatan, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31777778" lon="18.05527778">
+        <name>Rosenlundsgatan</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Rosenlundsgatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Rosenlundsgatan">
+            <text>Rosenlundsgatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30861111" lon="18.05555556">
+        <name>Årstalundens reservoar</name>
+        <cmt>Vattentorn i Sverige. Ej längre existerande byggnader på Södermalm. Tekniska försörjningssystem i
+            Stockholm.
+        </cmt>
+        <desc>Årstalundens reservoar</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årstalundens_reservoar">
+            <text>Årstalundens reservoar</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23996" lon="17.98523">
+        <name>Södermanlands runinskrifter 299</name>
+        <cmt>Runinskrifter i Huddinge kommun. Södermanlands runinskrifter.</cmt>
+        <desc>Södermanlands runinskrifter 299</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södermanlands_runinskrifter_299">
+            <text>Södermanlands runinskrifter 299</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31555556" lon="18.03611111">
+        <name>Hornsgatan 158</name>
+        <cmt>Jugendarkitektur. Byggnader på Södermalm. 1904 i Sverige. Arkitekturåret 1904.</cmt>
+        <desc>Hornsgatan 158</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hornsgatan_158">
+            <text>Hornsgatan 158</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31722222" lon="18.06527778">
+        <name>Spegelteatern</name>
+        <cmt>Södermalm. Fria teatergrupper. Teatrar i Stockholm.</cmt>
+        <desc>Spegelteatern</desc>
+        <link href="http://sv.wikipedia.org/wiki/Spegelteatern">
+            <text>Spegelteatern</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31756" lon="18.06398">
+        <name>Monténska huset</name>
+        <cmt>Byggnadsminnen i Stockholms kommun. Byggnader på Södermalm.</cmt>
+        <desc>Monténska huset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Monténska_huset">
+            <text>Monténska huset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31305556" lon="18.06972222">
+        <name>Victoria ångkvarn</name>
+        <cmt>Ej längre existerande byggnader på Södermalm. Kvarnar i Stockholms län.</cmt>
+        <desc>Victoria ångkvarn</desc>
+        <link href="http://sv.wikipedia.org/wiki/Victoria_ångkvarn">
+            <text>Victoria ångkvarn</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32541656" lon="18.06886101">
+        <name>Helga Lekamens gränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Helga Lekamens gränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Helga_Lekamens_gränd">
+            <text>Helga Lekamens gränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31972222" lon="18.06805556">
+        <name>Johan Eberhard Carlbergs hus</name>
+        <cmt>Bränder 1759. Byggnader ritade av Johan Eberhard Carlberg. Arkitekturåret 1732. Bränder i Stockholm.
+            Byggnader på Södermalm. 1732 i Sverige.
+        </cmt>
+        <desc>Johan Eberhard Carlbergs hus</desc>
+        <link href="http://sv.wikipedia.org/wiki/Johan_Eberhard_Carlbergs_hus">
+            <text>Johan Eberhard Carlbergs hus</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31725556" lon="18.07103611">
+        <name>K A Almgrens sidenväveri</name>
+        <cmt>Södermalm. Industriminnen i Stockholms kommun. Industriföretag i Stockholm. Museer i Stockholm.
+            Arbetslivsmuseer i Sverige.
+        </cmt>
+        <desc>K A Almgrens sidenväveri</desc>
+        <link href="http://sv.wikipedia.org/wiki/K_A_Almgrens_sidenväveri">
+            <text>K A Almgrens sidenväveri</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32058334" lon="18.07127762">
+        <name>Pelikanslingan</name>
+        <cmt>Slussen. Gator och torg på Södermalm.</cmt>
+        <desc>Pelikanslingan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Pelikanslingan">
+            <text>Pelikanslingan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32027817" lon="18.05861092">
+        <name>Mälarborgen</name>
+        <cmt>Byggnader ritade av Gustaf Hermansson. Byggnader på Södermalm.</cmt>
+        <desc>Mälarborgen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Mälarborgen">
+            <text>Mälarborgen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31402778" lon="18.07227778">
+        <name>Folkungagatan, Stockholm</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Folkungagatan, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Folkungagatan,_Stockholm">
+            <text>Folkungagatan, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23861111" lon="17.98833333">
+        <name>Huddinge kommunalhus</name>
+        <cmt>Sjödalen-Fullersta (kommundel). Byggnader i Huddinge kommun. Kommunhus i Sverige.</cmt>
+        <desc>Huddinge kommunalhus</desc>
+        <link href="http://sv.wikipedia.org/wiki/Huddinge_kommunalhus">
+            <text>Huddinge kommunalhus</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31972222" lon="18.07083333">
+        <name>Slussens bibliotek</name>
+        <cmt>Slussenområdet. Bibliotek i Stockholm.</cmt>
+        <desc>Slussens bibliotek</desc>
+        <link href="http://sv.wikipedia.org/wiki/Slussens_bibliotek">
+            <text>Slussens bibliotek</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32305556" lon="18.07027778">
+        <name>Kvarteret Cerberus</name>
+        <cmt>Kvarter i Gamla stan. Stockholms historia. Byggnader i Gamla stan.</cmt>
+        <desc>Kvarteret Cerberus</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kvarteret_Cerberus">
+            <text>Kvarteret Cerberus</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30333333" lon="18.04361111">
+        <name>Årsta gårds kvarn</name>
+        <cmt>Ruiner i Södermanland. Kvarnar i Stockholms län. Årsta.</cmt>
+        <desc>Årsta gårds kvarn</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årsta_gårds_kvarn">
+            <text>Årsta gårds kvarn</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.326" lon="18.06869444">
+        <name>Stenbastugränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Stenbastugränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stenbastugränd">
+            <text>Stenbastugränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31361111" lon="18.03222222">
+        <name>Liljeholmsbron</name>
+        <cmt>Södermalm. Broar invigda 1928. Liljeholmen. Broar i Stockholm.</cmt>
+        <desc>Liljeholmsbron</desc>
+        <link href="http://sv.wikipedia.org/wiki/Liljeholmsbron">
+            <text>Liljeholmsbron</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29305649" lon="18.04138947">
+        <name>Årstafältets koloniområde</name>
+        <cmt>Koloniträdgårdar i Stockholm. Östberga.</cmt>
+        <desc>Årstafältets koloniområde</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årstafältets_koloniområde">
+            <text>Årstafältets koloniområde</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.311975" lon="18.05824167">
+        <name>Luth och Roséns Elektriska</name>
+        <cmt>Gjuterier i Stockholm. Industriföretag i Stockholm. Södermalm. Sveriges industrihistoria. Företag bildade
+            1885. Hisstillverkare. Ej längre existerande svenska verkstadsindustriföretag. Företag upplösta 1968.
+            Företag i Stockholms kommun.
+        </cmt>
+        <desc>Luth och Roséns Elektriska</desc>
+        <link href="http://sv.wikipedia.org/wiki/Luth_&#038;_Roséns_Elektriska">
+            <text>Luth och Roséns Elektriska</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32394409" lon="18.06741714">
+        <name>Munkbrogatan</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Munkbrogatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Munkbrogatan">
+            <text>Munkbrogatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32458333" lon="18.07072222">
+        <name>Nationalgalleriet (Stockholm)</name>
+        <cmt>Konstgallerier i Stockholm. Verksamheter i Gamla stan.</cmt>
+        <desc>Nationalgalleriet (Stockholm)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nationalgalleriet_(Stockholm)">
+            <text>Nationalgalleriet (Stockholm)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32522202" lon="18.06905556">
+        <name>Sägnen om herr Måns</name>
+        <cmt>Gamla stan i skönlitteratur. Sägner. Gamla stans historia.</cmt>
+        <desc>Sägnen om herr Måns</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sägnen_om_herr_Måns">
+            <text>Sägnen om herr Måns</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31305556" lon="18.05472222">
+        <name>Kvarteret Svärdet</name>
+        <cmt>Byggnader på Södermalm.</cmt>
+        <desc>Kvarteret Svärdet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kvarteret_Svärdet">
+            <text>Kvarteret Svärdet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31580833" lon="18.06862222">
+        <name>Johan Helmich Romans park</name>
+        <cmt>Parker i Stockholms kommun. Södermalm.</cmt>
+        <desc>Johan Helmich Romans park</desc>
+        <link href="http://sv.wikipedia.org/wiki/Johan_Helmich_Romans_park">
+            <text>Johan Helmich Romans park</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31777778" lon="18.04638889">
+        <name>Wirwachs malmgård</name>
+        <cmt>Malmgårdar i Stockholm. Byggnader på Södermalm.</cmt>
+        <desc>Wirwachs malmgård</desc>
+        <link href="http://sv.wikipedia.org/wiki/Wirwachs_malmgård">
+            <text>Wirwachs malmgård</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31816389" lon="18.06286389">
+        <name>Tors fiske</name>
+        <cmt>Skulpturer i Stockholm. Skulpturer i Södermalms stadsdelsområde. Fontäner i Stockholm.</cmt>
+        <desc>Tors fiske</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tors_fiske">
+            <text>Tors fiske</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32527778" lon="18.07055556">
+        <name>Rådstugan, Stockholm</name>
+        <cmt>Historiska verksamheter i Gamla stan. Ej längre existerande byggnader i Gamla stan.</cmt>
+        <desc>Rådstugan, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Rådstugan,_Stockholm">
+            <text>Rådstugan, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29944444" lon="18.04222222">
+        <name>Snigelparken</name>
+        <cmt>Parker i Stockholms kommun. Årsta.</cmt>
+        <desc>Snigelparken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Snigelparken">
+            <text>Snigelparken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.24006944" lon="17.985">
+        <name>Huddinge distrikt</name>
+        <cmt>Indelningar i Huddinge kommun. Distrikt i Stockholms län.</cmt>
+        <desc>Huddinge distrikt</desc>
+        <link href="http://sv.wikipedia.org/wiki/Huddinge_distrikt">
+            <text>Huddinge distrikt</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31972222" lon="18.06861111">
+        <name>Hornsgatan 20</name>
+        <cmt>Byggnader på Södermalm.</cmt>
+        <desc>Hornsgatan 20</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hornsgatan_20">
+            <text>Hornsgatan 20</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32436111" lon="18.06553611">
+        <name>Hebbeska huset, Riddarholmen</name>
+        <cmt>Byggnader på Riddarholmen. Hebbe.</cmt>
+        <desc>Hebbeska huset, Riddarholmen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hebbeska_huset,_Riddarholmen">
+            <text>Hebbeska huset, Riddarholmen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31972222" lon="18.07083333">
+        <name>Södra stadshuset</name>
+        <cmt>Slussenområdet. Byggnader ritade av Nicodemus Tessin d.ä.. Byggnadsminnen i Stockholms kommun. Byggnader på
+            Södermalm. Historiska offentliga byggnader i Sverige. Byggnader avbildade i Suecian.
+        </cmt>
+        <desc>Södra stadshuset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södra_stadshuset">
+            <text>Södra stadshuset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.325" lon="18.06527778">
+        <name>Riddarholmskanalen</name>
+        <cmt>Riddarholmen. Kanaler i Sverige. Sjöfart i Stockholm. Stockholms historia.</cmt>
+        <desc>Riddarholmskanalen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Riddarholmskanalen">
+            <text>Riddarholmskanalen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32501944" lon="18.0694">
+        <name>Västerlånggatan 31</name>
+        <cmt>Byggnader i Gamla stan.</cmt>
+        <desc>Västerlånggatan 31</desc>
+        <link href="http://sv.wikipedia.org/wiki/Västerlånggatan_31">
+            <text>Västerlånggatan 31</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32472229" lon="18.06472206">
+        <name>Riddarholmens bronsmodeller</name>
+        <cmt>Skulpturer i Stockholm. Riddarholmen.</cmt>
+        <desc>Riddarholmens bronsmodeller</desc>
+        <link href="http://sv.wikipedia.org/wiki/Riddarholmens_bronsmodeller">
+            <text>Riddarholmens bronsmodeller</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3180275" lon="18.05755615">
+        <name>Branden på Torkel Knutssonsgatan 1906</name>
+        <cmt>Södermalm. 1906 i Sverige. Bränder i Stockholm. Bränder 1906.</cmt>
+        <desc>Branden på Torkel Knutssonsgatan 1906</desc>
+        <link href="http://sv.wikipedia.org/wiki/Branden_på_Torkel_Knutssonsgatan_1906">
+            <text>Branden på Torkel Knutssonsgatan 1906</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32472229" lon="18.06444359">
+        <name>Riddarholmskyrkans brand 1835</name>
+        <cmt>Religionsåret 1835. Sverige under den gustavianska tiden. 1835 i Sverige. Bränder i Stockholm.
+            Riddarholmen. Kyrkbränder i Sverige. Bränder 1835.
+        </cmt>
+        <desc>Riddarholmskyrkans brand 1835</desc>
+        <link href="http://sv.wikipedia.org/wiki/Riddarholmskyrkans_brand_1835">
+            <text>Riddarholmskyrkans brand 1835</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31555557" lon="18.06999969">
+        <name>Hotell Göteborg</name>
+        <cmt>Historiska hotell i Stockholm. Ej längre existerande byggnader på Södermalm.</cmt>
+        <desc>Hotell Göteborg</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hotell_Göteborg">
+            <text>Hotell Göteborg</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27777778" lon="18.01555556">
+        <name>Stockholmsmässan</name>
+        <cmt>Älvsjö. Företag bildade 1943. Mässor. Byggnader i Söderort. Företag i Stockholms kommun.</cmt>
+        <desc>Stockholmsmässan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stockholmsmässan">
+            <text>Stockholmsmässan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31666667" lon="18.04694444">
+        <name>Michel Jöranssons kvarn</name>
+        <cmt>Ej längre existerande byggnader på Södermalm. Kvarnar i Stockholms län.</cmt>
+        <desc>Michel Jöranssons kvarn</desc>
+        <link href="http://sv.wikipedia.org/wiki/Michel_Jöranssons_kvarn">
+            <text>Michel Jöranssons kvarn</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27861111" lon="18.00222222">
+        <name>Robertsberg</name>
+        <cmt>Ej längre existerande byggnader i Söderort. Långbro.</cmt>
+        <desc>Robertsberg</desc>
+        <link href="http://sv.wikipedia.org/wiki/Robertsberg">
+            <text>Robertsberg</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32388889" lon="18.06886111">
+        <name>Stora branden 1625</name>
+        <cmt>Bränder 1625. Sverige under stormaktstiden. Gamla stans historia. Bränder i Stockholm. Stadsbränder. 1625 i
+            Sverige.
+        </cmt>
+        <desc>Stora branden 1625</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stora_branden_1625">
+            <text>Stora branden 1625</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32025" lon="18.06725">
+        <name>Bastugatan</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Bastugatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Bastugatan">
+            <text>Bastugatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32013889" lon="18.07025">
+        <name>Jacob Grundels hus</name>
+        <cmt>Byggnader på Södermalm.</cmt>
+        <desc>Jacob Grundels hus</desc>
+        <link href="http://sv.wikipedia.org/wiki/Jacob_Grundels_hus">
+            <text>Jacob Grundels hus</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28111111" lon="18.00361111">
+        <name>Karlsviks Fabriker</name>
+        <cmt>Kungsholmen. Ej längre existerande företag i Stockholms kommun. Ej längre existerande svenska
+            textilföretag.
+        </cmt>
+        <desc>Karlsviks Fabriker</desc>
+        <link href="http://sv.wikipedia.org/wiki/Karlsviks_Fabriker">
+            <text>Karlsviks Fabriker</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3175" lon="18.05583333">
+        <name>Maria brand- och polisstation</name>
+        <cmt>Brandstationer i Stockholm. Byggnader på Södermalm.</cmt>
+        <desc>Maria brand- och polisstation</desc>
+        <link href="http://sv.wikipedia.org/wiki/Maria_brand-_och_polisstation">
+            <text>Maria brand- och polisstation</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32555556" lon="18.06805556">
+        <name>Smedmans handelsskola</name>
+        <cmt>Handel. Gamla stan. Ej längre existerande utbildning i Stockholm.</cmt>
+        <desc>Smedmans handelsskola</desc>
+        <link href="http://sv.wikipedia.org/wiki/Smedmans_handelsskola">
+            <text>Smedmans handelsskola</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.275" lon="17.99166667">
+        <name>Långbrodalsvägen</name>
+        <cmt>Gator och torg i Söderort. Herrängen. Långbro. Långsjö. Älvsjö stadsdelsområde.</cmt>
+        <desc>Långbrodalsvägen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Långbrodalsvägen">
+            <text>Långbrodalsvägen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30472183" lon="18.04722214">
+        <name>Årstaviken</name>
+        <cmt>Årsta. Södermalm. Liljeholmen.</cmt>
+        <desc>Årstaviken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årstaviken">
+            <text>Årstaviken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3" lon="18.02916667">
+        <name>Årstaberg</name>
+        <cmt>Årsta. Liljeholmen.</cmt>
+        <desc>Årstaberg</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årstaberg">
+            <text>Årstaberg</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.25166702" lon="18.00027847">
+        <name>Stuvstatunneln</name>
+        <cmt>Vägtunnlar i Stockholm. Huddinge kommun.</cmt>
+        <desc>Stuvstatunneln</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stuvstatunneln">
+            <text>Stuvstatunneln</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32508333" lon="18.06911111">
+        <name>Överskärargränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Överskärargränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Överskärargränd">
+            <text>Överskärargränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31580556" lon="18.05169444">
+        <name>Barnsjukhuset Samariten</name>
+        <cmt>Sjukhus i Stockholms län. Södermalm.</cmt>
+        <desc>Barnsjukhuset Samariten</desc>
+        <link href="http://sv.wikipedia.org/wiki/Barnsjukhuset_Samariten">
+            <text>Barnsjukhuset Samariten</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32069444" lon="18.06544444">
+        <name>Pryssgränd</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Pryssgränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Pryssgränd">
+            <text>Pryssgränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32011414" lon="18.06938934">
+        <name>Hilton Stockholm Slussen</name>
+        <cmt>Slussenområdet. Hotell i Stockholm.</cmt>
+        <desc>Hilton Stockholm Slussen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hilton_Stockholm_Slussen">
+            <text>Hilton Stockholm Slussen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32416667" lon="18.06722222">
+        <name>Munkbron 17</name>
+        <cmt>Byggnader ritade av Erik Josephson. Byggnader i Gamla stan.</cmt>
+        <desc>Munkbron 17</desc>
+        <link href="http://sv.wikipedia.org/wiki/Munkbron_17">
+            <text>Munkbron 17</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29384444" lon="18.05047778">
+        <name>Valla torg</name>
+        <cmt>Gator och torg i Söderort. Årsta.</cmt>
+        <desc>Valla torg</desc>
+        <link href="http://sv.wikipedia.org/wiki/Valla_torg">
+            <text>Valla torg</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29541667" lon="18.03522222">
+        <name>Åbyvägen</name>
+        <cmt>Gator och torg i Söderort. Enskede-Årsta-Vantörs stadsdelsområde. Älvsjö stadsdelsområde.</cmt>
+        <desc>Åbyvägen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Åbyvägen">
+            <text>Åbyvägen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23416667" lon="17.97833333">
+        <name>Kommunalvägen</name>
+        <cmt>Gator och torg i Huddinge. Sjödalen-Fullersta (kommundel).</cmt>
+        <desc>Kommunalvägen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kommunalvägen">
+            <text>Kommunalvägen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31813889" lon="18.04588889">
+        <name>Ansgariegatan</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Ansgariegatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Ansgariegatan">
+            <text>Ansgariegatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31816111" lon="18.06367222">
+        <name>Hotel Rival</name>
+        <cmt>Hotell i Stockholm. Företag bildade 2003.</cmt>
+        <desc>Hotel Rival</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hotel_Rival">
+            <text>Hotel Rival</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31815556" lon="18.06369722">
+        <name>Rival (biograf)</name>
+        <cmt>Biografer i Stockholm.</cmt>
+        <desc>Rival (biograf)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Rival_(biograf)">
+            <text>Rival (biograf)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28488922" lon="18.03194427">
+        <name>Götalandsvägen</name>
+        <cmt>Gator och torg i Söderort. Broar i Stockholm.</cmt>
+        <desc>Götalandsvägen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Götalandsvägen">
+            <text>Götalandsvägen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31001111" lon="18.03066667">
+        <name>Marievik</name>
+        <cmt>Liljeholmen. Historiska industriområden i Stockholm. Informella områden.</cmt>
+        <desc>Marievik</desc>
+        <link href="http://sv.wikipedia.org/wiki/Marievik">
+            <text>Marievik</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23611069" lon="17.98472214">
+        <name>Sjödalsparken</name>
+        <cmt>Sjödalen-Fullersta (kommundel). Parker i Sverige. Huddinge kommun.</cmt>
+        <desc>Sjödalsparken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Sjödalsparken">
+            <text>Sjödalsparken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32333333" lon="18.06611111">
+        <name>Munkbrohamnen</name>
+        <cmt>Gamla stan.</cmt>
+        <desc>Munkbrohamnen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Munkbrohamnen">
+            <text>Munkbrohamnen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23861111" lon="17.98833333">
+        <name>Flicka med fruktkorg</name>
+        <cmt>Sjödalen-Fullersta (kommundel). Skulpturer av Bror Hjorth. Skulpturer i Huddinge kommun. Huddinge kommun.
+        </cmt>
+        <desc>Flicka med fruktkorg</desc>
+        <link href="http://sv.wikipedia.org/wiki/Flicka_med_fruktkorg">
+            <text>Flicka med fruktkorg</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.317775" lon="18.06491389">
+        <name>Björngårdsteatern</name>
+        <cmt>Sverige under stormaktstiden. Södermalm. Teaterinstitutioner och teatergrupper. Teatrar i Stockholm.
+            Illustrationsbehov-Stockholms historia. Stockholms historia. Svensk teater före 1800.
+        </cmt>
+        <desc>Björngårdsteatern</desc>
+        <link href="http://sv.wikipedia.org/wiki/Björngårdsteatern">
+            <text>Björngårdsteatern</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31844444" lon="18.05819444">
+        <name>Ricardo (biograf)</name>
+        <cmt>Nedlagda biografer i Stockholm.</cmt>
+        <desc>Ricardo (biograf)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Ricardo_(biograf)">
+            <text>Ricardo (biograf)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31638889" lon="18.04305556">
+        <name>Hornsgatan 132</name>
+        <cmt>Byggnader på Södermalm.</cmt>
+        <desc>Hornsgatan 132</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hornsgatan_132">
+            <text>Hornsgatan 132</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31575" lon="18.05736111">
+        <name>Södra barnbördshuset</name>
+        <cmt>Byggnader ritade av Ernst Stenhammar. Sjukhus i Stockholms län. Barnbördshus. Ugglan utan parametrar.
+            Stockholms historia.
+        </cmt>
+        <desc>Södra barnbördshuset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södra_barnbördshuset">
+            <text>Södra barnbördshuset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.27722222" lon="18.01083333">
+        <name>Älvsjö gård</name>
+        <cmt>Byggnader i Söderort. Älvsjö. Avvecklade fideikommiss. Herrgårdar i Södermanland.</cmt>
+        <desc>Älvsjö gård</desc>
+        <link href="http://sv.wikipedia.org/wiki/Älvsjö_gård">
+            <text>Älvsjö gård</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31248333" lon="18.05333611">
+        <name>Ekermanska malmgården</name>
+        <cmt>Malmgårdar i Stockholm. Byggnader på Södermalm.</cmt>
+        <desc>Ekermanska malmgården</desc>
+        <link href="http://sv.wikipedia.org/wiki/Ekermanska_malmgården">
+            <text>Ekermanska malmgården</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32583333" lon="18.06944444">
+        <name>Beijerska huset</name>
+        <cmt>Privatpalats i Stockholm. Byggnadsminnen i Stockholms kommun. Byggnader i Gamla stan.</cmt>
+        <desc>Beijerska huset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Beijerska_huset">
+            <text>Beijerska huset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32404722" lon="18.06801944">
+        <name>Kungliga posthuset</name>
+        <cmt>Byggnadsminnen i Stockholms kommun. Byggnader ritade av Fredrik Blom. Byggnader i Gamla stan.</cmt>
+        <desc>Kungliga posthuset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kungliga_posthuset">
+            <text>Kungliga posthuset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.324525" lon="18.06733056">
+        <name>Petersenska huset</name>
+        <cmt>Byggnader i Gamla stan. Privatpalats i Stockholm. Byggnadsminnen i Stockholms kommun. Fideikommiss.
+            Byggnader avbildade i Suecian.
+        </cmt>
+        <desc>Petersenska huset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Petersenska_huset">
+            <text>Petersenska huset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32519444" lon="18.06936111">
+        <name>Kvarteret Iris</name>
+        <cmt>Kvarter i Gamla stan. Stockholms historia. Byggnader i Gamla stan.</cmt>
+        <desc>Kvarteret Iris</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kvarteret_Iris">
+            <text>Kvarteret Iris</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29217" lon="18.03093">
+        <name>Skålgropsstenen i Årsta partihallar</name>
+        <cmt>Fornminnen från järnåldern i Sverige. Fornminnen i Stockholms kommun. Fornminnen i Södermanland.
+            Skålgropar.
+        </cmt>
+        <desc>Skålgropsstenen i Årsta partihallar</desc>
+        <link href="http://sv.wikipedia.org/wiki/Skålgropsstenen_i_Årsta_partihallar">
+            <text>Skålgropsstenen i Årsta partihallar</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31972222" lon="18.07083333">
+        <name>Södra stadshuskällaren</name>
+        <cmt>Restauranger i Stockholm.</cmt>
+        <desc>Södra stadshuskällaren</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södra_stadshuskällaren">
+            <text>Södra stadshuskällaren</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32491667" lon="18.06930556">
+        <name>Didrik Ficks gränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Didrik Ficks gränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Didrik_Ficks_gränd">
+            <text>Didrik Ficks gränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32472" lon="18.07017">
+        <name>Upplands runinskrifter 53</name>
+        <cmt>Upplands runinskrifter. Gamla stan. Runinskrifter i Stockholms kommun.</cmt>
+        <desc>Upplands runinskrifter 53</desc>
+        <link href="http://sv.wikipedia.org/wiki/Upplands_runinskrifter_53">
+            <text>Upplands runinskrifter 53</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29869722" lon="18.04808056">
+        <name>EPA-husen</name>
+        <cmt>Byggnader uppförda av Skanska. Byggnader i Söderort. Årsta.</cmt>
+        <desc>EPA-husen</desc>
+        <link href="http://sv.wikipedia.org/wiki/EPA-husen">
+            <text>EPA-husen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31880569" lon="18.04766655">
+        <name>Skinnarviksringen</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Skinnarviksringen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Skinnarviksringen">
+            <text>Skinnarviksringen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32177778" lon="18.06916667">
+        <name>Söderströmsbron</name>
+        <cmt>Järnvägsbroar i Sverige. Broar invigda 1957. Broar i Stockholm.</cmt>
+        <desc>Söderströmsbron</desc>
+        <link href="http://sv.wikipedia.org/wiki/Söderströmsbron">
+            <text>Söderströmsbron</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32277778" lon="18.07138889">
+        <name>Bågspännaren</name>
+        <cmt>Konståret 1916. 1916 i Sverige. Skulpturer av Christian Eriksson. Engelbrekt Engelbrektsson.
+            Regentskulpturer i Sverige. Skulpturer i Gamla stan.
+        </cmt>
+        <desc>Bågspännaren</desc>
+        <link href="http://sv.wikipedia.org/wiki/Bågspännaren">
+            <text>Bågspännaren</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32455556" lon="18.06975">
+        <name>Bedoirsgränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Bedoirsgränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Bedoirsgränd">
+            <text>Bedoirsgränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31111111" lon="18.05444444">
+        <name>Marmorlunden</name>
+        <cmt>Byggnader på Södermalm.</cmt>
+        <desc>Marmorlunden</desc>
+        <link href="http://sv.wikipedia.org/wiki/Marmorlunden">
+            <text>Marmorlunden</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32486111" lon="18.07113889">
+        <name>Svartmangatan</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Svartmangatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Svartmangatan">
+            <text>Svartmangatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28541111" lon="18.02486111">
+        <name>Liseberg, Stockholm</name>
+        <cmt>Stadsdelar i Stockholm. Söderort. Älvsjö stadsdelsområde.</cmt>
+        <desc>Liseberg, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Liseberg,_Stockholm">
+            <text>Liseberg, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32520556" lon="18.07079722">
+        <name>Nobelmuseet</name>
+        <cmt>Nobelpriset. Museer i Stockholm. Verksamheter i Gamla stan. Bibliotek i Stockholm. Personmuseer i Sverige.
+            Museer invigda 2001.
+        </cmt>
+        <desc>Nobelmuseet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nobelmuseet">
+            <text>Nobelmuseet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31944444" lon="18.06638889">
+        <name>Maria trappgränd</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Maria trappgränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Maria_trappgränd">
+            <text>Maria trappgränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31902778" lon="18.07111111">
+        <name>Götgatan 7</name>
+        <cmt>Byggnader på Södermalm.</cmt>
+        <desc>Götgatan 7</desc>
+        <link href="http://sv.wikipedia.org/wiki/Götgatan_7">
+            <text>Götgatan 7</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31527778" lon="18.03805556">
+        <name>Ligna</name>
+        <cmt>Historiska industriområden i Stockholm. Södermalm. Ej längre existerande svenska trävaruindustrier.</cmt>
+        <desc>Ligna</desc>
+        <link href="http://sv.wikipedia.org/wiki/Ligna">
+            <text>Ligna</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32304167" lon="18.071425">
+        <name>Typhon 16</name>
+        <cmt>Byggnader i Gamla stan.</cmt>
+        <desc>Typhon 16</desc>
+        <link href="http://sv.wikipedia.org/wiki/Typhon_16">
+            <text>Typhon 16</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32438889" lon="18.06991667">
+        <name>Skräddargränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Skräddargränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Skräddargränd">
+            <text>Skräddargränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31987778" lon="18.06953333">
+        <name>Hornsgatan 8</name>
+        <cmt>Byggnader ritade av Ernst Stenhammar. Historiska bankbyggnader i Sverige. Byggnader på Södermalm.</cmt>
+        <desc>Hornsgatan 8</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hornsgatan_8">
+            <text>Hornsgatan 8</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32386111" lon="18.07083333">
+        <name>Tyska brinken</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Tyska brinken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tyska_brinken">
+            <text>Tyska brinken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.325" lon="18.06872222">
+        <name>Gåstorget</name>
+        <cmt>Enwp. Gator och torg i Gamla stan.</cmt>
+        <desc>Gåstorget</desc>
+        <link href="http://sv.wikipedia.org/wiki/Gåstorget">
+            <text>Gåstorget</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32530556" lon="18.06883333">
+        <name>Göran Hälsinges gränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Göran Hälsinges gränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Göran_Hälsinges_gränd">
+            <text>Göran Hälsinges gränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31" lon="18.04444444">
+        <name>Molitors malmgård</name>
+        <cmt>Malmgårdar i Stockholm. Byggnader på Södermalm.</cmt>
+        <desc>Molitors malmgård</desc>
+        <link href="http://sv.wikipedia.org/wiki/Molitors_malmgård">
+            <text>Molitors malmgård</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32527778" lon="18.069">
+        <name>Ignatiigränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Ignatiigränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Ignatiigränd">
+            <text>Ignatiigränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31773889" lon="18.05268056">
+        <name>Teater Tribunalen</name>
+        <cmt>Södermalm. Fria teatergrupper. Teatrar i Stockholm.</cmt>
+        <desc>Teater Tribunalen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Teater_Tribunalen">
+            <text>Teater Tribunalen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31739722" lon="18.06774167">
+        <name>Modernista</name>
+        <cmt>Illustrationsbehov-Stockholm. Företag bildade 2002. Svenska bokförlag.</cmt>
+        <desc>Modernista</desc>
+        <link href="http://sv.wikipedia.org/wiki/Modernista">
+            <text>Modernista</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31944444" lon="18.07194444">
+        <name>Stockholms sjömanshem (byggnad)</name>
+        <cmt>Slussenområdet. Byggnader på Södermalm.</cmt>
+        <desc>Stockholms sjömanshem (byggnad)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stockholms_sjömanshem_(byggnad)">
+            <text>Stockholms sjömanshem (byggnad)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.23622222" lon="17.97672222">
+        <name>Södertörnkyrkan</name>
+        <cmt>Kyrkobyggnader i Huddinge kommun. Svenska pingstförsamlingar. Religiösa byggnader invigda 2012. Svenska
+            pingstkyrkor.
+        </cmt>
+        <desc>Södertörnkyrkan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södertörnkyrkan">
+            <text>Södertörnkyrkan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32411111" lon="18.06802778">
+        <name>Postmuseum</name>
+        <cmt>Filateli. Museer i Stockholm. Museer invigda 1906. Verksamheter i Gamla stan.</cmt>
+        <desc>Postmuseum</desc>
+        <link href="http://sv.wikipedia.org/wiki/Postmuseum">
+            <text>Postmuseum</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.28273889" lon="18.02469722">
+        <name>Brännkyrka församling</name>
+        <cmt>Hägersten-Liljeholmens stadsdelsområde. Församlingar i Stockholms kommun.</cmt>
+        <desc>Brännkyrka församling</desc>
+        <link href="http://sv.wikipedia.org/wiki/Brännkyrka_församling">
+            <text>Brännkyrka församling</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.29527778" lon="18.05">
+        <name>Gravfältet i Kyrkparken, Årsta</name>
+        <cmt>Årsta. Fornminnen i Stockholms kommun. Gravfält i Sverige. Fornminnen i Södermanland.</cmt>
+        <desc>Gravfältet i Kyrkparken, Årsta</desc>
+        <link href="http://sv.wikipedia.org/wiki/Gravfältet_i_Kyrkparken,_Årsta">
+            <text>Gravfältet i Kyrkparken, Årsta</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31961111" lon="18.07061111">
+        <name>Götgatan</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Götgatan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Götgatan">
+            <text>Götgatan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32519444" lon="18.06905556">
+        <name>Gåsgränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Gåsgränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Gåsgränd">
+            <text>Gåsgränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32571944" lon="18.06604444">
+        <name>Gustav Vasa (staty)</name>
+        <cmt>Kulturella återgivningar av Gustav Vasa. Skulpturer i Gamla stan. Regentskulpturer i Sverige.</cmt>
+        <desc>Gustav Vasa (staty)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Gustav_Vasa_(staty)">
+            <text>Gustav Vasa (staty)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31805556" lon="18.05472222">
+        <name>Stockholms Bysättningshäkte</name>
+        <cmt>Nedlagda fängelser i Stockholm. Södermalm.</cmt>
+        <desc>Stockholms Bysättningshäkte</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stockholms_Bysättningshäkte">
+            <text>Stockholms Bysättningshäkte</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31789167" lon="18.06980556">
+        <name>Avselad kamp</name>
+        <cmt>Skulpturer i Stockholm. Skulpturer på Södermalm.</cmt>
+        <desc>Avselad kamp</desc>
+        <link href="http://sv.wikipedia.org/wiki/Avselad_kamp">
+            <text>Avselad kamp</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32505556" lon="18.07025">
+        <name>Solgränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Solgränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Solgränd">
+            <text>Solgränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31552778" lon="18.06933333">
+        <name>Södra bangårdshuset</name>
+        <cmt>Restauranger i Stockholm. Byggnader på Södermalm.</cmt>
+        <desc>Södra bangårdshuset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södra_bangårdshuset">
+            <text>Södra bangårdshuset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32513889" lon="18.06966667">
+        <name>Spektens gränd</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Spektens gränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Spektens_gränd">
+            <text>Spektens gränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31880569" lon="18.05019379">
+        <name>Yttersta Tvärgränd</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Yttersta Tvärgränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Yttersta_Tvärgränd">
+            <text>Yttersta Tvärgränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30266389" lon="18.05693056">
+        <name>Årsta skog</name>
+        <cmt>Årsta. Liljeholmen. Skogar i Sverige. Planerade naturreservat i Stockholms stad.</cmt>
+        <desc>Årsta skog</desc>
+        <link href="http://sv.wikipedia.org/wiki/Årsta_skog">
+            <text>Årsta skog</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32580556" lon="18.06952778">
+        <name>Storkyrkobrinken</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Storkyrkobrinken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Storkyrkobrinken">
+            <text>Storkyrkobrinken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31388889" lon="18.07138889">
+        <name>Söderleden, Stockholm</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Söderleden, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Söderleden,_Stockholm">
+            <text>Söderleden, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31361111" lon="18.06694444">
+        <name>Fatburan</name>
+        <cmt>Ej längre existerande byggnader på Södermalm. Kvarnar i Stockholms län.</cmt>
+        <desc>Fatburan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Fatburan">
+            <text>Fatburan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31388855" lon="18.07083321">
+        <name>Torinetäppan</name>
+        <cmt>Parker i Stockholms kommun. Södermalm.</cmt>
+        <desc>Torinetäppan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Torinetäppan">
+            <text>Torinetäppan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31361111" lon="18.055">
+        <name>Ånghästparken</name>
+        <cmt>Parker i Stockholms kommun. Södermalm.</cmt>
+        <desc>Ånghästparken</desc>
+        <link href="http://sv.wikipedia.org/wiki/Ånghästparken">
+            <text>Ånghästparken</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3192" lon="18.07064167">
+        <name>Nederländernas ambassad i Stockholm</name>
+        <cmt>Bildanden 1720. Relationer mellan Nederländerna och Sverige. Byggnader på Södermalm. Ambassader i
+            Stockholm.
+        </cmt>
+        <desc>Nederländernas ambassad i Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Nederländernas_ambassad_i_Stockholm">
+            <text>Nederländernas ambassad i Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.30814167" lon="18.06330278">
+        <name>Eriksdalsskolan</name>
+        <cmt>Grundskolor i Stockholm. Utbildningsinstitutioner bildade 1938. Södermalm. Byggnader på Södermalm.</cmt>
+        <desc>Eriksdalsskolan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Eriksdalsskolan">
+            <text>Eriksdalsskolan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.3075" lon="18.05861111">
+        <name>Södra Årstalundens koloniområde</name>
+        <cmt>Södermalm. Koloniträdgårdar i Stockholm.</cmt>
+        <desc>Södra Årstalundens koloniområde</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södra_Årstalundens_koloniområde">
+            <text>Södra Årstalundens koloniområde</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32077789" lon="18.0644722">
+        <name>Bellmansgatan, Stockholm</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Bellmansgatan, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Bellmansgatan,_Stockholm">
+            <text>Bellmansgatan, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31944444" lon="18.07222222">
+        <name>Slussen (tunnelbanestation)</name>
+        <cmt>Södermalm. Slussen. Järnvägsstationer invigda 1933. Stockholms tunnelbanestationer.</cmt>
+        <desc>Slussen (tunnelbanestation)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Slussen_(tunnelbanestation)">
+            <text>Slussen (tunnelbanestation)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32428056" lon="18.06400278">
+        <name>Västra Gymnasiehuset</name>
+        <cmt>Byggnader på Riddarholmen. Byggnader ritade av Johan Fredrik Åbom.</cmt>
+        <desc>Västra Gymnasiehuset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Västra_Gymnasiehuset">
+            <text>Västra Gymnasiehuset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32527778" lon="18.06619444">
+        <name>Munkbroleden</name>
+        <cmt>Gator och torg i Gamla stan.</cmt>
+        <desc>Munkbroleden</desc>
+        <link href="http://sv.wikipedia.org/wiki/Munkbroleden">
+            <text>Munkbroleden</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.324975" lon="18.07088056">
+        <name>Stortorgsbrunnen</name>
+        <cmt>Gamla stan. Stockholms historia.</cmt>
+        <desc>Stortorgsbrunnen</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stortorgsbrunnen">
+            <text>Stortorgsbrunnen</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32389444" lon="18.06602778">
+        <name>Hebbes bro</name>
+        <cmt>Gamla stan. Riddarholmen. Broar i Stockholm.</cmt>
+        <desc>Hebbes bro</desc>
+        <link href="http://sv.wikipedia.org/wiki/Hebbes_bro">
+            <text>Hebbes bro</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31472222" lon="18.06027778">
+        <name>Brinckan</name>
+        <cmt>Ej längre existerande byggnader på Södermalm. Kvarnar i Stockholms län.</cmt>
+        <desc>Brinckan</desc>
+        <link href="http://sv.wikipedia.org/wiki/Brinckan">
+            <text>Brinckan</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31899444" lon="18.06721667">
+        <name>Stockholms Maria Magdalena distrikt</name>
+        <cmt>Indelningar i Stockholms kommun. Distrikt i Stockholms län.</cmt>
+        <desc>Stockholms Maria Magdalena distrikt</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stockholms_Maria_Magdalena_distrikt">
+            <text>Stockholms Maria Magdalena distrikt</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32338611" lon="18.06947778">
+        <name>Frantzén</name>
+        <cmt>Restauranger i Sverige med stjärnor i Michelinguiden. Företag bildade 2008. Restauranger i Stockholm.</cmt>
+        <desc>Frantzén</desc>
+        <link href="http://sv.wikipedia.org/wiki/Frantzén">
+            <text>Frantzén</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31694444" lon="18.06333333">
+        <name>Mariatorget (tunnelbanestation)</name>
+        <cmt>Södermalm. Järnvägsstationer invigda 1964. Stockholms tunnelbanestationer.</cmt>
+        <desc>Mariatorget (tunnelbanestation)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Mariatorget_(tunnelbanestation)">
+            <text>Mariatorget (tunnelbanestation)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31416702" lon="18.06388855">
+        <name>Stockholms södra station</name>
+        <cmt>Södermalm. Järnvägsstationer invigda 1860. Järnvägsstationer i Stockholms län.</cmt>
+        <desc>Stockholms södra station</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stockholms_södra_station">
+            <text>Stockholms södra station</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32083333" lon="18.07138889">
+        <name>Kolingsborg</name>
+        <cmt>Nedlagda nattklubbar i Stockholm. Ej längre existerande byggnader på Södermalm. Slussen.</cmt>
+        <desc>Kolingsborg</desc>
+        <link href="http://sv.wikipedia.org/wiki/Kolingsborg">
+            <text>Kolingsborg</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31444444" lon="18.07222222">
+        <name>Medborgarhuset, Stockholm</name>
+        <cmt>Kulturhus i Sverige. Byggnader på Södermalm. Klockspel i Sverige. Byggnadsminnen i Stockholms län.</cmt>
+        <desc>Medborgarhuset, Stockholm</desc>
+        <link href="http://sv.wikipedia.org/wiki/Medborgarhuset,_Stockholm">
+            <text>Medborgarhuset, Stockholm</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31547222" lon="18.07096389">
+        <name>Göta Arkhuset</name>
+        <cmt>Pågående byggprojekt i Stockholm. Ej uppdaterad-samtliga. Byggnader på Södermalm. Ej uppdaterad 2013-05.
+        </cmt>
+        <desc>Göta Arkhuset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Göta_Arkhuset">
+            <text>Göta Arkhuset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31416702" lon="18.06388855">
+        <name>Södra stationsområdet</name>
+        <cmt>Södermalm. Järnvägsstationer i Stockholms län.</cmt>
+        <desc>Södra stationsområdet</desc>
+        <link href="http://sv.wikipedia.org/wiki/Södra_stationsområdet">
+            <text>Södra stationsområdet</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32021111" lon="18.06373333">
+        <name>Skolgränd</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Skolgränd</desc>
+        <link href="http://sv.wikipedia.org/wiki/Skolgränd">
+            <text>Skolgränd</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.325" lon="18.07055556">
+        <name>Stortorgets julmarknad</name>
+        <cmt>Återkommande evenemang i november. Gamla stan. Återkommande evenemang med premiär 1915. Återkommande
+            evenemang i december. Kultur och konst i Stockholm. Julmarknader. Jul i Sverige.
+        </cmt>
+        <desc>Stortorgets julmarknad</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stortorgets_julmarknad">
+            <text>Stortorgets julmarknad</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31955556" lon="18.07205556">
+        <name>Peter Myndes backe</name>
+        <cmt>Gator och torg på Södermalm.</cmt>
+        <desc>Peter Myndes backe</desc>
+        <link href="http://sv.wikipedia.org/wiki/Peter_Myndes_backe">
+            <text>Peter Myndes backe</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.31947222" lon="18.06883333">
+        <name>Biograf-Palatset</name>
+        <cmt>Ej längre existerande byggnader på Södermalm. Nedlagda biografer i Stockholm.</cmt>
+        <desc>Biograf-Palatset</desc>
+        <link href="http://sv.wikipedia.org/wiki/Biograf-Palatset">
+            <text>Biograf-Palatset</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32416667" lon="18.07166667">
+        <name>Tyska kyrkans tornur</name>
+        <cmt>Ur. Gamla stan.</cmt>
+        <desc>Tyska kyrkans tornur</desc>
+        <link href="http://sv.wikipedia.org/wiki/Tyska_kyrkans_tornur">
+            <text>Tyska kyrkans tornur</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+    <wpt lat="59.32527778" lon="18.06777778">
+        <name>Stampen (klubb)</name>
+        <cmt>Musikklubbar. Konsertscener i Stockholm. Verksamheter i Gamla stan.</cmt>
+        <desc>Stampen (klubb)</desc>
+        <link href="http://sv.wikipedia.org/wiki/Stampen_(klubb)">
+            <text>Stampen (klubb)</text>
+            <type>Wikipedia</type>
+        </link>
+    </wpt>
+</gpx>
